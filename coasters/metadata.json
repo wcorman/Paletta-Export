@@ -1,0 +1,53 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "coasters",
+  "product_handle": "coasters",
+  "product_name": "Coasters",
+  "product_id": "659a138155ab821f566b9ef3",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Home accessories",
+  "product_type": "Physical",
+  "product_description": "Protect your surfaces in style with our eco-chic coasters, fashioned from repurposed materials. Durable, distinctive, and kind to the planet, they’re not just coasters; they’re conversation starters.",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "659a138155ab821f566b9ef3",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "659a138155ab821f566b9f3e",
+      "Product Handle": "coasters",
+      "Product Name": "Coasters",
+      "Product Type": "Physical",
+      "Product Description": "Protect your surfaces in style with our eco-chic coasters, fashioned from repurposed materials. Durable, distinctive, and kind to the planet, they’re not just coasters; they’re conversation starters.",
+      "Product Categories": "Home accessories",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6594432c1a912c0b9bf1c040_RNI-Films-IMG-5B7A0AC6-321C-4D5D-8900-A387198DDF68%20copy.jpg",
+      "More Variant Images": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6628806b7bff188c2c2fde53_RNI-Films-IMG-D1172FD9-C8E3-4751-B1D1-3B245D34A2C3.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66287e8e6b8c8dd85d8eb3c0_EB5BB2AF-DEB8-48DB-8EB3-17A5602EBCDC%20copy.JPG",
+      "Variant Price": "$8.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Tue Sep 26 2023 10:35:00 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Tue Jun 24 2025 04:28:40 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:28:40 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6594432c1a912c0b9bf1c040_RNI-Films-IMG-5B7A0AC6-321C-4D5D-8900-A387198DDF68%20copy.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6628806b7bff188c2c2fde53_RNI-Films-IMG-D1172FD9-C8E3-4751-B1D1-3B245D34A2C3.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66287e8e6b8c8dd85d8eb3c0_EB5BB2AF-DEB8-48DB-8EB3-17A5602EBCDC%20copy.JPG"
+  ]
+}

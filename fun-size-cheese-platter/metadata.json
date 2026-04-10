@@ -1,0 +1,53 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "fun-size-cheese-platter",
+  "product_handle": "fun-size-cheese-platter",
+  "product_name": "Fun-size cheese platter ",
+  "product_id": "6626c2480ed0dffd19d03306",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Home accessories",
+  "product_type": "Physical",
+  "product_description": "",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "6626c2480ed0dffd19d03306",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "6626c2485888749a7edc1c1b",
+      "Product Handle": "fun-size-cheese-platter",
+      "Product Name": "Fun-size cheese platter ",
+      "Product Type": "Physical",
+      "Product Description": "",
+      "Product Categories": "Home accessories",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6626c211c3dda57f0ba13929_RNI-Films-IMG-EB37E27E-9D9C-4EBF-BD42-C8335F29E368.jpg",
+      "More Variant Images": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/662880429c17cb0770fb8e69_RNI-Films-IMG-A70B0495-F7BF-492F-A382-35F639EFAB23.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66288042184318acec523459_RNI-Films-IMG-E7517325-D66D-41A3-9655-8764F45FD0BC.jpg",
+      "Variant Price": "$20.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Mon Apr 22 2024 20:02:16 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Thu Feb 12 2026 20:31:21 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:11:32 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6626c211c3dda57f0ba13929_RNI-Films-IMG-EB37E27E-9D9C-4EBF-BD42-C8335F29E368.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/662880429c17cb0770fb8e69_RNI-Films-IMG-A70B0495-F7BF-492F-A382-35F639EFAB23.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66288042184318acec523459_RNI-Films-IMG-E7517325-D66D-41A3-9655-8764F45FD0BC.jpg"
+  ]
+}

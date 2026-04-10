@@ -1,0 +1,53 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "mini-pedestal",
+  "product_handle": "mini-pedestal",
+  "product_name": "Mini pedestal ",
+  "product_id": "662881273691330a09fd2592",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Home accessories",
+  "product_type": "Physical",
+  "product_description": "",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "662881273691330a09fd2592",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "66288128c676297d0226d6b9",
+      "Product Handle": "mini-pedestal",
+      "Product Name": "Mini pedestal ",
+      "Product Type": "Physical",
+      "Product Description": "",
+      "Product Categories": "Home accessories",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/662880e441919aefb8f54414_RNI-Films-IMG-165916EA-87D4-4EFF-BE75-E2AFD6DFD448.jpg",
+      "More Variant Images": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66288090662f4e9efe2240bf_RNI-Films-IMG-08656D5D-3C7C-4AF7-88CD-2611CFFF15EE.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/662880eb02683a904024ded4_RNI-Films-IMG-702B9C2B-B828-4868-AC4D-0A80051BD6EE.jpg",
+      "Variant Price": "$20.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Wed Apr 24 2024 03:48:55 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Tue Jun 24 2025 04:03:58 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:11:32 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/662880e441919aefb8f54414_RNI-Films-IMG-165916EA-87D4-4EFF-BE75-E2AFD6DFD448.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66288090662f4e9efe2240bf_RNI-Films-IMG-08656D5D-3C7C-4AF7-88CD-2611CFFF15EE.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/662880eb02683a904024ded4_RNI-Films-IMG-702B9C2B-B828-4868-AC4D-0A80051BD6EE.jpg"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "low-castle-stool",
+  "product_handle": "low-castle-stool",
+  "product_name": "Low Castle Stool ",
+  "product_id": "66071fe80aa79f10c4c09ac0",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Furniture",
+  "product_type": "Physical",
+  "product_description": "Introducing our Castle Stool - a masterpiece of craftsmanship marrying beauty and functionality. Crafted using the exquisite Castle wood joint technique, this stool not only showcases the timeless elegance of wood joinery but also offers versatility as a multifunctional piece, seamlessly transitioning between being a charming stool and a stylish side table. Experience the artistry of woodworking reimagined in the form of our Castle Stool, a testament to both form and function.",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "66071fe80aa79f10c4c09ac0",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "66071fe86d848878afa0f465",
+      "Product Handle": "low-castle-stool",
+      "Product Name": "Low Castle Stool ",
+      "Product Type": "Physical",
+      "Product Description": "Introducing our Castle Stool - a masterpiece of craftsmanship marrying beauty and functionality. Crafted using the exquisite Castle wood joint technique, this stool not only showcases the timeless elegance of wood joinery but also offers versatility as a multifunctional piece, seamlessly transitioning between being a charming stool and a stylish side table. Experience the artistry of woodworking reimagined in the form of our Castle Stool, a testament to both form and function.",
+      "Product Categories": "Furniture",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071f8ff1262152fc8511f4_Castle%20stool%20resized.jpg",
+      "More Variant Images": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071fac32c9fe458a77ade5_Castle%20stool%20resized%202%20.jpg",
+      "Variant Price": "$100.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Fri Mar 29 2024 20:09:12 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Tue Jun 24 2025 04:03:58 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:11:32 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071f8ff1262152fc8511f4_Castle%20stool%20resized.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071fac32c9fe458a77ade5_Castle%20stool%20resized%202%20.jpg"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "dinning-table-with-stools",
+  "product_handle": "dinning-table-with-stools",
+  "product_name": "Dinning table with stools ",
+  "product_id": "6626c4c2418a68874109045a",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Furniture",
+  "product_type": "Physical",
+  "product_description": "",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "6626c4c2418a68874109045a",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "6626c4c3ed4e5d9678012a6f",
+      "Product Handle": "dinning-table-with-stools",
+      "Product Name": "Dinning table with stools ",
+      "Product Type": "Physical",
+      "Product Description": "",
+      "Product Categories": "Furniture",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6626c4a4095db9d02b1b16a2_lowchairs.jpg",
+      "More Variant Images": "",
+      "Variant Price": "$500.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Mon Apr 22 2024 20:12:50 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Tue Jun 24 2025 04:03:58 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:11:32 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6626c4a4095db9d02b1b16a2_lowchairs.jpg"
+  ]
+}

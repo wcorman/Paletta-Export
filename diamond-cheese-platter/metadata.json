@@ -1,0 +1,53 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "diamond-cheese-platter",
+  "product_handle": "diamond-cheese-platter",
+  "product_name": "Diamond Cheese Platter ",
+  "product_id": "66071b47f71ebd37fbe9aea6",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Home accessories",
+  "product_type": "Physical",
+  "product_description": "Uniquely designed servicing board. ",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "66071b47f71ebd37fbe9aea6",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "66071b4813be621cdecd4c02",
+      "Product Handle": "diamond-cheese-platter",
+      "Product Name": "Diamond Cheese Platter ",
+      "Product Type": "Physical",
+      "Product Description": "Uniquely designed servicing board. ",
+      "Product Categories": "Home accessories",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071af97f80d6aceb8f61ed_RNI-Films-IMG-FCFC0CB1-C297-4CB8-A952-27BC708CD4A4.jpg",
+      "More Variant Images": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071b004fa9199689595e34_RNI-Films-IMG-6EDE9F10-1319-4ACC-9AC8-BCB1F7060E64.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071b0c46c2af92962b2996_RNI-Films-IMG-FD3252C8-8E13-4EC4-BACF-9D8C2797E9E4.JPG",
+      "Variant Price": "$32.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Fri Mar 29 2024 19:49:27 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Tue Jun 24 2025 04:03:58 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:11:32 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071af97f80d6aceb8f61ed_RNI-Films-IMG-FCFC0CB1-C297-4CB8-A952-27BC708CD4A4.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071b004fa9199689595e34_RNI-Films-IMG-6EDE9F10-1319-4ACC-9AC8-BCB1F7060E64.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66071b0c46c2af92962b2996_RNI-Films-IMG-FD3252C8-8E13-4EC4-BACF-9D8C2797E9E4.JPG"
+  ]
+}

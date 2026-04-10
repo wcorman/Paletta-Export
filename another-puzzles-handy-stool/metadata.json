@@ -1,0 +1,52 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "another-puzzles-handy-stool",
+  "product_handle": "another-puzzles-handy-stool",
+  "product_name": "Another Puzzles Handy Stool",
+  "product_id": "67ed9f527c9067959f655035",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Furniture",
+  "product_type": "Physical",
+  "product_description": "",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "67ed9f527c9067959f655035",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "67ed9f5397cbe3f8e7525dda",
+      "Product Handle": "another-puzzles-handy-stool",
+      "Product Name": "Another Puzzles Handy Stool",
+      "Product Type": "Physical",
+      "Product Description": "",
+      "Product Categories": "Furniture",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/67ed9f2f3b940493514860cb_IMG_2477.jpg",
+      "More Variant Images": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/67ed9f32c50cfb42a8cacd29_IMG_2478.jpg",
+      "Variant Price": "$150.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Wed Apr 02 2025 20:34:26 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Tue Jun 24 2025 04:03:23 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:03:23 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/67ed9f2f3b940493514860cb_IMG_2477.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/67ed9f32c50cfb42a8cacd29_IMG_2478.jpg"
+  ]
+}

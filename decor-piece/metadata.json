@@ -1,0 +1,51 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "decor-piece",
+  "product_handle": "decor-piece",
+  "product_name": "Triangular Trio ",
+  "product_id": "659a138155ab821f566b9f25",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Home accessories",
+  "product_type": "Physical",
+  "product_description": "Introducing our Triangular Trio - a captivating family of vases designed with sleek triangular forms. Embracing the dynamic symbolism of the triangle, known for its inherent energy and symbolic representations of strength and stability, each vase in this collection exudes a powerful presence. Elevate your space with the harmonious blend of modern design and profound symbolism embodied in our Triangular Trio vases.",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "659a138155ab821f566b9f25",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "659a138155ab821f566b9f40",
+      "Product Handle": "decor-piece",
+      "Product Name": "Triangular Trio ",
+      "Product Type": "Physical",
+      "Product Description": "Introducing our Triangular Trio - a captivating family of vases designed with sleek triangular forms. Embracing the dynamic symbolism of the triangle, known for its inherent energy and symbolic representations of strength and stability, each vase in this collection exudes a powerful presence. Elevate your space with the harmonious blend of modern design and profound symbolism embodied in our Triangular Trio vases.",
+      "Product Categories": "Home accessories",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65944834c20d5b20ba6d8393_CEA5E5BE-2BF0-4277-9AE9-99EB0343C2D7%20(1).jpg",
+      "More Variant Images": "",
+      "Variant Price": "$40.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Tue Sep 26 2023 10:43:04 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Tue Jun 24 2025 04:03:58 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:11:32 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65944834c20d5b20ba6d8393_CEA5E5BE-2BF0-4277-9AE9-99EB0343C2D7%20(1).jpg"
+  ]
+}

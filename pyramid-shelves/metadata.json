@@ -1,0 +1,52 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "pyramid-shelves",
+  "product_handle": "pyramid-shelves",
+  "product_name": "Pyramid shelves. ",
+  "product_id": "6628818e12eb8af18d07b809",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Home accessories",
+  "product_type": "Physical",
+  "product_description": "",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "6628818e12eb8af18d07b809",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "6628818f7bff188c2c310ab9",
+      "Product Handle": "pyramid-shelves",
+      "Product Name": "Pyramid shelves. ",
+      "Product Type": "Physical",
+      "Product Description": "",
+      "Product Categories": "Home accessories",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66288150708907757667c8d4_RNI-Films-IMG-6189EA04-BE09-4E3C-9BF1-E70EA59223F4.jpg",
+      "More Variant Images": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6628816083a46363e5ddbcdb_RNI-Films-IMG-E3FDD7A8-C79A-4C8F-A2F3-FFE0B2398B97.jpg",
+      "Variant Price": "$30.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Wed Apr 24 2024 03:50:38 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Tue Jun 24 2025 04:03:58 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:11:32 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66288150708907757667c8d4_RNI-Films-IMG-6189EA04-BE09-4E3C-9BF1-E70EA59223F4.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6628816083a46363e5ddbcdb_RNI-Films-IMG-E3FDD7A8-C79A-4C8F-A2F3-FFE0B2398B97.jpg"
+  ]
+}

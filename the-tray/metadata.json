@@ -1,0 +1,52 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "the-tray",
+  "product_handle": "the-tray",
+  "product_name": "The tray ",
+  "product_id": "6626c1dd257359c58b5ef8fa",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Home accessories",
+  "product_type": "Physical",
+  "product_description": "",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "6626c1dd257359c58b5ef8fa",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "6626c1dd044b111518c0e1b1",
+      "Product Handle": "the-tray",
+      "Product Name": "The tray ",
+      "Product Type": "Physical",
+      "Product Description": "",
+      "Product Categories": "Home accessories",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6626c1b9022156e1ccbd2cc5_RNI-Films-IMG-24E43D84-3F80-40F6-85E5-67FEED2B16BD.jpg",
+      "More Variant Images": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6626c1bf3eb451b893a437a1_RNI-Films-IMG-2DA21BD1-9592-4A0F-819B-24D3CA093E3F.jpg",
+      "Variant Price": "$30.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Mon Apr 22 2024 20:00:29 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Thu Feb 12 2026 20:30:34 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Thu Feb 12 2026 20:31:07 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6626c1b9022156e1ccbd2cc5_RNI-Films-IMG-24E43D84-3F80-40F6-85E5-67FEED2B16BD.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6626c1bf3eb451b893a437a1_RNI-Films-IMG-2DA21BD1-9592-4A0F-819B-24D3CA093E3F.jpg"
+  ]
+}

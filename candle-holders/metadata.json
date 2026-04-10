@@ -1,0 +1,51 @@
+{
+  "source_csv": "Paletta_-_Products---2484f5f1-cf09-405a-a014-e8fde69413c6.csv",
+  "folder": "candle-holders",
+  "product_handle": "candle-holders",
+  "product_name": "Candle Holders",
+  "product_id": "659a138155ab821f566b9f09",
+  "product_collection_id": "659a138155ab821f566b9e6e",
+  "product_categories": "Home accessories",
+  "product_type": "Physical",
+  "product_description": "Illuminate your evenings with our candle holders, expertly crafted from reclaimed wood. Each piece, unique in its pattern and grain, casts a warm glow while telling a story of reclamation and beauty.",
+  "variant_count": 1,
+  "variants": [
+    {
+      "Products Collection ID": "659a138155ab821f566b9e6e",
+      "Product ID": "659a138155ab821f566b9f09",
+      "Variants Collection ID": "659a138155ab821f566b9e6d",
+      "Variant ID": "659a138155ab821f566b9f3f",
+      "Product Handle": "candle-holders",
+      "Product Name": "Candle Holders",
+      "Product Type": "Physical",
+      "Product Description": "Illuminate your evenings with our candle holders, expertly crafted from reclaimed wood. Each piece, unique in its pattern and grain, casts a warm glow while telling a story of reclamation and beauty.",
+      "Product Categories": "Home accessories",
+      "Main Variant Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/659443981adeaa4a94e534ff_RNI-Films-IMG-4A2EE939-4C07-4547-94A7-7C7250E4B038.jpg",
+      "More Variant Images": "",
+      "Variant Price": "$8.00",
+      "Variant Compare-at Price": "",
+      "Product Tax Class": "standard-taxable",
+      "Variant Sku": "",
+      "Variant Inventory": "",
+      "Requires Shipping": "true",
+      "Variant Weight": "",
+      "Variant Width": "",
+      "Variant Height": "",
+      "Variant Length": "",
+      "Variant Download Name": "",
+      "Variant Download URL": "",
+      "Option1 Name": "",
+      "Option1 Value": "",
+      "Option2 Name": "",
+      "Option2 Value": "",
+      "Option3 Name": "",
+      "Option3 Value": "",
+      "Created On": "Tue Sep 26 2023 10:36:07 GMT+0000 (Coordinated Universal Time)",
+      "Updated On": "Tue Jun 24 2025 04:03:58 GMT+0000 (Coordinated Universal Time)",
+      "Published On": "Tue Jun 24 2025 04:11:32 GMT+0000 (Coordinated Universal Time)"
+    }
+  ],
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/659443981adeaa4a94e534ff_RNI-Films-IMG-4A2EE939-4C07-4547-94A7-7C7250E4B038.jpg"
+  ]
+}
