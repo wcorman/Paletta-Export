@@ -837,5 +837,3305 @@
     "product_count": 31,
     "unique_image_urls": 115,
     "download_root": "/root/.openclaw/workspace/paletta-product-images"
-  }
+  },
+  "collections": [
+    {
+      "collection": "portfolio-dances",
+      "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---ae01b439-e60c-47d8-9027-daf7a1f4bbca.csv",
+      "items": [
+        {
+          "slug": "choreography-by-lindsay-harpham",
+          "name": "Choreography by Lindsay Harpham",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48e439a5e22222e5e7029_Screenshot%202024-01-14%20at%207.43.00%20PM.png",
+              "file": "collections/portfolio-dances/choreography-by-lindsay-harpham/65a48e439a5e22222e5e7029_Screenshot 2024-01-14 at 7.43.00 PM.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "currents",
+          "name": "Currents",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6879699c986ae43de731a5e2_RNI-Films-IMG-3D281C8A-0F37-4AEB-A12E-2510139598C5_11zon.jpg",
+              "file": "collections/portfolio-dances/currents/6879699c986ae43de731a5e2_RNI-Films-IMG-3D281C8A-0F37-4AEB-A12E-2510139598C5_11zon.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "deaths-of-grief",
+          "name": "Depths of Grief",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48d3b9f6d3c6f7eaee011_Screenshot%202024-01-14%20at%207.40.06%20PM.png",
+              "file": "collections/portfolio-dances/deaths-of-grief/65a48d3b9f6d3c6f7eaee011_Screenshot 2024-01-14 at 7.40.06 PM.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "in-the-desert",
+          "name": "Excerpts from \"In The Desert\"",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/68796e92900a1780a312c2e9_RNI-Films-IMG-A9122672-5EE3-4506-8B5C-CD8BB3D732A5_11zon.jpg",
+              "file": "collections/portfolio-dances/in-the-desert/68796e92900a1780a312c2e9_RNI-Films-IMG-A9122672-5EE3-4506-8B5C-CD8BB3D732A5_11zon.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "excerpts-from-meaning-of-words-by-graham-mckelvie",
+          "name": "Excerpts from \"Meaning Of Words\" by Graham Mckelvie",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/68885479dd98b0e26b0567d0_IMG_5973.jpg",
+              "file": "collections/portfolio-dances/excerpts-from-meaning-of-words-by-graham-mckelvie/68885479dd98b0e26b0567d0_IMG_5973.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "ongoing",
+          "name": "Excerpts from \"Ongoing\"",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65a48b11736b28bebad3b93b_Screenshot%202024-01-14%20at%207.30.40%20PM.png",
+              "file": "collections/portfolio-dances/ongoing/65a48b11736b28bebad3b93b_Screenshot 2024-01-14 at 7.30.40 PM.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "excerpts-from-patterns",
+          "name": "Excerpts from \"Patterns\"",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6647c52eaac36401550524da_IMG_7546%20(1).jpg",
+              "file": "collections/portfolio-dances/excerpts-from-patterns/6647c52eaac36401550524da_IMG_7546 (1).jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "the-journey",
+          "name": "Excerpts from \"The Journey\"",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/687bec5c1e681eeefff08879_Screenshot%202025-07-17%20at%203.33.44%20PM_11zon.jpg",
+              "file": "collections/portfolio-dances/the-journey/687bec5c1e681eeefff08879_Screenshot 2025-07-17 at 3.33.44 PM_11zon.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "excerpts-from-the-journey-on-canvas",
+          "name": "Excerpts from \"The Journey\" on canvas",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/687f1218047c37afcedfded2_IMG_6261.png",
+              "file": "collections/portfolio-dances/excerpts-from-the-journey-on-canvas/687f1218047c37afcedfded2_IMG_6261.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "improv-with-history",
+          "name": "Improv with history",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/683f56c363743bf224abaf04_RNI-Films-IMG-EF1531E8-8A1C-47A2-BDD4-3874BB54B413.jpeg",
+              "file": "collections/portfolio-dances/improv-with-history/683f56c363743bf224abaf04_RNI-Films-IMG-EF1531E8-8A1C-47A2-BDD4-3874BB54B413.jpeg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "lost-in-the-rhythm-of-the-woods",
+          "name": "Lost In The Rhythm Of The Woods.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6674cc3bb1e00ecc1cd405fe_IMG_9955.jpg",
+              "file": "collections/portfolio-dances/lost-in-the-rhythm-of-the-woods/6674cc3bb1e00ecc1cd405fe_IMG_9955.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "pumphouse-improvisation",
+          "name": "Pumphouse improvisation",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66366f6e10e6a69746c53107_IMG_69866.jpg",
+              "file": "collections/portfolio-dances/pumphouse-improvisation/66366f6e10e6a69746c53107_IMG_69866.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "somatic-flow",
+          "name": "Somatic Flow",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48ea3e9466c32bd09a7f4_Screenshot%202024-01-14%20at%207.46.30%20PM.png",
+              "file": "collections/portfolio-dances/somatic-flow/65a48ea3e9466c32bd09a7f4_Screenshot 2024-01-14 at 7.46.30 PM.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "somatic-movement-improvisation",
+          "name": "Somatic Movement Improvisation",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48b89736b28bebad3f8ac_Screenshot%202024-01-14%20at%207.33.20%20PM.png",
+              "file": "collections/portfolio-dances/somatic-movement-improvisation/65a48b89736b28bebad3f8ac_Screenshot 2024-01-14 at 7.33.20 PM.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "sunset-dance",
+          "name": "Sunset dance",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66366f7d4323f7fa7b8d77f0_IMG_69855.jpg",
+              "file": "collections/portfolio-dances/sunset-dance/66366f7d4323f7fa7b8d77f0_IMG_69855.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "teacher-feature-at-aspire-dance-school",
+          "name": "Teacher Feature at Aspire Dance School",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/68c326ac700c8e0978c507b8_IMG_8600.PNG",
+              "file": "collections/portfolio-dances/teacher-feature-at-aspire-dance-school/68c326ac700c8e0978c507b8_IMG_8600.PNG",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "trauma-vs-obstacles",
+          "name": "Trauma vs Obstacles",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661223094a4a7f0e1c7ee352_Screenshot%202024-04-06%20at%209.32.12%20PM.png",
+              "file": "collections/portfolio-dances/trauma-vs-obstacles/661223094a4a7f0e1c7ee352_Screenshot 2024-04-06 at 9.32.12 PM.png",
+              "status": "existing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "portfolio-furniture-designs",
+      "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---6b5d9c0d-f67a-445b-907f-466f80710da0.csv",
+      "items": [
+        {
+          "slug": "bathroom-cabinet",
+          "name": "Bathroom cabinet.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc04705118385dbaa7ac_RNI-Films-IMG-FADA5962-62DF-46BC-B25E-482A1909E893.jpg",
+              "file": "collections/portfolio-furniture-designs/bathroom-cabinet/6622cc04705118385dbaa7ac_RNI-Films-IMG-FADA5962-62DF-46BC-B25E-482A1909E893.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "bedroom-design",
+          "name": "Bedroom design.",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c52d05e5a26edabce1ac_RNI-Films-IMG-B0CFA73E-B522-4E7B-B660-E57EA21977B6.jpg",
+              "file": "collections/portfolio-furniture-designs/bedroom-design/6622c52d05e5a26edabce1ac_RNI-Films-IMG-B0CFA73E-B522-4E7B-B660-E57EA21977B6.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629d842c96d3df854dd1bf1_RNI-Films-IMG-4A5DD85B-8920-4827-A2B7-D7DD1CFE589E.jpg",
+              "file": "collections/portfolio-furniture-designs/bedroom-design/6629d842c96d3df854dd1bf1_RNI-Films-IMG-4A5DD85B-8920-4827-A2B7-D7DD1CFE589E.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c5368dc4513c1fbfcc95_RNI-Films-IMG-2934ED9E-8390-4141-96EE-45E60BF3B477.jpg",
+              "file": "collections/portfolio-furniture-designs/bedroom-design/6622c5368dc4513c1fbfcc95_RNI-Films-IMG-2934ED9E-8390-4141-96EE-45E60BF3B477.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c5362b62db0a82b29616_RNI-Films-IMG-DDF5F115-0581-4398-BA33-12BFAE8824D7.jpg",
+              "file": "collections/portfolio-furniture-designs/bedroom-design/6622c5362b62db0a82b29616_RNI-Films-IMG-DDF5F115-0581-4398-BA33-12BFAE8824D7.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "connected-cabinets",
+          "name": "Connected cabinets.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c4330f63f8a368caf251_IMG_0503.jpg",
+              "file": "collections/portfolio-furniture-designs/connected-cabinets/6622c4330f63f8a368caf251_IMG_0503.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "dinning-table-and-buffet-design",
+          "name": "Dinning table and buffet design.",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad9c5a581a4675f15a82_f44e39ac-39c9-415f-9051-1c67b4d6f84e.JPG",
+              "file": "collections/portfolio-furniture-designs/dinning-table-and-buffet-design/661dad9c5a581a4675f15a82_f44e39ac-39c9-415f-9051-1c67b4d6f84e.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dada85a581a4675f167a9_3dcdfc83-43a6-4561-b2e8-5ed074046796.JPG",
+              "file": "collections/portfolio-furniture-designs/dinning-table-and-buffet-design/661dada85a581a4675f167a9_3dcdfc83-43a6-4561-b2e8-5ed074046796.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dada7469a2dd1cf089dd4_c67d55f5-770e-405d-9068-71bdc516e142.JPG",
+              "file": "collections/portfolio-furniture-designs/dinning-table-and-buffet-design/661dada7469a2dd1cf089dd4_c67d55f5-770e-405d-9068-71bdc516e142.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dada7098089b748f5df9d_f625b712-1a71-4874-95af-fd7d1119f96d.JPG",
+              "file": "collections/portfolio-furniture-designs/dinning-table-and-buffet-design/661dada7098089b748f5df9d_f625b712-1a71-4874-95af-fd7d1119f96d.JPG",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "dinning-table-low-stools-and-bench",
+          "name": "Dinning table, low stools and bench.",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c042aad3e41a97a95194_RNI-Films-IMG-B547CEA2-90A5-4EA7-B3EA-42CF04BD35A5.jpg",
+              "file": "collections/portfolio-furniture-designs/dinning-table-low-stools-and-bench/6622c042aad3e41a97a95194_RNI-Films-IMG-B547CEA2-90A5-4EA7-B3EA-42CF04BD35A5.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab19595ad0353ab62625_RNI-Films-IMG-AA86BD58-6D60-4B11-8863-E231F2742393.jpg",
+              "file": "collections/portfolio-furniture-designs/dinning-table-low-stools-and-bench/661dab19595ad0353ab62625_RNI-Films-IMG-AA86BD58-6D60-4B11-8863-E231F2742393.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "dinning-table",
+          "name": "Dinning table.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c4c18dc4513c1fbf72ca_RNI-Films-IMG-182E10E6-D10C-4CD6-9129-4FC1C09F1534.jpg",
+              "file": "collections/portfolio-furniture-designs/dinning-table/6622c4c18dc4513c1fbf72ca_RNI-Films-IMG-182E10E6-D10C-4CD6-9129-4FC1C09F1534.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "divider",
+          "name": "Divider.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dacc2fdad9b21e79b6e0f_b1d70982-db19-49ea-8d43-b0d841f3a5b7.jpg",
+              "file": "collections/portfolio-furniture-designs/divider/661dacc2fdad9b21e79b6e0f_b1d70982-db19-49ea-8d43-b0d841f3a5b7.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "door-design",
+          "name": "Door Design.",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c4eb3045d3a34f336d2d_RNI-Films-IMG-48304425-5882-4541-A420-45AA9F9AFE7A.jpg",
+              "file": "collections/portfolio-furniture-designs/door-design/6622c4eb3045d3a34f336d2d_RNI-Films-IMG-48304425-5882-4541-A420-45AA9F9AFE7A.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662ac49b12fa7c031969d395_fb2e4e3e-d8f8-4ec0-b239-330896e4b67d%20copy.JPG",
+              "file": "collections/portfolio-furniture-designs/door-design/662ac49b12fa7c031969d395_fb2e4e3e-d8f8-4ec0-b239-330896e4b67d copy.JPG",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "entrance-furniture",
+          "name": "Entrance furniture.",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c092189b6cc20f1d68ee_RNI-Films-IMG-9323DF42-3B04-4D96-8AB6-1177D33BC133.jpg",
+              "file": "collections/portfolio-furniture-designs/entrance-furniture/6622c092189b6cc20f1d68ee_RNI-Films-IMG-9323DF42-3B04-4D96-8AB6-1177D33BC133.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0ac635229452e69ff27_9E480F71-E092-4D85-9F94-16E17420E11B.jpg",
+              "file": "collections/portfolio-furniture-designs/entrance-furniture/6622c0ac635229452e69ff27_9E480F71-E092-4D85-9F94-16E17420E11B.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0ac5529339da0454f52_RNI-Films-IMG-86D6C604-8D01-4609-8F5C-F134C9C80004.jpg",
+              "file": "collections/portfolio-furniture-designs/entrance-furniture/6622c0ac5529339da0454f52_RNI-Films-IMG-86D6C604-8D01-4609-8F5C-F134C9C80004.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0ab954348eacfd6dd5d_RNI-Films-IMG-369CF7C3-753C-4DD8-93CC-06CF0A276819.jpg",
+              "file": "collections/portfolio-furniture-designs/entrance-furniture/6622c0ab954348eacfd6dd5d_RNI-Films-IMG-369CF7C3-753C-4DD8-93CC-06CF0A276819.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "full-length-mirror",
+          "name": "Full length Mirror.",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad3c3140666489a4fdae_8f8c7feb-e106-4b76-829f-dfc6c2d654ce.JPG",
+              "file": "collections/portfolio-furniture-designs/full-length-mirror/661dad3c3140666489a4fdae_8f8c7feb-e106-4b76-829f-dfc6c2d654ce.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad5245dbdbdd2e11cbc8_PHOTO-2021-02-18-03-39-21.jpg",
+              "file": "collections/portfolio-furniture-designs/full-length-mirror/661dad5245dbdbdd2e11cbc8_PHOTO-2021-02-18-03-39-21.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "office-mirrors",
+          "name": "Office Mirrors",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dac4337c2a9f2388c7e58_IMG_6546.jpg",
+              "file": "collections/portfolio-furniture-designs/office-mirrors/661dac4337c2a9f2388c7e58_IMG_6546.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "ratan-buffet",
+          "name": "Ratan buffet.",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f007a4417ee75dfc3d_RNI-Films-IMG-5E54163F-7D33-4AD4-B28A-76EE78CA0836.jpg",
+              "file": "collections/portfolio-furniture-designs/ratan-buffet/6622c0f007a4417ee75dfc3d_RNI-Films-IMG-5E54163F-7D33-4AD4-B28A-76EE78CA0836.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0d830331ef65b9d7bb0_RNI-Films-IMG-05D73084-B27F-465E-BF17-4BF82F45DD0B.jpg",
+              "file": "collections/portfolio-furniture-designs/ratan-buffet/6622c0d830331ef65b9d7bb0_RNI-Films-IMG-05D73084-B27F-465E-BF17-4BF82F45DD0B.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f0c49d55a829bdbca7_RNI-Films-IMG-89B2F266-DEC8-48C3-B2EF-7FAB429F8CAE.jpg",
+              "file": "collections/portfolio-furniture-designs/ratan-buffet/6622c0f0c49d55a829bdbca7_RNI-Films-IMG-89B2F266-DEC8-48C3-B2EF-7FAB429F8CAE.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f0a51b2e999c2668b4_RNI-Films-IMG-C1E9B485-1AC4-4076-BDAC-3177B73EB74D.jpg",
+              "file": "collections/portfolio-furniture-designs/ratan-buffet/6622c0f0a51b2e999c2668b4_RNI-Films-IMG-C1E9B485-1AC4-4076-BDAC-3177B73EB74D.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "ratan-side-table",
+          "name": "Ratan side table",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dacfe84ea745a46aa33b8_IMG_6543.jpg",
+              "file": "collections/portfolio-furniture-designs/ratan-side-table/661dacfe84ea745a46aa33b8_IMG_6543.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "side-table-4",
+          "name": "Side table",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cf555cd82ddd912a58dc_RNI-Films-IMG-70953D02-D2D5-4EBC-90D7-6F9719E04147%202.jpg",
+              "file": "collections/portfolio-furniture-designs/side-table-4/6622cf555cd82ddd912a58dc_RNI-Films-IMG-70953D02-D2D5-4EBC-90D7-6F9719E04147 2.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629d79b43e9e1b0644b9b20_RNI-Films-IMG-2FD9C3CF-CB7A-4395-9BE3-C7C360FD29EF%20(1).jpg",
+              "file": "collections/portfolio-furniture-designs/side-table-4/6629d79b43e9e1b0644b9b20_RNI-Films-IMG-2FD9C3CF-CB7A-4395-9BE3-C7C360FD29EF (1).jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629d79b7ef7674338f69a34_RNI-Films-IMG-C1AC41D8-382A-4A85-AD97-FB72AF9CD6A1%20(1).jpg",
+              "file": "collections/portfolio-furniture-designs/side-table-4/6629d79b7ef7674338f69a34_RNI-Films-IMG-C1AC41D8-382A-4A85-AD97-FB72AF9CD6A1 (1).jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "side-table-3",
+          "name": "Side table",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bfe875a845c8a0839585_IMG_5051.jpg",
+              "file": "collections/portfolio-furniture-designs/side-table-3/6622bfe875a845c8a0839585_IMG_5051.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c01a99a7f19d764c16fc_RNI-Films-IMG-78630360-259F-4B30-B085-704803DB505F.jpg",
+              "file": "collections/portfolio-furniture-designs/side-table-3/6622c01a99a7f19d764c16fc_RNI-Films-IMG-78630360-259F-4B30-B085-704803DB505F.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "side-table-2",
+          "name": "Side table.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bfbb897d1d628ccfcea6_IMG_4876.jpg",
+              "file": "collections/portfolio-furniture-designs/side-table-2/6622bfbb897d1d628ccfcea6_IMG_4876.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "side-table",
+          "name": "Side table.",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dac8f7298b65acfc7d183_IMG_6544.jpg",
+              "file": "collections/portfolio-furniture-designs/side-table/661dac8f7298b65acfc7d183_IMG_6544.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dac93ab489e3686e134d2_IMG_6545.jpg",
+              "file": "collections/portfolio-furniture-designs/side-table/661dac93ab489e3686e134d2_IMG_6545.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "tv-unit",
+          "name": "Tv unit and coffee table.",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662ac52812fa7c03196a8ea2_RNI-Films-IMG-3BB4E99B-117B-4A18-BADC-CAB401F81826%20(1).jpg",
+              "file": "collections/portfolio-furniture-designs/tv-unit/662ac52812fa7c03196a8ea2_RNI-Films-IMG-3BB4E99B-117B-4A18-BADC-CAB401F81826 (1).jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662ac538e2b655a9a3300d3b_RNI-Films-IMG-53DE0196-8DF1-4427-A0FA-9EC5D03C9D3E.jpg",
+              "file": "collections/portfolio-furniture-designs/tv-unit/662ac538e2b655a9a3300d3b_RNI-Films-IMG-53DE0196-8DF1-4427-A0FA-9EC5D03C9D3E.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "tv-unit-dresser",
+          "name": "Tv unit/dresser",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daddc469a2dd1cf08e578_07211e87-a914-4291-ba98-b1f91cc41e41.JPG",
+              "file": "collections/portfolio-furniture-designs/tv-unit-dresser/661daddc469a2dd1cf08e578_07211e87-a914-4291-ba98-b1f91cc41e41.JPG",
+              "status": "existing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "portfolio-graphic-designs",
+      "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---eca8eb84-381c-4334-b0fa-048eb7fa8d9f.csv",
+      "items": [
+        {
+          "slug": "afro",
+          "name": "Afro.",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66295f6e5521e361edd2dd9a_patterns-02.png",
+              "file": "collections/portfolio-graphic-designs/afro/66295f6e5521e361edd2dd9a_patterns-02.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66295f747afc920ae4f4ddf3_patterns-01.png",
+              "file": "collections/portfolio-graphic-designs/afro/66295f747afc920ae4f4ddf3_patterns-01.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "beer-stella",
+          "name": "Beer Stella",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626be955177e6c4291c8ec9_beer%20(1).png",
+              "file": "collections/portfolio-graphic-designs/beer-stella/6626be955177e6c4291c8ec9_beer (1).png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bf6abb54e790aa682a7b_Screenshot%202024-04-22%20at%201.49.44%20PM.png",
+              "file": "collections/portfolio-graphic-designs/beer-stella/6626bf6abb54e790aa682a7b_Screenshot 2024-04-22 at 1.49.44 PM.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bf6beef0f782c4edbe0c_Screenshot%202024-04-22%20at%201.49.32%20PM.png",
+              "file": "collections/portfolio-graphic-designs/beer-stella/6626bf6beef0f782c4edbe0c_Screenshot 2024-04-22 at 1.49.32 PM.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "black-lives-matter",
+          "name": "Black Lives Matter",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e435fe24fe507aa13d43_black-02.png",
+              "file": "collections/portfolio-graphic-designs/black-lives-matter/6619e435fe24fe507aa13d43_black-02.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e43ba636da6c776b2ee9_black-03.png",
+              "file": "collections/portfolio-graphic-designs/black-lives-matter/6619e43ba636da6c776b2ee9_black-03.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e1ea958afbe4557566ea_black-04.png",
+              "file": "collections/portfolio-graphic-designs/black-lives-matter/6619e1ea958afbe4557566ea_black-04.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "corona-time",
+          "name": "Corona time",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e13b5c8baff8acea446e_exploration-02.png",
+              "file": "collections/portfolio-graphic-designs/corona-time/6619e13b5c8baff8acea446e_exploration-02.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6625c1fd7621415f1c6e7330_corona%20-04.png",
+              "file": "collections/portfolio-graphic-designs/corona-time/6625c1fd7621415f1c6e7330_corona -04.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6625c1fcadbc9812de104940_corona%20-05.png",
+              "file": "collections/portfolio-graphic-designs/corona-time/6625c1fcadbc9812de104940_corona -05.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "deli-mart",
+          "name": "Deli Mart",
+          "count": 6,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810bb15a8106a1d79a4dc_DeliMart-06.png",
+              "file": "collections/portfolio-graphic-designs/deli-mart/65c810bb15a8106a1d79a4dc_DeliMart-06.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d18e01ed41a95ff0ce_DeliMart-02.png",
+              "file": "collections/portfolio-graphic-designs/deli-mart/65c810d18e01ed41a95ff0ce_DeliMart-02.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d1b261868f42937600_DeliMart-03.png",
+              "file": "collections/portfolio-graphic-designs/deli-mart/65c810d1b261868f42937600_DeliMart-03.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d10088cc69f091413d_DeliMart-04.png",
+              "file": "collections/portfolio-graphic-designs/deli-mart/65c810d10088cc69f091413d_DeliMart-04.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d183ef5f127575af1c_DeliMart-05.png",
+              "file": "collections/portfolio-graphic-designs/deli-mart/65c810d183ef5f127575af1c_DeliMart-05.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d162bec0a5a0cb2bff_DeliMart-07.png",
+              "file": "collections/portfolio-graphic-designs/deli-mart/65c810d162bec0a5a0cb2bff_DeliMart-07.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "ducky-duck",
+          "name": "Ducky duck",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bff026f288cf5cf101c1_DUCKk-01.png",
+              "file": "collections/portfolio-graphic-designs/ducky-duck/6626bff026f288cf5cf101c1_DUCKk-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bff8e1c76b35faa756f1_IMG_6574.jpg",
+              "file": "collections/portfolio-graphic-designs/ducky-duck/6626bff8e1c76b35faa756f1_IMG_6574.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bff8eef0f782c4ee55c1_IMG_6575.jpg",
+              "file": "collections/portfolio-graphic-designs/ducky-duck/6626bff8eef0f782c4ee55c1_IMG_6575.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "egyptian-goddess",
+          "name": "Egyptian goddess.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66295eda5b1bbd5d3ef652e5_fr3on-01.png",
+              "file": "collections/portfolio-graphic-designs/egyptian-goddess/66295eda5b1bbd5d3ef652e5_fr3on-01.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "figures",
+          "name": "Figures",
+          "count": 5,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a4ae1fea992551ef658bb2_Screenshot%202024-01-14%20at%2010.01.06%20PM.png",
+              "file": "collections/portfolio-graphic-designs/figures/65a4ae1fea992551ef658bb2_Screenshot 2024-01-14 at 10.01.06 PM.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c8110d7df8e86efac5c401_figuresss-01.png",
+              "file": "collections/portfolio-graphic-designs/figures/65c8110d7df8e86efac5c401_figuresss-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c8110e7393895d5ff51999_figuresss-02.png",
+              "file": "collections/portfolio-graphic-designs/figures/65c8110e7393895d5ff51999_figuresss-02.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619dd9fc2b0755aacac4369_figures.jpg",
+              "file": "collections/portfolio-graphic-designs/figures/6619dd9fc2b0755aacac4369_figures.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619dd9e8654f7deae8dbecf_figures1.jpg",
+              "file": "collections/portfolio-graphic-designs/figures/6619dd9e8654f7deae8dbecf_figures1.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "flourish",
+          "name": "Flourish",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628670696f71383cd2bba2e_final%2011-05.png",
+              "file": "collections/portfolio-graphic-designs/flourish/6628670696f71383cd2bba2e_final 11-05.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662867243e5bbb0dd231fdb8_2%202.jpg",
+              "file": "collections/portfolio-graphic-designs/flourish/662867243e5bbb0dd231fdb8_2 2.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286722e897f5a7bcad568d_T_Shirt_01.jpg",
+              "file": "collections/portfolio-graphic-designs/flourish/66286722e897f5a7bcad568d_T_Shirt_01.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "ice-cream-munroe",
+          "name": "Ice Cream Munroe",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c81370b261868f4294eb1c_ice%20cream%20cone%20(1).jpg",
+              "file": "collections/portfolio-graphic-designs/ice-cream-munroe/65c81370b261868f4294eb1c_ice cream cone (1).jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "international-womens-day",
+          "name": "International women's day",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2a585214773524658b4_women%20day-01.png",
+              "file": "collections/portfolio-graphic-designs/international-womens-day/6619e2a585214773524658b4_women day-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e3d3cb675d8f357837c5_women%20day-02.png",
+              "file": "collections/portfolio-graphic-designs/international-womens-day/6619e3d3cb675d8f357837c5_women day-02.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "keep-the-energy-flowing",
+          "name": "Keep the energy flowing",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e421ac7c5005473af728_Illustrations-01.png",
+              "file": "collections/portfolio-graphic-designs/keep-the-energy-flowing/6619e421ac7c5005473af728_Illustrations-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e18cead25f0f0ae0575d_Illustrations-01.png",
+              "file": "collections/portfolio-graphic-designs/keep-the-energy-flowing/6619e18cead25f0f0ae0575d_Illustrations-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e18cc18c8cb77b8c2541_Illustrations-03.png",
+              "file": "collections/portfolio-graphic-designs/keep-the-energy-flowing/6619e18cc18c8cb77b8c2541_Illustrations-03.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "logo-designs",
+          "name": "Logo designs",
+          "count": 25,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626c132b48eba1939d53e4b_LO.jpg",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6626c132b48eba1939d53e4b_LO.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662865f01953a27c55a9c8e3_BOGAFINAL-01.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662865f01953a27c55a9c8e3_BOGAFINAL-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662834f4c41945625f0eb6a6_ticket4.jpg",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662834f4c41945625f0eb6a6_ticket4.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662834c80fe13b2a2ecf0cde_boga%202.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662834c80fe13b2a2ecf0cde_boga 2.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662834f32065621b94cda4d6_signal-template11.jpg",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662834f32065621b94cda4d6_signal-template11.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662863809bfeca7e855a9fca_MOCKUPS%20-01.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662863809bfeca7e855a9fca_MOCKUPS -01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286480fcac62ea9d5b5643_MOCKUPS%20-06.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/66286480fcac62ea9d5b5643_MOCKUPS -06.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662863b741ed48c08b6ca08d_MOCKUPS%20-03.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662863b741ed48c08b6ca08d_MOCKUPS -03.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628647fe7525c2a960b123d_MOCKUPS%20-02.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6628647fe7525c2a960b123d_MOCKUPS -02.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662864c29e093570fd3a5b33_MOCKUPS%20-08.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662864c29e093570fd3a5b33_MOCKUPS -08.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628652f41ed48c08b6e4a4a_Qeteshh-01.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6628652f41ed48c08b6e4a4a_Qeteshh-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628652fe7525c2a960bdb8e_Qeteshh-02.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6628652fe7525c2a960bdb8e_Qeteshh-02.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662865309470cbe4235c4991_Qeteshh-03.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662865309470cbe4235c4991_Qeteshh-03.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628652fa5144f987380da5d_Qeteshh-04.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6628652fa5144f987380da5d_Qeteshh-04.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628652fe7525c2a960bdbbb_Qeteshh-05.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6628652fe7525c2a960bdbbb_Qeteshh-05.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628653041ed48c08b6e4bf7_Qeteshh-06.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6628653041ed48c08b6e4bf7_Qeteshh-06.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628653841ed48c08b6e55b2_Qeteshh-07.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6628653841ed48c08b6e55b2_Qeteshh-07.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662834bd1e4aaae4bfd2e717_nasiimil-01.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662834bd1e4aaae4bfd2e717_nasiimil-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662834f3fc18f31d91d24c89_tials%20-26.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662834f3fc18f31d91d24c89_tials -26.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628640de14c9bdf115d0509_SLKw-03.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6628640de14c9bdf115d0509_SLKw-03.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628640dfcac62ea9d5acac5_SLKw-04.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/6628640dfcac62ea9d5acac5_SLKw-04.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662864e9ae74666dab2918fe_TARFA-11.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662864e9ae74666dab2918fe_TARFA-11.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662834bb149bad7ebb33af08_packaging%20copy.jpg",
+              "file": "collections/portfolio-graphic-designs/logo-designs/662834bb149bad7ebb33af08_packaging copy.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66295e6b71a44a5cfb342e51_company%20profile-01.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/66295e6b71a44a5cfb342e51_company profile-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66283483830ccb328abf6e64_finallogo-01.png",
+              "file": "collections/portfolio-graphic-designs/logo-designs/66283483830ccb328abf6e64_finallogo-01.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "nature-visualization",
+          "name": "Nature Visualization",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c81284f5aea133f6adaf60_Tree%20visuals-01%20(1).png",
+              "file": "collections/portfolio-graphic-designs/nature-visualization/65c81284f5aea133f6adaf60_Tree visuals-01 (1).png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c812897126eca35ce5959d_Tree%20visuals-02%20(1).png",
+              "file": "collections/portfolio-graphic-designs/nature-visualization/65c812897126eca35ce5959d_Tree visuals-02 (1).png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "reflections",
+          "name": "Reflections",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866cc1869b40a5411b231_Untitled-1-04.png",
+              "file": "collections/portfolio-graphic-designs/reflections/662866cc1869b40a5411b231_Untitled-1-04.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866eae849199620b4d220_8.jpg",
+              "file": "collections/portfolio-graphic-designs/reflections/662866eae849199620b4d220_8.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866e827dd8bbe75ce5fc4_T_Shirt_06.jpg",
+              "file": "collections/portfolio-graphic-designs/reflections/662866e827dd8bbe75ce5fc4_T_Shirt_06.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "retro",
+          "name": "Retro",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e53a1cf83d2960997a12_retro-01.png",
+              "file": "collections/portfolio-graphic-designs/retro/6619e53a1cf83d2960997a12_retro-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2725c8baff8acebc9e5_retro-01.png",
+              "file": "collections/portfolio-graphic-designs/retro/6619e2725c8baff8acebc9e5_retro-01.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "sierra",
+          "name": "Sierra",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65ac2253c6cc171c87020ecf_sierra-01%20(1).png",
+              "file": "collections/portfolio-graphic-designs/sierra/65ac2253c6cc171c87020ecf_sierra-01 (1).png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619de107f0be2ebedea455e_SIERA-01.png",
+              "file": "collections/portfolio-graphic-designs/sierra/6619de107f0be2ebedea455e_SIERA-01.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "threaded-figures",
+          "name": "Threaded figures.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66295fbf39ff33dfa8b34cb7_patterns-03.png",
+              "file": "collections/portfolio-graphic-designs/threaded-figures/66295fbf39ff33dfa8b34cb7_patterns-03.png",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "unicorn-gardens",
+          "name": "Unicorn Gardens",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c811782a38163bab8499d1_POSTER%20(1).jpg",
+              "file": "collections/portfolio-graphic-designs/unicorn-gardens/65c811782a38163bab8499d1_POSTER (1).jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619df021a023cac6a6eeefa_ticket%202.jpg",
+              "file": "collections/portfolio-graphic-designs/unicorn-gardens/6619df021a023cac6a6eeefa_ticket 2.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "zebra-visuals",
+          "name": "Zebra Visuals",
+          "count": 6,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e3e638d56060f706611c_ZEBRA%20illustration-01.png",
+              "file": "collections/portfolio-graphic-designs/zebra-visuals/6619e3e638d56060f706611c_ZEBRA illustration-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2df71ad9c5b4c16f232_ZEBRA%20illustration-01.png",
+              "file": "collections/portfolio-graphic-designs/zebra-visuals/6619e2df71ad9c5b4c16f232_ZEBRA illustration-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6625bee55b0a34a9ed04678f_ZEBRAPATTERN-01.png",
+              "file": "collections/portfolio-graphic-designs/zebra-visuals/6625bee55b0a34a9ed04678f_ZEBRAPATTERN-01.png",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d9373b253f25107daca02_IMG_6568.jpg",
+              "file": "collections/portfolio-graphic-designs/zebra-visuals/661d9373b253f25107daca02_IMG_6568.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93749a1de81026ded531_IMG_6569.jpg",
+              "file": "collections/portfolio-graphic-designs/zebra-visuals/661d93749a1de81026ded531_IMG_6569.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d9374b253f25107daca58_IMG_6570.jpg",
+              "file": "collections/portfolio-graphic-designs/zebra-visuals/661d9374b253f25107daca58_IMG_6570.jpg",
+              "status": "existing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "portfolio-interior-designs",
+      "source_csv": "Paletta_Portfolio_Interior_Designs_65ac1aa8623b9882c15b8c03---6bd8a86d-5081-413a-b1df-8411b7700c43.csv",
+      "items": [
+        {
+          "slug": "apartment-rennovation",
+          "name": "Apartment rennovation",
+          "count": 23,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6616fc8cde4f08506a213cae_RNI-Films-IMG-282314E5-1C50-4E20-A789-B9994FBCBBED.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6616fc8cde4f08506a213cae_RNI-Films-IMG-282314E5-1C50-4E20-A789-B9994FBCBBED.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aeffb8dbd09f021218754_RNI-Films-IMG-626771D9-4D1F-4D23-8F03-A5D8C6783482.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aeffb8dbd09f021218754_RNI-Films-IMG-626771D9-4D1F-4D23-8F03-A5D8C6783482.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aeffb732c4c8b54ca5a7c_RNI-Films-IMG-C1565BD3-E56B-4EBA-9E13-3DFAC566A53A.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aeffb732c4c8b54ca5a7c_RNI-Films-IMG-C1565BD3-E56B-4EBA-9E13-3DFAC566A53A.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aeffaee4bd319348509dc_RNI-Films-IMG-81488246-55A6-4D55-8ED3-CB5DF3299FAA.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aeffaee4bd319348509dc_RNI-Films-IMG-81488246-55A6-4D55-8ED3-CB5DF3299FAA.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aeffa1e1c76198c96d233_RNI-Films-IMG-0CB56787-AEDD-4A39-87AC-84E558209365.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aeffa1e1c76198c96d233_RNI-Films-IMG-0CB56787-AEDD-4A39-87AC-84E558209365.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661af2960eb5ff09c29e2aea_RNI-Films-IMG-A9CF24FA-310C-4CF1-B9BB-7B14ED95E04D.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661af2960eb5ff09c29e2aea_RNI-Films-IMG-A9CF24FA-310C-4CF1-B9BB-7B14ED95E04D.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6616ff449bcb61363c48f819_RNI-Films-IMG-5CCA998D-64A7-4887-B132-0A28ECBBADF1.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6616ff449bcb61363c48f819_RNI-Films-IMG-5CCA998D-64A7-4887-B132-0A28ECBBADF1.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6616ff448979511112628e2f_RNI-Films-IMG-9B7D99A4-EB94-4933-897C-375DA84BC037.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6616ff448979511112628e2f_RNI-Films-IMG-9B7D99A4-EB94-4933-897C-375DA84BC037.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aed57661434c980854494_RNI-Films-IMG-CA336862-7569-4102-9BFF-BEB76F34501B.JPG",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aed57661434c980854494_RNI-Films-IMG-CA336862-7569-4102-9BFF-BEB76F34501B.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aeffa8dbd09f0212186f5_RNI-Films-IMG-5A05EAF9-A527-4A07-BAE4-788443427B3B.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aeffa8dbd09f0212186f5_RNI-Films-IMG-5A05EAF9-A527-4A07-BAE4-788443427B3B.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017ebe3630b005ac47d9_RNI-Films-IMG-0BEDF48F-E107-4366-BAF8-02D798AAE12A.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6617017ebe3630b005ac47d9_RNI-Films-IMG-0BEDF48F-E107-4366-BAF8-02D798AAE12A.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017d6a9cfa74768dcc6e_RNI-Films-IMG-F853A59A-93D5-4596-9E56-3578B3F02D58.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6617017d6a9cfa74768dcc6e_RNI-Films-IMG-F853A59A-93D5-4596-9E56-3578B3F02D58.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aedcf661434c98085ca3d_RNI-Films-IMG-B49432F1-298E-4E42-8F67-EBC42FA3EECD.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aedcf661434c98085ca3d_RNI-Films-IMG-B49432F1-298E-4E42-8F67-EBC42FA3EECD.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aeffb184f797879618a22_RNI-Films-IMG-16B68D40-7F94-4101-9938-5C747F90867B.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aeffb184f797879618a22_RNI-Films-IMG-16B68D40-7F94-4101-9938-5C747F90867B.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017ebccb87519a0a8e48_RNI-Films-IMG-1A938DF7-03EE-42AD-9D79-30EFAA339A00.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6617017ebccb87519a0a8e48_RNI-Films-IMG-1A938DF7-03EE-42AD-9D79-30EFAA339A00.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aedcfd5648cb91d7874ad_RNI-Films-IMG-F60FCAB9-B4B1-49B3-B1AC-922EE56E32ED.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aedcfd5648cb91d7874ad_RNI-Films-IMG-F60FCAB9-B4B1-49B3-B1AC-922EE56E32ED.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6616ffc10175d4e051c33f9e_RNI-Films-IMG-576F6E39-F7E0-48D0-A24D-737B4DFD8DF7.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6616ffc10175d4e051c33f9e_RNI-Films-IMG-576F6E39-F7E0-48D0-A24D-737B4DFD8DF7.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6616ff44c4771f2841e68bef_RNI-Films-IMG-B7C2340A-798F-46FE-AC5D-226335C1506E.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6616ff44c4771f2841e68bef_RNI-Films-IMG-B7C2340A-798F-46FE-AC5D-226335C1506E.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661aedd0a049cbc3160dc4f4_RNI-Films-IMG-F685C8DF-263B-4BCC-ACA7-C6ADB98B3A3A.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/661aedd0a049cbc3160dc4f4_RNI-Films-IMG-F685C8DF-263B-4BCC-ACA7-C6ADB98B3A3A.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6616ff44e8d05463a0a928d4_RNI-Films-IMG-974532B1-7F10-46DF-A8D0-8840482D7423.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6616ff44e8d05463a0a928d4_RNI-Films-IMG-974532B1-7F10-46DF-A8D0-8840482D7423.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6616ff450c85a1487a2acced_RNI-Films-IMG-7CDA24E0-544A-4D35-A648-5846CB7E50E0.jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6616ff450c85a1487a2acced_RNI-Films-IMG-7CDA24E0-544A-4D35-A648-5846CB7E50E0.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017eb162a27105224012_RNI-Films-IMG-807FCFE5-A94C-4A36-BF6C-6E27A0C5C6CB%202%20(1).jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6617017eb162a27105224012_RNI-Films-IMG-807FCFE5-A94C-4A36-BF6C-6E27A0C5C6CB 2 (1).jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017e7250a3fce3b846c3_RNI-Films-IMG-5C42A209-52DC-4CF4-AF3A-DA30FCB9E198%203%20(1).jpg",
+              "file": "collections/portfolio-interior-designs/apartment-rennovation/6617017e7250a3fce3b846c3_RNI-Films-IMG-5C42A209-52DC-4CF4-AF3A-DA30FCB9E198 3 (1).jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "living-room-two",
+          "name": "Beach house at Al Gouna, Red Sea",
+          "count": 24,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6610c1f8d927253f063eff38_cover%20photo.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/6610c1f8d927253f063eff38_cover photo.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab195f3571bfc23e8825_RNI-Films-IMG-D4667D56-6015-42A1-887B-7E576A8F2D32.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661dab195f3571bfc23e8825_RNI-Films-IMG-D4667D56-6015-42A1-887B-7E576A8F2D32.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da845a825c036d3585cdf_RNI-Films-IMG-BEC5A441-F33B-4E98-9DC5-6609818C2C88.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da845a825c036d3585cdf_RNI-Films-IMG-BEC5A441-F33B-4E98-9DC5-6609818C2C88.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65ac204a4105f94c26ed559a_RNI-Films-IMG-88A34EBB-55F8-454E-9EA1-05BBC38FCFD3.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-two/65ac204a4105f94c26ed559a_RNI-Films-IMG-88A34EBB-55F8-454E-9EA1-05BBC38FCFD3.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65ac204a244c6f343ffd40ad_RNI-Films-IMG-1F9CEA4C-3452-46F2-AEBE-812FAD90E2E0.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-two/65ac204a244c6f343ffd40ad_RNI-Films-IMG-1F9CEA4C-3452-46F2-AEBE-812FAD90E2E0.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65ac204a244c6f343ffd40a5_RNI-Films-IMG-34FE50BD-4F0F-4263-8B38-BB5B08A84EB5.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-two/65ac204a244c6f343ffd40a5_RNI-Films-IMG-34FE50BD-4F0F-4263-8B38-BB5B08A84EB5.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65ac204aae2374485adf6d3d_RNI-Films-IMG-0DECA947-6B3E-4761-8A89-917B7BCDAB05.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-two/65ac204aae2374485adf6d3d_RNI-Films-IMG-0DECA947-6B3E-4761-8A89-917B7BCDAB05.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab1884ea745a46a7c0d2_RNI-Films-IMG-B65544F4-F3E3-415A-8D45-9735C36B7373.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661dab1884ea745a46a7c0d2_RNI-Films-IMG-B65544F4-F3E3-415A-8D45-9735C36B7373.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab185a581a4675ee3461_RNI-Films-IMG-EB1D7D64-4768-4B3F-9EF9-8202683955E5.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661dab185a581a4675ee3461_RNI-Films-IMG-EB1D7D64-4768-4B3F-9EF9-8202683955E5.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da8444c62f9f39fb86559_RNI-Films-IMG-F6B5DF1B-70DC-4BB1-A749-D11163CEA7E3.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da8444c62f9f39fb86559_RNI-Films-IMG-F6B5DF1B-70DC-4BB1-A749-D11163CEA7E3.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65ac2028ae2374485adf5c9f_RNI-Films-IMG-9C7F78FD-9B3C-4B33-8DCE-0936E7AA1E39.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-two/65ac2028ae2374485adf5c9f_RNI-Films-IMG-9C7F78FD-9B3C-4B33-8DCE-0936E7AA1E39.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab18c894ebadacb6dab9_RNI-Films-IMG-B8AEF992-EDE9-4923-8CAF-58BE5CE53F78.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661dab18c894ebadacb6dab9_RNI-Films-IMG-B8AEF992-EDE9-4923-8CAF-58BE5CE53F78.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab19595ad0353ab62625_RNI-Films-IMG-AA86BD58-6D60-4B11-8863-E231F2742393.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661dab19595ad0353ab62625_RNI-Films-IMG-AA86BD58-6D60-4B11-8863-E231F2742393.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da8445102ae2f084c0b09_RNI-Films-IMG-E06F64C8-E8E7-4D78-96C3-00BDFAF17AAE.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da8445102ae2f084c0b09_RNI-Films-IMG-E06F64C8-E8E7-4D78-96C3-00BDFAF17AAE.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da8444c62f9f39fb86548_RNI-Films-IMG-A46C507F-23B6-42F6-B06A-A9C9FF73BC15.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da8444c62f9f39fb86548_RNI-Films-IMG-A46C507F-23B6-42F6-B06A-A9C9FF73BC15.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da847902f8611f9805fee_RNI-Films-IMG-3DE278A2-592B-4432-9147-0A1FC2115850.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da847902f8611f9805fee_RNI-Films-IMG-3DE278A2-592B-4432-9147-0A1FC2115850.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da84615dcddc657ca3eaa_RNI-Films-IMG-5EA5E9EB-6EB3-4419-88CC-55A7BD5B43F4.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da84615dcddc657ca3eaa_RNI-Films-IMG-5EA5E9EB-6EB3-4419-88CC-55A7BD5B43F4.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da8455102ae2f084c0da8_RNI-Films-IMG-6323F0F1-64F6-4F7A-9078-0F8AA6D13AFF.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da8455102ae2f084c0da8_RNI-Films-IMG-6323F0F1-64F6-4F7A-9078-0F8AA6D13AFF.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab1782baeaa6d33a775c_RNI-Films-IMG-C4054033-2DD4-4D62-8552-AF1B3E3A52A7.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661dab1782baeaa6d33a775c_RNI-Films-IMG-C4054033-2DD4-4D62-8552-AF1B3E3A52A7.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da8454c62f9f39fb865da_RNI-Films-IMG-03029C67-1CDC-4310-B44D-7544EF25A43F.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da8454c62f9f39fb865da_RNI-Films-IMG-03029C67-1CDC-4310-B44D-7544EF25A43F.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab170e4f845f38e8694a_RNI-Films-IMG-E7CB85C0-F465-4E3D-A170-A5F919DE8C84.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661dab170e4f845f38e8694a_RNI-Films-IMG-E7CB85C0-F465-4E3D-A170-A5F919DE8C84.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab1794d5e95b4b73c6fa_RNI-Films-IMG-C5BD2264-CB27-4E73-B87D-0010077D3DA8.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661dab1794d5e95b4b73c6fa_RNI-Films-IMG-C5BD2264-CB27-4E73-B87D-0010077D3DA8.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da848fa1c12c66122eccd_RNI-Films-IMG-0BA921BB-0274-4ECE-8585-D0240B7B0CC6.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da848fa1c12c66122eccd_RNI-Films-IMG-0BA921BB-0274-4ECE-8585-D0240B7B0CC6.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da844538ac1383b05c9a2_RNI-Films-IMG-3571DE08-ED7C-43DF-828B-61B246EB7223.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-two/661da844538ac1383b05c9a2_RNI-Films-IMG-3571DE08-ED7C-43DF-828B-61B246EB7223.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "living-room-one",
+          "name": "Farm villa",
+          "count": 16,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6610c1586b6de0db6b4cd262_RNI-Films-IMG-38B4D79A-867B-4438-A7BA-DFA324877510.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-one/6610c1586b6de0db6b4cd262_RNI-Films-IMG-38B4D79A-867B-4438-A7BA-DFA324877510.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4e80ad0e74377efaef_RNI-Films-IMG-38B4D79A-867B-4438-A7BA-DFA324877510.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4e80ad0e74377efaef_RNI-Films-IMG-38B4D79A-867B-4438-A7BA-DFA324877510.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4eae2374485addf4bc_RNI-Films-IMG-6C6B5E62-74FF-4891-B07D-3089B7A7D98D.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4eae2374485addf4bc_RNI-Films-IMG-6C6B5E62-74FF-4891-B07D-3089B7A7D98D.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4e6b2529a8ca3404cf_RNI-Films-IMG-05B802DA-429C-4315-B687-E4F91C88AD9A.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4e6b2529a8ca3404cf_RNI-Films-IMG-05B802DA-429C-4315-B687-E4F91C88AD9A.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4ebde0d3879daaa273_RNI-Films-IMG-7ABE987C-9D30-4B2B-8D0D-F768CBF8BE36.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4ebde0d3879daaa273_RNI-Films-IMG-7ABE987C-9D30-4B2B-8D0D-F768CBF8BE36.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4e524f9e4d4b015acc_RNI-Films-IMG-9CA871B1-44AD-4386-AC9E-D10EF8FDFDBB.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4e524f9e4d4b015acc_RNI-Films-IMG-9CA871B1-44AD-4386-AC9E-D10EF8FDFDBB.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4e9867d80cb5f0d74f_RNI-Films-IMG-10A07B33-24C1-45DF-989C-4ACBAB1DF139.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4e9867d80cb5f0d74f_RNI-Films-IMG-10A07B33-24C1-45DF-989C-4ACBAB1DF139.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4e6243c546eceb3ca1_RNI-Films-IMG-73B26499-EDF6-481E-A26D-E2EE6DFAEA0D.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4e6243c546eceb3ca1_RNI-Films-IMG-73B26499-EDF6-481E-A26D-E2EE6DFAEA0D.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4e82eee2ea37c89fee_RNI-Films-IMG-86A0B964-2A5A-4934-A8F1-B028F86D69A9.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4e82eee2ea37c89fee_RNI-Films-IMG-86A0B964-2A5A-4934-A8F1-B028F86D69A9.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4ea6bef4b45733ef0c_RNI-Films-IMG-94CBE318-E0C5-4193-A914-4967D840B776.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4ea6bef4b45733ef0c_RNI-Films-IMG-94CBE318-E0C5-4193-A914-4967D840B776.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4ee00057e5d2cd230d_RNI-Films-IMG-168F67AE-DE44-4745-B4BF-847EE12BF8AD.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4ee00057e5d2cd230d_RNI-Films-IMG-168F67AE-DE44-4745-B4BF-847EE12BF8AD.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4e9a0af346adfcef0c_RNI-Films-IMG-88331C6C-DBC3-4EFD-93F1-15F83EE6075C.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4e9a0af346adfcef0c_RNI-Films-IMG-88331C6C-DBC3-4EFD-93F1-15F83EE6075C.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4dffb5aab7d2db1ae7_RNI-Films-IMG-A01B2CB5-240F-45B6-9396-DD3176907448.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4dffb5aab7d2db1ae7_RNI-Films-IMG-A01B2CB5-240F-45B6-9396-DD3176907448.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4dd11769dede9bff17_RNI-Films-IMG-A805F3DA-B9F6-4EA8-990D-BB8D740F5B50.jpg",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4dd11769dede9bff17_RNI-Films-IMG-A805F3DA-B9F6-4EA8-990D-BB8D740F5B50.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d4ed11769dede9bff1f_RNI-Films-IMG-A74797DD-4F01-49DD-919E-D352AAA23D58.JPG",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d4ed11769dede9bff1f_RNI-Films-IMG-A74797DD-4F01-49DD-919E-D352AAA23D58.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65ac1d55d11769dede9c0171_RNI-Films-IMG-E28FD930-145F-4BBB-A0E6-B8B95D835132.jpeg",
+              "file": "collections/portfolio-interior-designs/living-room-one/65ac1d55d11769dede9c0171_RNI-Films-IMG-E28FD930-145F-4BBB-A0E6-B8B95D835132.jpeg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "studio-al-mokattam",
+          "name": "Studio Al Mokattam",
+          "count": 22,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cbe7f511433585829ad_RNI-Films-IMG-F9C982D3-46AA-4CFC-A067-C3751D171E6B.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cbe7f511433585829ad_RNI-Films-IMG-F9C982D3-46AA-4CFC-A067-C3751D171E6B.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdf4a4a7f0e1c86ddb6_RNI-Films-IMG-8BBFA493-774A-4C1A-9EF9-8F993DEAB604.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdf4a4a7f0e1c86ddb6_RNI-Films-IMG-8BBFA493-774A-4C1A-9EF9-8F993DEAB604.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cde4db1c2692e7e56fb_RNI-Films-IMG-63774ECC-8295-47EF-9638-02B2A8EB81E8.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cde4db1c2692e7e56fb_RNI-Films-IMG-63774ECC-8295-47EF-9638-02B2A8EB81E8.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdf7c604e1a13e2eb6e_RNI-Films-IMG-6AFF5316-180C-4600-AF22-8384312E2099.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdf7c604e1a13e2eb6e_RNI-Films-IMG-6AFF5316-180C-4600-AF22-8384312E2099.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdf767db0efc4351b5e_RNI-Films-IMG-8CC46867-8891-42A4-A8FF-2EB0C2DC9084.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdf767db0efc4351b5e_RNI-Films-IMG-8CC46867-8891-42A4-A8FF-2EB0C2DC9084.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdf4a4a7f0e1c86dd8c_RNI-Films-IMG-72FCBFDD-022B-410D-A87A-33674528C79A.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdf4a4a7f0e1c86dd8c_RNI-Films-IMG-72FCBFDD-022B-410D-A87A-33674528C79A.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdf34457fc79347ade7_RNI-Films-IMG-413B9CA8-A003-48F7-8EA5-EA3A56FFDECE.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdf34457fc79347ade7_RNI-Films-IMG-413B9CA8-A003-48F7-8EA5-EA3A56FFDECE.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cde4a4a7f0e1c86dd53_RNI-Films-IMG-7329EEA2-E95B-4CCA-8780-12C61631B164.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cde4a4a7f0e1c86dd53_RNI-Films-IMG-7329EEA2-E95B-4CCA-8780-12C61631B164.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cee51674029e06fbbfd_RNI-Films-IMG-FBE7936F-5FCB-421B-8852-C2D4F1AB838E.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cee51674029e06fbbfd_RNI-Films-IMG-FBE7936F-5FCB-421B-8852-C2D4F1AB838E.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdf3894ad0a3e99e46e_RNI-Films-IMG-07D16AF0-0456-4245-B7BF-C95EC3240113.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdf3894ad0a3e99e46e_RNI-Films-IMG-07D16AF0-0456-4245-B7BF-C95EC3240113.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdf767db0efc4351b75_RNI-Films-IMG-6A6CDA26-432B-4BF7-AC81-2E9E848B78C9.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdf767db0efc4351b75_RNI-Films-IMG-6A6CDA26-432B-4BF7-AC81-2E9E848B78C9.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdededbd9d94c0028f5_RNI-Films-IMG-CE20C15D-4FE9-454C-BACA-E8E79E8EFE80.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdededbd9d94c0028f5_RNI-Films-IMG-CE20C15D-4FE9-454C-BACA-E8E79E8EFE80.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cde4db1c2692e7e56f8_RNI-Films-IMG-A6485CB4-D059-437B-B542-CC267D3DF54A.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cde4db1c2692e7e56f8_RNI-Films-IMG-A6485CB4-D059-437B-B542-CC267D3DF54A.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cee7f51143358585d3b_RNI-Films-IMG-F467B975-486C-417A-B795-890994F30037.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cee7f51143358585d3b_RNI-Films-IMG-F467B975-486C-417A-B795-890994F30037.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cde68ca560c90803771_RNI-Films-IMG-A692FD3D-5D23-4B5F-AA93-8D3E33FA1BB8.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cde68ca560c90803771_RNI-Films-IMG-A692FD3D-5D23-4B5F-AA93-8D3E33FA1BB8.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cde2adb5bef0eb2a062_RNI-Films-IMG-B76FFFB6-3D48-419C-B004-E0046A079A24.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cde2adb5bef0eb2a062_RNI-Films-IMG-B76FFFB6-3D48-419C-B004-E0046A079A24.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cde7f52cf407c659438_RNI-Films-IMG-B95A6CF5-4E4B-4B3F-8ABD-33B5F284F4B5.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cde7f52cf407c659438_RNI-Films-IMG-B95A6CF5-4E4B-4B3F-8ABD-33B5F284F4B5.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cde6ffb47de2f1adf5b_RNI-Films-IMG-D3098592-378D-44CB-A257-23061D8FD781.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cde6ffb47de2f1adf5b_RNI-Films-IMG-D3098592-378D-44CB-A257-23061D8FD781.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cde36d2fcdf739b94f0_RNI-Films-IMG-C16AAC02-9044-400E-A2F5-27EC10A684C5.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cde36d2fcdf739b94f0_RNI-Films-IMG-C16AAC02-9044-400E-A2F5-27EC10A684C5.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdf9d96ffefe08e0e94_RNI-Films-IMG-6FF76594-60D6-4AFB-B9AE-533196FB615B.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdf9d96ffefe08e0e94_RNI-Films-IMG-6FF76594-60D6-4AFB-B9AE-533196FB615B.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122cdeef2fa5cc96f3166a_RNI-Films-IMG-C6149BBD-DED1-4B29-BBDC-B64DB1966689.JPG",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122cdeef2fa5cc96f3166a_RNI-Films-IMG-C6149BBD-DED1-4B29-BBDC-B64DB1966689.JPG",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66122ceeb03741d206354935_RNI-Films-IMG-EC77E6BA-3A57-463F-AB29-F4D4DF7864E9.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-mokattam/66122ceeb03741d206354935_RNI-Films-IMG-EC77E6BA-3A57-463F-AB29-F4D4DF7864E9.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "studio-al-nakhil",
+          "name": "Studio Al Nakhil",
+          "count": 21,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66170e182f83c292bb32ec36_RNI-Films-IMG-F5D0962B-8AB2-4AA0-86A3-F6D8738BE35A.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/66170e182f83c292bb32ec36_RNI-Films-IMG-F5D0962B-8AB2-4AA0-86A3-F6D8738BE35A.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661082a66c5294e9c07bfada_Resized2.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661082a66c5294e9c07bfada_Resized2.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661860a4678aab974c1196af_RNI-Films-IMG-2B3387D5-CABE-4FDE-BC8A-FDB6E899CC6E.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661860a4678aab974c1196af_RNI-Films-IMG-2B3387D5-CABE-4FDE-BC8A-FDB6E899CC6E.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846d041b8923c0e015252_RNI-Films-IMG-4F73FD10-9119-4C6F-B85E-22DCC8CFCFE9.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846d041b8923c0e015252_RNI-Films-IMG-4F73FD10-9119-4C6F-B85E-22DCC8CFCFE9.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626ba39cc63a0253621cc73_RNI-Films-IMG-33AA385F-C4F8-4BCF-B069-83F4E8DEE73B.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/6626ba39cc63a0253621cc73_RNI-Films-IMG-33AA385F-C4F8-4BCF-B069-83F4E8DEE73B.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846d0efcbcb5f52fa0842_RNI-Films-IMG-3B6744D8-76FB-49BA-8475-8E8127DE219D.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846d0efcbcb5f52fa0842_RNI-Films-IMG-3B6744D8-76FB-49BA-8475-8E8127DE219D.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662194ea05ee8e2a59cf4a60_RNI-Films-IMG-5B29CEB9-EBD5-40CD-A2F7-5947B1CF80D6.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/662194ea05ee8e2a59cf4a60_RNI-Films-IMG-5B29CEB9-EBD5-40CD-A2F7-5947B1CF80D6.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662194e917b913c0f4502fa1_RNI-Films-IMG-24909573-7E0D-4AE4-B84B-CAE3E1F9F326.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/662194e917b913c0f4502fa1_RNI-Films-IMG-24909573-7E0D-4AE4-B84B-CAE3E1F9F326.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661080ca147a7b0ab77125e3_Resized.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661080ca147a7b0ab77125e3_Resized.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846cfcc12b416184730a4_RNI-Films-IMG-5BC30E7E-848A-4594-9140-447160CC8398.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846cfcc12b416184730a4_RNI-Films-IMG-5BC30E7E-848A-4594-9140-447160CC8398.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846cdefcbcb5f52fa0485_RNI-Films-IMG-66A16884-4DCC-4986-B652-3A5DB895B37C.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846cdefcbcb5f52fa0485_RNI-Films-IMG-66A16884-4DCC-4986-B652-3A5DB895B37C.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846ce8da1ccaf0477c5f4_RNI-Films-IMG-A071DDDC-24A3-4A66-B891-2233DF8B0026.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846ce8da1ccaf0477c5f4_RNI-Films-IMG-A071DDDC-24A3-4A66-B891-2233DF8B0026.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662194e93159e1d4c1c6c710_RNI-Films-IMG-2E9B04AB-B863-408F-ADC8-0031F1E89956.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/662194e93159e1d4c1c6c710_RNI-Films-IMG-2E9B04AB-B863-408F-ADC8-0031F1E89956.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846d04cb28b8fa13da102_RNI-Films-IMG-3CA53BCA-7A0E-4447-95F2-A63653DB8919.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846d04cb28b8fa13da102_RNI-Films-IMG-3CA53BCA-7A0E-4447-95F2-A63653DB8919.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662194ea7055d12ca73a051e_RNI-Films-IMG-0AAD9156-00EB-48E5-9944-AF3664D684D7.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/662194ea7055d12ca73a051e_RNI-Films-IMG-0AAD9156-00EB-48E5-9944-AF3664D684D7.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846d031df707c412bc902_RNI-Films-IMG-45E637A2-CA18-4AC7-B8B1-A632497E1930.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846d031df707c412bc902_RNI-Films-IMG-45E637A2-CA18-4AC7-B8B1-A632497E1930.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846cefa14ffcb67795feb_RNI-Films-IMG-0CFE6F7D-CFD5-49EA-BAA2-954DD32A8C8D.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846cefa14ffcb67795feb_RNI-Films-IMG-0CFE6F7D-CFD5-49EA-BAA2-954DD32A8C8D.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846d05966c4bd44a7c83b_RNI-Films-IMG-2AD804F6-E49D-4E6D-9AD9-AFAB05BFC788.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846d05966c4bd44a7c83b_RNI-Films-IMG-2AD804F6-E49D-4E6D-9AD9-AFAB05BFC788.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846ce8da1ccaf0477c763_RNI-Films-IMG-CAA39370-E820-4957-B1B8-E6D677D26930.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846ce8da1ccaf0477c763_RNI-Films-IMG-CAA39370-E820-4957-B1B8-E6D677D26930.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846cd4e7395c0df7c015d_RNI-Films-IMG-3F0E7F09-6BE1-48DF-B86F-A70FFC9460EF.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/661846cd4e7395c0df7c015d_RNI-Films-IMG-3F0E7F09-6BE1-48DF-B86F-A70FFC9460EF.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662194e9054d98ceff0c37ca_RNI-Films-IMG-2154D06D-1FF2-4972-BBCC-6E92FD2D2ACC.jpg",
+              "file": "collections/portfolio-interior-designs/studio-al-nakhil/662194e9054d98ceff0c37ca_RNI-Films-IMG-2154D06D-1FF2-4972-BBCC-6E92FD2D2ACC.jpg",
+              "status": "existing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "portfolio-product-designs",
+      "source_csv": "Paletta_Portfolio_Product_Designs_661d7f3d9e17b1860925d329---b74c1bc4-7e97-4ae2-a60f-10e704b2f0c1.csv",
+      "items": [
+        {
+          "slug": "cushions",
+          "name": "Cushions",
+          "count": 18,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc653e29439d68ddb7ef_RNI-Films-IMG-A1902963-5D56-4910-BE53-E2423EF9066C.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc653e29439d68ddb7ef_RNI-Films-IMG-A1902963-5D56-4910-BE53-E2423EF9066C.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9ff8fc2bb256b790f6_RNI-Films-IMG-90334F96-00CC-41AB-AA94-B11C31A94A56.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9ff8fc2bb256b790f6_RNI-Films-IMG-90334F96-00CC-41AB-AA94-B11C31A94A56.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9e7c4115d4fe29d886_RNI-Films-IMG-3E7F1B97-6A11-4052-B2F8-6F6D18578276.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9e7c4115d4fe29d886_RNI-Films-IMG-3E7F1B97-6A11-4052-B2F8-6F6D18578276.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9e5a411cfb837778f0_RNI-Films-IMG-03A4FB74-6418-4547-92A7-F4F7E03ABF16.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9e5a411cfb837778f0_RNI-Films-IMG-03A4FB74-6418-4547-92A7-F4F7E03ABF16.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9b5298eac05cf0448e_RNI-Films-IMG-67EFD2D7-3E72-4140-B296-55597AF50B46.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9b5298eac05cf0448e_RNI-Films-IMG-67EFD2D7-3E72-4140-B296-55597AF50B46.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9dd5beca9f8eae48db_RNI-Films-IMG-0C017F1D-55BB-41AA-9608-87A9C811555D.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9dd5beca9f8eae48db_RNI-Films-IMG-0C017F1D-55BB-41AA-9608-87A9C811555D.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9cb2bb89454970aaea_RNI-Films-IMG-0F5BDC2C-0A5E-4B01-A3B9-5829ED98713E.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9cb2bb89454970aaea_RNI-Films-IMG-0F5BDC2C-0A5E-4B01-A3B9-5829ED98713E.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9cce9d43d152a6d711_RNI-Films-IMG-03E24F6F-E81C-43B5-B97C-4C7CCECFC35B.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9cce9d43d152a6d711_RNI-Films-IMG-03E24F6F-E81C-43B5-B97C-4C7CCECFC35B.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9f545afe0d3d3ddff7_RNI-Films-IMG-01A229C6-F3F5-4C6A-B6F5-39D9F07A22BC.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9f545afe0d3d3ddff7_RNI-Films-IMG-01A229C6-F3F5-4C6A-B6F5-39D9F07A22BC.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9fe757bef87b18c6d8_RNI-Films-IMG-1E1F752E-2602-4A67-A329-A5F261F99CC1.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9fe757bef87b18c6d8_RNI-Films-IMG-1E1F752E-2602-4A67-A329-A5F261F99CC1.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9fb2c615ef0203e634_RNI-Films-IMG-2A934225-4CC9-4AF3-8A05-DCDABB80851F.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9fb2c615ef0203e634_RNI-Films-IMG-2A934225-4CC9-4AF3-8A05-DCDABB80851F.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9dd5beca9f8eae48b0_RNI-Films-IMG-F19153FD-1CBC-4C6C-9DF7-9C725B03D6D0.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9dd5beca9f8eae48b0_RNI-Films-IMG-F19153FD-1CBC-4C6C-9DF7-9C725B03D6D0.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9c545afe0d3d3ddcee_RNI-Films-IMG-5DB55957-D788-4584-B12B-69D2F74B730E.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9c545afe0d3d3ddcee_RNI-Films-IMG-5DB55957-D788-4584-B12B-69D2F74B730E.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9e1b62dc21055b0334_RNI-Films-IMG-3A1F48F0-4F48-4491-8411-D6722F35F5B1.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9e1b62dc21055b0334_RNI-Films-IMG-3A1F48F0-4F48-4491-8411-D6722F35F5B1.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9e08f19e563bc17d8f_RNI-Films-IMG-68C47DBE-C75A-4BF4-9F22-9CFCDB138874.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9e08f19e563bc17d8f_RNI-Films-IMG-68C47DBE-C75A-4BF4-9F22-9CFCDB138874.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9c08f19e563bc17c56_RNI-Films-IMG-6E0903E3-2D4E-4B25-B4C6-65D214497312.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9c08f19e563bc17c56_RNI-Films-IMG-6E0903E3-2D4E-4B25-B4C6-65D214497312.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9cd5beca9f8eae4802_RNI-Films-IMG-7DFAEF94-CB0A-496F-8549-7E5367A7BEBF.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9cd5beca9f8eae4802_RNI-Films-IMG-7DFAEF94-CB0A-496F-8549-7E5367A7BEBF.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc9e5a411cfb83777975_RNI-Films-IMG-013B9CB9-C2CF-4B1E-A046-6CD174CFB87F.jpg",
+              "file": "collections/portfolio-product-designs/cushions/6622cc9e5a411cfb83777975_RNI-Films-IMG-013B9CB9-C2CF-4B1E-A046-6CD174CFB87F.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "energy-cleansing-wall-hanger",
+          "name": "Energy cleansing wall hanger",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daf6a3af91742ac51c1b7_RNI-Films-IMG-2CE5848F-9CFF-4A36-901C-EDD91A9967AA%202.jpg",
+              "file": "collections/portfolio-product-designs/energy-cleansing-wall-hanger/661daf6a3af91742ac51c1b7_RNI-Films-IMG-2CE5848F-9CFF-4A36-901C-EDD91A9967AA 2.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "games-design",
+          "name": "Game designs.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622ce82f40e37e90fb96da0_IMG_5515%20(1).jpg",
+              "file": "collections/portfolio-product-designs/games-design/6622ce82f40e37e90fb96da0_IMG_5515 (1).jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "home-accessories",
+          "name": "Home accessories",
+          "count": 23,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daeb637c2a9f2388f2d01_IMG_6547.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daeb637c2a9f2388f2d01_IMG_6547.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec2738eb33a7b8ddc72_RNI-Films-IMG-994043C6-DA4C-480C-A5DA-6FFB40DBC596%202.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec2738eb33a7b8ddc72_RNI-Films-IMG-994043C6-DA4C-480C-A5DA-6FFB40DBC596 2.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec2ae419a050d9d0181_RNI-Films-IMG-C1F42DE8-D419-4A1D-9484-815EE9633434%202.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec2ae419a050d9d0181_RNI-Films-IMG-C1F42DE8-D419-4A1D-9484-815EE9633434 2.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec7a8730d4cb6619533_IMG_6542.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec7a8730d4cb6619533_IMG_6542.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec5e1561c7b22c6e35b_IMG_6548%20(1).jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec5e1561c7b22c6e35b_IMG_6548 (1).jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec778b63fdd0afea0b5_IMG_6549.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec778b63fdd0afea0b5_IMG_6549.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec537c2a9f2388f3b93_RNI-Films-IMG-27A98BE9-AE1E-4C7F-A7FC-A19E306FE78A%20(1).jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec537c2a9f2388f3b93_RNI-Films-IMG-27A98BE9-AE1E-4C7F-A7FC-A19E306FE78A (1).jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec5e1561c7b22c6e2aa_RNI-Films-IMG-45F714BB-D7EB-41FB-9713-1EC08F234743%202.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec5e1561c7b22c6e2aa_RNI-Films-IMG-45F714BB-D7EB-41FB-9713-1EC08F234743 2.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec5ae419a050d9d0382_RNI-Films-IMG-02E9241D-F444-44EE-B4ED-FBA408D3C61D.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec5ae419a050d9d0382_RNI-Films-IMG-02E9241D-F444-44EE-B4ED-FBA408D3C61D.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec6b82be38d8803e84b_RNI-Films-IMG-4D4CCE0C-6899-4BE4-A7FB-70DAADBA8D42%202.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec6b82be38d8803e84b_RNI-Films-IMG-4D4CCE0C-6899-4BE4-A7FB-70DAADBA8D42 2.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec50b482e823dc017bb_RNI-Films-IMG-15CE53D6-5313-4DA1-9D60-C83939FEE951.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec50b482e823dc017bb_RNI-Films-IMG-15CE53D6-5313-4DA1-9D60-C83939FEE951.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec3469a2dd1cf09d59c_RNI-Films-IMG-53E86A2B-E20E-43EE-987A-03E276F4E42C.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec3469a2dd1cf09d59c_RNI-Films-IMG-53E86A2B-E20E-43EE-987A-03E276F4E42C.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec2b82be38d8803deb3_RNI-Films-IMG-91B54A83-D039-47E0-A450-9A5E3E2D876C.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec2b82be38d8803deb3_RNI-Films-IMG-91B54A83-D039-47E0-A450-9A5E3E2D876C.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec5833f30628da424e0_RNI-Films-IMG-44E19701-3BC9-4F2A-A16E-3B19DCCD1513.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec5833f30628da424e0_RNI-Films-IMG-44E19701-3BC9-4F2A-A16E-3B19DCCD1513.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec6e1561c7b22c6e378_RNI-Films-IMG-3CB85A77-A328-4CD6-9A5D-04C0CD3C5F91.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec6e1561c7b22c6e378_RNI-Films-IMG-3CB85A77-A328-4CD6-9A5D-04C0CD3C5F91.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec218de2091e2f770cb_RNI-Films-IMG-21065EAB-BFB0-4269-AB43-8795143681A9.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec218de2091e2f770cb_RNI-Films-IMG-21065EAB-BFB0-4269-AB43-8795143681A9.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec1ae419a050d9d00a6_RNI-Films-IMG-57550B67-6078-440D-A7BA-AE0B7EF67F4B.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec1ae419a050d9d00a6_RNI-Films-IMG-57550B67-6078-440D-A7BA-AE0B7EF67F4B.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec2b4d1550baa2759e2_RNI-Films-IMG-73E47753-AAC2-4B5B-9F18-9191BB6D643F%202.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec2b4d1550baa2759e2_RNI-Films-IMG-73E47753-AAC2-4B5B-9F18-9191BB6D643F 2.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec348e28ee072d906e0_RNI-Films-IMG-71C099C8-A4F3-40F5-A46B-BF9076BFA974.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec348e28ee072d906e0_RNI-Films-IMG-71C099C8-A4F3-40F5-A46B-BF9076BFA974.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec4e1561c7b22c6e243_RNI-Films-IMG-9475A2A0-3D7C-45DD-895E-AA6B763F25AF.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec4e1561c7b22c6e243_RNI-Films-IMG-9475A2A0-3D7C-45DD-895E-AA6B763F25AF.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec3469a2dd1cf09d59f_RNI-Films-IMG-6664B90A-9C68-4A05-A0C5-865CD030D925%20(1).jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/661daec3469a2dd1cf09d59f_RNI-Films-IMG-6664B90A-9C68-4A05-A0C5-865CD030D925 (1).jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bcb6d380f8f02156c320_RNI-Films-IMG-459FF374-9E30-4F5A-AB45-524164DD12AD.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/6626bcb6d380f8f02156c320_RNI-Films-IMG-459FF374-9E30-4F5A-AB45-524164DD12AD.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bcb6086ef2371cf24fb6_RNI-Films-IMG-AD20753D-62CB-4F12-A308-2BCD6AF3A8FC.jpg",
+              "file": "collections/portfolio-product-designs/home-accessories/6626bcb6086ef2371cf24fb6_RNI-Films-IMG-AD20753D-62CB-4F12-A308-2BCD6AF3A8FC.jpg",
+              "status": "existing"
+            }
+          ]
+        },
+        {
+          "slug": "lighting-unit",
+          "name": "Lighting units",
+          "count": 11,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bb5c7d202b69a21822c4_RNI-Films-IMG-3C74160B-9373-4009-8014-F19F1DB8C9E0%20(1).jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/6626bb5c7d202b69a21822c4_RNI-Films-IMG-3C74160B-9373-4009-8014-F19F1DB8C9E0 (1).jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec2b82be38d8803deb3_RNI-Films-IMG-91B54A83-D039-47E0-A450-9A5E3E2D876C.jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/661daec2b82be38d8803deb3_RNI-Films-IMG-91B54A83-D039-47E0-A450-9A5E3E2D876C.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da8473c745238c026c797_RNI-Films-IMG-2BBE6064-7920-47A1-87FC-CD80F42838B3.jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/661da8473c745238c026c797_RNI-Films-IMG-2BBE6064-7920-47A1-87FC-CD80F42838B3.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec3469a2dd1cf09d59f_RNI-Films-IMG-6664B90A-9C68-4A05-A0C5-865CD030D925%20(1).jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/661daec3469a2dd1cf09d59f_RNI-Films-IMG-6664B90A-9C68-4A05-A0C5-865CD030D925 (1).jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bc5a8a03d69bd7b139ec_RNI-Films-IMG-AE7A3618-5B06-48DB-8CBE-59D73E0A3AA6.jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/6626bc5a8a03d69bd7b139ec_RNI-Films-IMG-AE7A3618-5B06-48DB-8CBE-59D73E0A3AA6.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec1098089b748f72697_RNI-Films-IMG-258A2CA6-F314-43F0-A84F-79061425A9DB.jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/661daec1098089b748f72697_RNI-Films-IMG-258A2CA6-F314-43F0-A84F-79061425A9DB.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec218de2091e2f770cb_RNI-Films-IMG-21065EAB-BFB0-4269-AB43-8795143681A9.jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/661daec218de2091e2f770cb_RNI-Films-IMG-21065EAB-BFB0-4269-AB43-8795143681A9.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec1ae419a050d9d00a6_RNI-Films-IMG-57550B67-6078-440D-A7BA-AE0B7EF67F4B.jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/661daec1ae419a050d9d00a6_RNI-Films-IMG-57550B67-6078-440D-A7BA-AE0B7EF67F4B.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec218de2091e2f77061_RNI-Films-IMG-131789D7-B113-4EBD-929A-4C83339449D1.jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/661daec218de2091e2f77061_RNI-Films-IMG-131789D7-B113-4EBD-929A-4C83339449D1.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec6e1561c7b22c6e378_RNI-Films-IMG-3CB85A77-A328-4CD6-9A5D-04C0CD3C5F91.jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/661daec6e1561c7b22c6e378_RNI-Films-IMG-3CB85A77-A328-4CD6-9A5D-04C0CD3C5F91.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bd2a3589d57e1827b7db_RNI-Films-IMG-0A8E9E7D-1152-4E55-B91A-A0EF6120CE95.jpg",
+              "file": "collections/portfolio-product-designs/lighting-unit/6626bd2a3589d57e1827b7db_RNI-Films-IMG-0A8E9E7D-1152-4E55-B91A-A0EF6120CE95.jpg",
+              "status": "existing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "portfolio-stylings",
+      "source_csv": "Paletta_-_Portfolio_-_Stylings_-_661d7a783c04962e7b5b34d2---5c6ca301-28ae-48b4-9031-c5b1dc80a65c.csv",
+      "items": [
+        {
+          "slug": "al-hashem-residence",
+          "name": "Al Hashem Residence",
+          "count": 24,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8efff7e9ebb02af230f0_PHOTO-2022-07-21-03-17-35%202.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8efff7e9ebb02af230f0_PHOTO-2022-07-21-03-17-35 2.jpg",
+              "status": "existing"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f025825f97dbe43ca20_PHOTO-2022-07-21-03-17-31%202.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f025825f97dbe43ca20_PHOTO-2022-07-21-03-17-31 2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f02f57b8e8f0527899b_PHOTO-2022-07-21-03-17-31%203.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f02f57b8e8f0527899b_PHOTO-2022-07-21-03-17-31 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f0177a050a3776756cd_PHOTO-2022-07-21-03-17-31%204.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f0177a050a3776756cd_PHOTO-2022-07-21-03-17-31 4.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f01c63637e2dc7a4133_PHOTO-2022-07-21-03-17-32%203.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f01c63637e2dc7a4133_PHOTO-2022-07-21-03-17-32 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f025825f97dbe43c9ff_PHOTO-2022-07-21-03-17-31.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f025825f97dbe43c9ff_PHOTO-2022-07-21-03-17-31.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f01f8bbb053e752b95e_PHOTO-2022-07-21-03-17-32.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f01f8bbb053e752b95e_PHOTO-2022-07-21-03-17-32.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f018b27d714606e18b1_PHOTO-2022-07-21-03-17-32%202.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f018b27d714606e18b1_PHOTO-2022-07-21-03-17-32 2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8eff71837258bef23846_PHOTO-2022-07-21-03-17-32%204.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8eff71837258bef23846_PHOTO-2022-07-21-03-17-32 4.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f0101ace1dce7cabd70_PHOTO-2022-07-21-03-17-33%202.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f0101ace1dce7cabd70_PHOTO-2022-07-21-03-17-33 2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f00c63637e2dc7a40c1_PHOTO-2022-07-21-03-17-33%203.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f00c63637e2dc7a40c1_PHOTO-2022-07-21-03-17-33 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8eff2a87e140af443d65_PHOTO-2022-07-21-03-17-33%204.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8eff2a87e140af443d65_PHOTO-2022-07-21-03-17-33 4.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f0201ae15c9d7e02db9_PHOTO-2022-07-21-03-17-34%202.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f0201ae15c9d7e02db9_PHOTO-2022-07-21-03-17-34 2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f00bae57c8c8d315c4c_PHOTO-2022-07-21-03-17-34.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f00bae57c8c8d315c4c_PHOTO-2022-07-21-03-17-34.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8effb2a7288db7bfca6b_PHOTO-2022-07-21-03-17-33.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8effb2a7288db7bfca6b_PHOTO-2022-07-21-03-17-33.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f0271837258bef23ae3_PHOTO-2022-07-21-03-17-34%204.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f0271837258bef23ae3_PHOTO-2022-07-21-03-17-34 4.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f0276bdf9bf18a23b3a_PHOTO-2022-07-21-03-17-34%203.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f0276bdf9bf18a23b3a_PHOTO-2022-07-21-03-17-34 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8eff5a4ac65e2d495189_PHOTO-2022-07-21-03-17-35%203.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8eff5a4ac65e2d495189_PHOTO-2022-07-21-03-17-35 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f0171837258bef239fb_PHOTO-2022-07-21-03-17-35%204.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f0171837258bef239fb_PHOTO-2022-07-21-03-17-35 4.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f01f57b8e8f052788f1_PHOTO-2022-07-21-03-17-35%205.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f01f57b8e8f052788f1_PHOTO-2022-07-21-03-17-35 5.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8efff7e9ebb02af23085_PHOTO-2022-07-21-03-17-36%202.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8efff7e9ebb02af23085_PHOTO-2022-07-21-03-17-36 2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8eff5a4ac65e2d49514e_PHOTO-2022-07-21-03-17-36.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8eff5a4ac65e2d49514e_PHOTO-2022-07-21-03-17-36.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f00a47b769c007afe91_PHOTO-2022-07-21-03-17-37.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f00a47b769c007afe91_PHOTO-2022-07-21-03-17-37.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8f002a87e140af443dfa_PHOTO-2022-07-21-03-17-35.jpg",
+              "file": "collections/portfolio-stylings/al-hashem-residence/661d8f002a87e140af443dfa_PHOTO-2022-07-21-03-17-35.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "el-hamamy-residence",
+          "name": "El Hamamy Residence",
+          "count": 25,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a7841e04a7fc7b26990_PHOTO-2022-06-07-12-14-51%208.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a7841e04a7fc7b26990_PHOTO-2022-06-07-12-14-51 8.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a8268d38760c63a70fa_PHOTO-2022-06-07-12-14-50%202.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a8268d38760c63a70fa_PHOTO-2022-06-07-12-14-50 2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a82d813db0e61ac7a44_PHOTO-2022-06-07-12-14-50%203.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a82d813db0e61ac7a44_PHOTO-2022-06-07-12-14-50 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a81b115e878899b7a30_PHOTO-2022-06-07-12-14-50%204.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a81b115e878899b7a30_PHOTO-2022-06-07-12-14-50 4.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a802bd40f49284affdd_PHOTO-2022-06-07-12-14-50%209.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a802bd40f49284affdd_PHOTO-2022-06-07-12-14-50 9.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a81a597e75edfa228c9_PHOTO-2022-06-07-12-14-50%206.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a81a597e75edfa228c9_PHOTO-2022-06-07-12-14-50 6.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a80178bf50c0a24d493_PHOTO-2022-06-07-12-14-50%208.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a80178bf50c0a24d493_PHOTO-2022-06-07-12-14-50 8.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a8116b048a9a0b4bc52_PHOTO-2022-06-07-12-14-50%205.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a8116b048a9a0b4bc52_PHOTO-2022-06-07-12-14-50 5.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a80cce60ec8d88b6b48_PHOTO-2022-06-07-12-14-50%207.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a80cce60ec8d88b6b48_PHOTO-2022-06-07-12-14-50 7.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a7fce0524cbcdb6df2e_PHOTO-2022-06-07-12-14-50.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a7fce0524cbcdb6df2e_PHOTO-2022-06-07-12-14-50.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a7fb4b1a3d0fda1e0a0_PHOTO-2022-06-07-12-14-51%202.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a7fb4b1a3d0fda1e0a0_PHOTO-2022-06-07-12-14-51 2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a80fe27d24d1f9f3898_PHOTO-2022-06-07-12-14-51.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a80fe27d24d1f9f3898_PHOTO-2022-06-07-12-14-51.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a822bd40f49284b00a6_PHOTO-2022-06-07-12-14-51%205%20(1).jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a822bd40f49284b00a6_PHOTO-2022-06-07-12-14-51 5 (1).jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a82f46716c0f44ede44_PHOTO-2022-06-07-12-14-51%203.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a82f46716c0f44ede44_PHOTO-2022-06-07-12-14-51 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a80a597e75edfa227f3_PHOTO-2022-06-07-12-14-51%204.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a80a597e75edfa227f3_PHOTO-2022-06-07-12-14-51 4.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a81fe27d24d1f9f3971_PHOTO-2022-06-07-12-14-51%206.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a81fe27d24d1f9f3971_PHOTO-2022-06-07-12-14-51 6.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a80ce0524cbcdb6e097_PHOTO-2022-06-07-12-14-51%207.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a80ce0524cbcdb6e097_PHOTO-2022-06-07-12-14-51 7.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a80126e82dc05b2051f_PHOTO-2022-06-07-12-14-51%209.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a80126e82dc05b2051f_PHOTO-2022-06-07-12-14-51 9.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a810b72d706df22dab0_PHOTO-2022-06-07-12-14-51%2010.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a810b72d706df22dab0_PHOTO-2022-06-07-12-14-51 10.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a7f19b64ca44f64c2ae_PHOTO-2022-06-07-12-14-51%2011.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a7f19b64ca44f64c2ae_PHOTO-2022-06-07-12-14-51 11.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a8019b64ca44f64c2e6_PHOTO-2022-06-07-12-14-51%2012.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a8019b64ca44f64c2e6_PHOTO-2022-06-07-12-14-51 12.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a7f8511f32f6338d0c5_PHOTO-2022-06-07-12-14-51%2013.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a7f8511f32f6338d0c5_PHOTO-2022-06-07-12-14-51 13.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a82b115e878899b7bba_PHOTO-2022-06-07-12-14-51%2017.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a82b115e878899b7bba_PHOTO-2022-06-07-12-14-51 17.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a813c346559fa417c83_PHOTO-2022-06-07-12-14-51%2019.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a813c346559fa417c83_PHOTO-2022-06-07-12-14-51 19.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d8a82178bf50c0a24d7e6_PHOTO-2022-06-07-12-14-51%2020.jpg",
+              "file": "collections/portfolio-stylings/el-hamamy-residence/661d8a82178bf50c0a24d7e6_PHOTO-2022-06-07-12-14-51 20.jpg",
+              "status": "ok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "portfolio-visual-arts",
+      "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---f66f05b8-8e80-4180-9b4d-bc02b5012538.csv",
+      "items": [
+        {
+          "slug": "plaster-art",
+          "name": "3D Abstract paintings.",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baad3bc6b355249ad2b7_RNI-Films-IMG-F05E4472-EAD4-4E69-8232-513C9D0D8071.jpg",
+              "file": "collections/portfolio-visual-arts/plaster-art/6626baad3bc6b355249ad2b7_RNI-Films-IMG-F05E4472-EAD4-4E69-8232-513C9D0D8071.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baa6db67283ea0be723d_RNI-Films-IMG-9A8AC79A-90A1-4BA0-84B1-C9E9D4A6F4CE.jpg",
+              "file": "collections/portfolio-visual-arts/plaster-art/6626baa6db67283ea0be723d_RNI-Films-IMG-9A8AC79A-90A1-4BA0-84B1-C9E9D4A6F4CE.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baaddb67283ea0be7cb1_RNI-Films-IMG-485B65CA-0CEF-4EB8-875C-151FCFB302BC.jpg",
+              "file": "collections/portfolio-visual-arts/plaster-art/6626baaddb67283ea0be7cb1_RNI-Films-IMG-485B65CA-0CEF-4EB8-875C-151FCFB302BC.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662194e917b913c0f4502fa1_RNI-Films-IMG-24909573-7E0D-4AE4-B84B-CAE3E1F9F326.jpg",
+              "file": "collections/portfolio-visual-arts/plaster-art/662194e917b913c0f4502fa1_RNI-Films-IMG-24909573-7E0D-4AE4-B84B-CAE3E1F9F326.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "abstract-flower-inspired",
+          "name": "Abstract flower.",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93ba74bca047acd74fd7_IMG_9315.JPG",
+              "file": "collections/portfolio-visual-arts/abstract-flower-inspired/661d93ba74bca047acd74fd7_IMG_9315.JPG",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d940174bca047acd78396_IMG_9312.jpg",
+              "file": "collections/portfolio-visual-arts/abstract-flower-inspired/661d940174bca047acd78396_IMG_9312.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "abstract-painting-on-wood-canvas",
+          "name": "Abstract painting on wood canvas.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d94816b2beefb59507936_IMG_6558.jpg",
+              "file": "collections/portfolio-visual-arts/abstract-painting-on-wood-canvas/661d94816b2beefb59507936_IMG_6558.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "alexandria-street",
+          "name": "Alexandria street",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da0a0c531dfa612967ee1_IMG_5021.jpg",
+              "file": "collections/portfolio-visual-arts/alexandria-street/661da0a0c531dfa612967ee1_IMG_5021.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "aswan-still-life",
+          "name": "Aswan still life",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661db09016c4cd87451395f9_IMG_6554.jpg",
+              "file": "collections/portfolio-visual-arts/aswan-still-life/661db09016c4cd87451395f9_IMG_6554.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "beach-loving",
+          "name": "Beach loving.",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da28d54ec0d11ef71ba4c_IMG_9576.jpg",
+              "file": "collections/portfolio-visual-arts/beach-loving/661da28d54ec0d11ef71ba4c_IMG_9576.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da2992768a065fbcdbac6_RNI-Films-IMG-2051519C-77F0-4FE8-A772-4184084A2465.jpg",
+              "file": "collections/portfolio-visual-arts/beach-loving/661da2992768a065fbcdbac6_RNI-Films-IMG-2051519C-77F0-4FE8-A772-4184084A2465.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da2992f481e0135ee6aa1_RNI-Films-IMG-A621D9C8-5CD0-4E71-84AC-F3B19A724530.jpg",
+              "file": "collections/portfolio-visual-arts/beach-loving/661da2992f481e0135ee6aa1_RNI-Films-IMG-A621D9C8-5CD0-4E71-84AC-F3B19A724530.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "black-bird",
+          "name": "Black bird.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da0be2aa4bc713813b176_RNI-Films-IMG-67230052-6D6A-4E62-B007-FA2676FEC341%202.jpg",
+              "file": "collections/portfolio-visual-arts/black-bird/661da0be2aa4bc713813b176_RNI-Films-IMG-67230052-6D6A-4E62-B007-FA2676FEC341 2.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "black-forest",
+          "name": "Black forest.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eaea13b1eed4fe5731502_IMG_6602.jpg",
+              "file": "collections/portfolio-visual-arts/black-forest/661eaea13b1eed4fe5731502_IMG_6602.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "black-magic-woman",
+          "name": "Black magic woman.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eadb4a11ea6aa0b55b79a_IMG_6597.jpg",
+              "file": "collections/portfolio-visual-arts/black-magic-woman/661eadb4a11ea6aa0b55b79a_IMG_6597.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "blending-in-the-desert",
+          "name": "Blending in the desert.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bcee7feead03f8a5df6a_IMG_6557.jpg",
+              "file": "collections/portfolio-visual-arts/blending-in-the-desert/6622bcee7feead03f8a5df6a_IMG_6557.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "collage-art",
+          "name": "Collage art.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017eb162a27105224012_RNI-Films-IMG-807FCFE5-A94C-4A36-BF6C-6E27A0C5C6CB%202%20(1).jpg",
+              "file": "collections/portfolio-visual-arts/collage-art/6617017eb162a27105224012_RNI-Films-IMG-807FCFE5-A94C-4A36-BF6C-6E27A0C5C6CB 2 (1).jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "einstein-visuals",
+          "name": "Einstein visuals.",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bec1f722a84d07d75c2f_einstien.jpg",
+              "file": "collections/portfolio-visual-arts/einstein-visuals/6622bec1f722a84d07d75c2f_einstien.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bee1006be9ac8aadc53f_IMG_6628.jpg",
+              "file": "collections/portfolio-visual-arts/einstein-visuals/6622bee1006be9ac8aadc53f_IMG_6628.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bee2d60796992e46988c_IMG_6629.jpg",
+              "file": "collections/portfolio-visual-arts/einstein-visuals/6622bee2d60796992e46988c_IMG_6629.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "enlightenment",
+          "name": "Enlightenment.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66296074133b6ecf39abbc03_IMG_8039%202%20(1).jpg",
+              "file": "collections/portfolio-visual-arts/enlightenment/66296074133b6ecf39abbc03_IMG_8039 2 (1).jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "eye-wave",
+          "name": "Eye wave.",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287be6cd7c9717b2f9e5be_RNI-Films-IMG-3988B5ED-EA55-4F10-85C9-A6D0AF42D960.jpg",
+              "file": "collections/portfolio-visual-arts/eye-wave/66287be6cd7c9717b2f9e5be_RNI-Films-IMG-3988B5ED-EA55-4F10-85C9-A6D0AF42D960.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287bf05e6b456b4db93c74_RNI-Films-IMG-56C771BF-1D37-42A9-B2C4-9E4BECCB0ED9.jpg",
+              "file": "collections/portfolio-visual-arts/eye-wave/66287bf05e6b456b4db93c74_RNI-Films-IMG-56C771BF-1D37-42A9-B2C4-9E4BECCB0ED9.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287bd5518b23c7e46d42cb_RNI-Films-IMG-81B29043-A956-42DE-A425-BCBDC87F1B56.jpg",
+              "file": "collections/portfolio-visual-arts/eye-wave/66287bd5518b23c7e46d42cb_RNI-Films-IMG-81B29043-A956-42DE-A425-BCBDC87F1B56.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "eyes-can-speak",
+          "name": "Eyes can speak.",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622be0d75c7e1d3a0e93955_eyeflowers.jpg",
+              "file": "collections/portfolio-visual-arts/eyes-can-speak/6622be0d75c7e1d3a0e93955_eyeflowers.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622be3370c18cd86d8d558b_IMG_6576.jpg",
+              "file": "collections/portfolio-visual-arts/eyes-can-speak/6622be3370c18cd86d8d558b_IMG_6576.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622be334ad73d72bb1cbd59_IMG_6577.jpg",
+              "file": "collections/portfolio-visual-arts/eyes-can-speak/6622be334ad73d72bb1cbd59_IMG_6577.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "forest-magic",
+          "name": "Forest magic.",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da07ad6d0ac9165186eba_IMG_9810.jpg",
+              "file": "collections/portfolio-visual-arts/forest-magic/661da07ad6d0ac9165186eba_IMG_9810.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da07a1959c8a48c0135bf_IMG_9720.jpg",
+              "file": "collections/portfolio-visual-arts/forest-magic/661da07a1959c8a48c0135bf_IMG_9720.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da07a8fc199a8472a20f0_IMG_9807.jpg",
+              "file": "collections/portfolio-visual-arts/forest-magic/661da07a8fc199a8472a20f0_IMG_9807.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "golden-hour",
+          "name": "Golden hour.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da7dd359ccaac580512ad_RNI-Films-IMG-F72D75CD-56BA-4DC2-B767-6AC1C74FEFA5%202.jpg",
+              "file": "collections/portfolio-visual-arts/golden-hour/661da7dd359ccaac580512ad_RNI-Films-IMG-F72D75CD-56BA-4DC2-B767-6AC1C74FEFA5 2.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "lost-in-the-desert",
+          "name": "Lost in the desert.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da24fc37c4dac971a95d7_RNI-Films-IMG-309863E6-0D18-4553-B620-8B887469285A%202.jpg",
+              "file": "collections/portfolio-visual-arts/lost-in-the-desert/661da24fc37c4dac971a95d7_RNI-Films-IMG-309863E6-0D18-4553-B620-8B887469285A 2.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "sunset-love",
+          "name": "Love.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eae11e2683d4f255ab10c_IMG_6598.jpg",
+              "file": "collections/portfolio-visual-arts/sunset-love/661eae11e2683d4f255ab10c_IMG_6598.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "magical-mountains",
+          "name": "Magical mountains.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eae7b3c67f4dd6fcfb267_IMG_6599.jpg",
+              "file": "collections/portfolio-visual-arts/magical-mountains/661eae7b3c67f4dd6fcfb267_IMG_6599.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "mountain-view",
+          "name": "Mountain view.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/661da7981e9b0a04321bad47_RNI-Films-IMG-E3FEF1EA-8457-4EAF-9B5A-3F9797DE0413.jpg",
+              "file": "collections/portfolio-visual-arts/mountain-view/661da7981e9b0a04321bad47_RNI-Films-IMG-E3FEF1EA-8457-4EAF-9B5A-3F9797DE0413.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "nambia",
+          "name": "Nambia.",
+          "count": 6,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287912cfda01ba63e61312_RNI-Films-IMG-BC004CDD-721B-4615-AF49-07E1E61B4059.jpg",
+              "file": "collections/portfolio-visual-arts/nambia/66287912cfda01ba63e61312_RNI-Films-IMG-BC004CDD-721B-4615-AF49-07E1E61B4059.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879611953a27c55bffd0c_RNI-Films-IMG-664938C5-97C1-4715-A938-AF75FE78B440.jpg",
+              "file": "collections/portfolio-visual-arts/nambia/662879611953a27c55bffd0c_RNI-Films-IMG-664938C5-97C1-4715-A938-AF75FE78B440.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879624c5a60437bfe32e4_RNI-Films-IMG-BA0E1CF8-01FA-49A4-B9DF-3D63DFFE8F4F.jpg",
+              "file": "collections/portfolio-visual-arts/nambia/662879624c5a60437bfe32e4_RNI-Films-IMG-BA0E1CF8-01FA-49A4-B9DF-3D63DFFE8F4F.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287961e4a82a903dc3ec2b_RNI-Films-IMG-CD1A3520-CC14-4BF1-A7AB-54773C8A2537.jpg",
+              "file": "collections/portfolio-visual-arts/nambia/66287961e4a82a903dc3ec2b_RNI-Films-IMG-CD1A3520-CC14-4BF1-A7AB-54773C8A2537.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628796241919aefb8ecbc5f_RNI-Films-IMG-D82C653D-9D7A-4BB3-B5F1-F7E2222CD4F7.jpg",
+              "file": "collections/portfolio-visual-arts/nambia/6628796241919aefb8ecbc5f_RNI-Films-IMG-D82C653D-9D7A-4BB3-B5F1-F7E2222CD4F7.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879612ea5264f6c4538f0_RNI-Films-IMG-F6470785-8390-4BEE-88A6-5EA1B1D26464.jpg",
+              "file": "collections/portfolio-visual-arts/nambia/662879612ea5264f6c4538f0_RNI-Films-IMG-F6470785-8390-4BEE-88A6-5EA1B1D26464.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "over-the-window",
+          "name": "Over the window I.",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a5806c2c99cbcabe5c9_RNI-Films-IMG-C68224AB-FF6B-4185-A7E3-32E63B115EAC.jpg",
+              "file": "collections/portfolio-visual-arts/over-the-window/66287a5806c2c99cbcabe5c9_RNI-Films-IMG-C68224AB-FF6B-4185-A7E3-32E63B115EAC.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6d41919aefb8ee1494_RNI-Films-IMG-C19CE96E-5342-460E-90E8-053351EF7351.jpg",
+              "file": "collections/portfolio-visual-arts/over-the-window/66287a6d41919aefb8ee1494_RNI-Films-IMG-C19CE96E-5342-460E-90E8-053351EF7351.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6d4ccbfa48e66fa271_RNI-Films-IMG-AC9194B9-BFCA-4E26-956A-58402933F095.jpg",
+              "file": "collections/portfolio-visual-arts/over-the-window/66287a6d4ccbfa48e66fa271_RNI-Films-IMG-AC9194B9-BFCA-4E26-956A-58402933F095.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6dd89edfc36b911115_RNI-Films-IMG-B264EA9D-3D6A-4817-86D4-72F2D701C4C6.jpg",
+              "file": "collections/portfolio-visual-arts/over-the-window/66287a6dd89edfc36b911115_RNI-Films-IMG-B264EA9D-3D6A-4817-86D4-72F2D701C4C6.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "over-the-window-ii",
+          "name": "Over the window II.",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287aa170874cbbce0ede7f_RNI-Films-IMG-2A289EEB-DD86-401B-9D0A-C414242F841C.jpg",
+              "file": "collections/portfolio-visual-arts/over-the-window-ii/66287aa170874cbbce0ede7f_RNI-Films-IMG-2A289EEB-DD86-401B-9D0A-C414242F841C.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287abfbe4f62bb6fc5d95d_RNI-Films-IMG-66B2623D-AAF8-4EFA-BA91-033D49011ED2.jpg",
+              "file": "collections/portfolio-visual-arts/over-the-window-ii/66287abfbe4f62bb6fc5d95d_RNI-Films-IMG-66B2623D-AAF8-4EFA-BA91-033D49011ED2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287abf70874cbbce0f08e8_RNI-Films-IMG-BB6191C8-EC54-463C-A85D-1312C6F846E9.jpg",
+              "file": "collections/portfolio-visual-arts/over-the-window-ii/66287abf70874cbbce0f08e8_RNI-Films-IMG-BB6191C8-EC54-463C-A85D-1312C6F846E9.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287abfe14c9bdf11767325_RNI-Films-IMG-387042C5-F928-49B2-9C7E-D43544A9F18C.jpg",
+              "file": "collections/portfolio-visual-arts/over-the-window-ii/66287abfe14c9bdf11767325_RNI-Films-IMG-387042C5-F928-49B2-9C7E-D43544A9F18C.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "portraits",
+          "name": "Portraits",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da03ec531dfa612960084_IMG_6550.jpg",
+              "file": "collections/portfolio-visual-arts/portraits/661da03ec531dfa612960084_IMG_6550.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da05178df4402a8450587_IMG_6551.jpg",
+              "file": "collections/portfolio-visual-arts/portraits/661da05178df4402a8450587_IMG_6551.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da051f3e3d6f942de891c_IMG_6552%20(1).jpg",
+              "file": "collections/portfolio-visual-arts/portraits/661da051f3e3d6f942de891c_IMG_6552 (1).jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "rooted-in-spirits",
+          "name": "Rooted in Spirits.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286b6886a2013838ead967_IMG_7438.jpg",
+              "file": "collections/portfolio-visual-arts/rooted-in-spirits/66286b6886a2013838ead967_IMG_7438.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "sunset-magic",
+          "name": "Safety.",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879d91953a27c55c080af_RNI-Films-IMG-F93514CA-5BB2-4220-8070-6A562229FF88.jpg",
+              "file": "collections/portfolio-visual-arts/sunset-magic/662879d91953a27c55c080af_RNI-Films-IMG-F93514CA-5BB2-4220-8070-6A562229FF88.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879edb2846b51738d2fce_RNI-Films-IMG-C49BEE6E-7B40-4DE1-81CE-04BC5F041FE8.jpg",
+              "file": "collections/portfolio-visual-arts/sunset-magic/662879edb2846b51738d2fce_RNI-Films-IMG-C49BEE6E-7B40-4DE1-81CE-04BC5F041FE8.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879ed04ca7bbff2423da9_RNI-Films-IMG-D2FB5A05-4C19-49C5-B010-F101B6D39D46.jpg",
+              "file": "collections/portfolio-visual-arts/sunset-magic/662879ed04ca7bbff2423da9_RNI-Films-IMG-D2FB5A05-4C19-49C5-B010-F101B6D39D46.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "serenity",
+          "name": "Serenity.",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b3f4b7173fea703658d_RNI-Films-IMG-B9E1E433-88D8-43F0-B55E-34B661F4A58C.jpg",
+              "file": "collections/portfolio-visual-arts/serenity/66287b3f4b7173fea703658d_RNI-Films-IMG-B9E1E433-88D8-43F0-B55E-34B661F4A58C.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b5104ca7bbff243d2ea_RNI-Films-IMG-8C8F38E9-C237-4898-8DC2-29454FD8D7B0.jpg",
+              "file": "collections/portfolio-visual-arts/serenity/66287b5104ca7bbff243d2ea_RNI-Films-IMG-8C8F38E9-C237-4898-8DC2-29454FD8D7B0.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b51c2ce0ca99eb8caa1_RNI-Films-IMG-6DBBB239-C56C-4D89-AF08-2ECA1887163E.jpg",
+              "file": "collections/portfolio-visual-arts/serenity/66287b51c2ce0ca99eb8caa1_RNI-Films-IMG-6DBBB239-C56C-4D89-AF08-2ECA1887163E.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b51c2ce0ca99eb8ca3f_RNI-Films-IMG-18BC5D89-5852-45AD-A4C4-C4E34CBD013F.jpg",
+              "file": "collections/portfolio-visual-arts/serenity/66287b51c2ce0ca99eb8ca3f_RNI-Films-IMG-18BC5D89-5852-45AD-A4C4-C4E34CBD013F.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "shore",
+          "name": "Shore.",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628798b8340881af1c14220_RNI-Films-IMG-D5544AB6-139C-4856-BBA4-B6CECDAD235D.jpg",
+              "file": "collections/portfolio-visual-arts/shore/6628798b8340881af1c14220_RNI-Films-IMG-D5544AB6-139C-4856-BBA4-B6CECDAD235D.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879a3e14c9bdf11752ee9_RNI-Films-IMG-4B6851BA-04C7-48EC-B4A9-D543986EE5EE.jpg",
+              "file": "collections/portfolio-visual-arts/shore/662879a3e14c9bdf11752ee9_RNI-Films-IMG-4B6851BA-04C7-48EC-B4A9-D543986EE5EE.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879a441919aefb8ed0beb_RNI-Films-IMG-5C3328C1-D52B-47E4-B225-4388CB85CF50.jpg",
+              "file": "collections/portfolio-visual-arts/shore/662879a441919aefb8ed0beb_RNI-Films-IMG-5C3328C1-D52B-47E4-B225-4388CB85CF50.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "soul-dance-painting",
+          "name": "Soul dance painting.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d949fce855882618bb811_IMG_6556.jpg",
+              "file": "collections/portfolio-visual-arts/soul-dance-painting/661d949fce855882618bb811_IMG_6556.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "still-life-at-aswan-egypt",
+          "name": "Still life at Aswan, Egypt.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287c244ccbfa48e6716e9a_RNI-Films-IMG-71E39340-14C3-44EF-B266-D51C981941F9.jpg",
+              "file": "collections/portfolio-visual-arts/still-life-at-aswan-egypt/66287c244ccbfa48e6716e9a_RNI-Films-IMG-71E39340-14C3-44EF-B266-D51C981941F9.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "still-life-at-nuweiba-sinai-egypt",
+          "name": "Still life at Nuweiba, Sinai, Egypt.",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628788891d7407e8aec6b34_RNI-Films-IMG-9E35FF81-479E-4507-BF36-9C6CEAF9B1FF.jpg",
+              "file": "collections/portfolio-visual-arts/still-life-at-nuweiba-sinai-egypt/6628788891d7407e8aec6b34_RNI-Films-IMG-9E35FF81-479E-4507-BF36-9C6CEAF9B1FF.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628745b99581e6998a65fb0_876A26C6-B03F-4824-AF9E-D57FDFFF0335.jpg",
+              "file": "collections/portfolio-visual-arts/still-life-at-nuweiba-sinai-egypt/6628745b99581e6998a65fb0_876A26C6-B03F-4824-AF9E-D57FDFFF0335.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "still-life-at-nuweiba-sinai",
+          "name": "Still life at Nuweiba, Sinai.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662878ac7c79f37887ca5090_RNI-Films-IMG-1FB851FA-7C7F-4934-B5C1-82ECCF5E6D89.jpg",
+              "file": "collections/portfolio-visual-arts/still-life-at-nuweiba-sinai/662878ac7c79f37887ca5090_RNI-Films-IMG-1FB851FA-7C7F-4934-B5C1-82ECCF5E6D89.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "still-life-at-nuweiba-sinai-2",
+          "name": "Still life at Nuweiba, Sinai.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662878ebd22943eb32d708a8_RNI-Films-IMG-2F6681DB-DF1D-46D4-B20C-E58675E0E105.jpg",
+              "file": "collections/portfolio-visual-arts/still-life-at-nuweiba-sinai-2/662878ebd22943eb32d708a8_RNI-Films-IMG-2F6681DB-DF1D-46D4-B20C-E58675E0E105.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "still-life-at-nuweiba-sinai-3",
+          "name": "Still life at Nuweiba, Sinai.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b06d0edbc526523bda7_RNI-Films-IMG-EDA788E9-C400-4CC4-B87B-B0ED4E5BB565.jpg",
+              "file": "collections/portfolio-visual-arts/still-life-at-nuweiba-sinai-3/66287b06d0edbc526523bda7_RNI-Films-IMG-EDA788E9-C400-4CC4-B87B-B0ED4E5BB565.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "still-life-in-saskatoon",
+          "name": "Still life in Saskatoon.",
+          "count": 2,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eae59b2fcc8171db5d884_IMG_6600.jpg",
+              "file": "collections/portfolio-visual-arts/still-life-in-saskatoon/661eae59b2fcc8171db5d884_IMG_6600.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eae5fe2683d4f255af896_IMG_6601.jpg",
+              "file": "collections/portfolio-visual-arts/still-life-in-saskatoon/661eae5fe2683d4f255af896_IMG_6601.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "still-life-painting",
+          "name": "Still life painting.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d9419c9f456d4808e6aa5_IMG_6559.jpg",
+              "file": "collections/portfolio-visual-arts/still-life-painting/661d9419c9f456d4808e6aa5_IMG_6559.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "sunset-still-life-painting",
+          "name": "Sunset still life painting.",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d946371fa38cfa6360c54_IMG_6555.jpg",
+              "file": "collections/portfolio-visual-arts/sunset-still-life-painting/661d946371fa38cfa6360c54_IMG_6555.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "woman-in-space",
+          "name": "Woman in space.",
+          "count": 3,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bdfff722a84d07d6977b_girl%20space.jpg",
+              "file": "collections/portfolio-visual-arts/woman-in-space/6622bdfff722a84d07d6977b_girl space.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd67c0c401c64e523571_IMG_6627.jpg",
+              "file": "collections/portfolio-visual-arts/woman-in-space/6622bd67c0c401c64e523571_IMG_6627.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd95d60796992e4519f6_IMG_6578.jpg",
+              "file": "collections/portfolio-visual-arts/woman-in-space/6622bd95d60796992e4519f6_IMG_6578.jpg",
+              "status": "ok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "projects",
+      "source_csv": "Paletta_-_Projects_-_659a138155ab821f566b9e72---88ab3ac8-ba83-4ca1-9519-c5fbb3cb4dff.csv",
+      "items": [
+        {
+          "slug": "reupholstered-antique-chair",
+          "name": "Antique Chair",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66046472ab75984c36079dcc_chair3.jpg",
+              "file": "collections/projects/reupholstered-antique-chair/66046472ab75984c36079dcc_chair3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/660464ddc6ea2bfe8c8234d0_chair1.jpg",
+              "file": "collections/projects/reupholstered-antique-chair/660464ddc6ea2bfe8c8234d0_chair1.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/660464db3acf5793689889d6_WhatsApp%20Image%202022-03-09%20at%202.11.41%20PM.jpeg",
+              "file": "collections/projects/reupholstered-antique-chair/660464db3acf5793689889d6_WhatsApp Image 2022-03-09 at 2.11.41 PM.jpeg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66046525de766486ed10cb3f_chair2.jpg",
+              "file": "collections/projects/reupholstered-antique-chair/66046525de766486ed10cb3f_chair2.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "customized-shoe-rack",
+          "name": "Customized Shoe Rack",
+          "count": 4,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66577861f9924b7f50d116a3_RNI-Films-IMG-376B7AC3-59BF-41DF-81CB-3AA70FE847F5.jpg",
+              "file": "collections/projects/customized-shoe-rack/66577861f9924b7f50d116a3_RNI-Films-IMG-376B7AC3-59BF-41DF-81CB-3AA70FE847F5.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657aff495501f0fa6884ab9_PHOTO-2022-06-15-01-05-36%202.jpg",
+              "file": "collections/projects/customized-shoe-rack/6657aff495501f0fa6884ab9_PHOTO-2022-06-15-01-05-36 2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657aff4e6914a5c6cb60b4c_PHOTO-2022-06-15-01-05-36.jpg",
+              "file": "collections/projects/customized-shoe-rack/6657aff4e6914a5c6cb60b4c_PHOTO-2022-06-15-01-05-36.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657aff45131d7a7df70c4fe_PHOTO-2022-06-15-01-11-35.jpg",
+              "file": "collections/projects/customized-shoe-rack/6657aff45131d7a7df70c4fe_PHOTO-2022-06-15-01-11-35.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "game-lounge-design",
+          "name": "Game Lounge Design",
+          "count": 6,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1d8603354f6b98ced9_RNI-Films-IMG-14EC123A-F49F-441E-81F1-53F9638F1320.jpg",
+              "file": "collections/projects/game-lounge-design/6669de1d8603354f6b98ced9_RNI-Films-IMG-14EC123A-F49F-441E-81F1-53F9638F1320.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c8603354f6b98ce8d_RNI-Films-IMG-83CBB6E2-8585-46C2-8740-DDBD461A3862.jpg",
+              "file": "collections/projects/game-lounge-design/6669de1c8603354f6b98ce8d_RNI-Films-IMG-83CBB6E2-8585-46C2-8740-DDBD461A3862.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c46bd3122e7a52dba_RNI-Films-IMG-B46950C1-C8AE-4E02-9EE1-7968C1F6C779.jpg",
+              "file": "collections/projects/game-lounge-design/6669de1c46bd3122e7a52dba_RNI-Films-IMG-B46950C1-C8AE-4E02-9EE1-7968C1F6C779.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c501559bb06b160ff_RNI-Films-IMG-24092C05-3AC6-432A-81BB-D147FE68115D.jpg",
+              "file": "collections/projects/game-lounge-design/6669de1c501559bb06b160ff_RNI-Films-IMG-24092C05-3AC6-432A-81BB-D147FE68115D.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1d501559bb06b1610f_RNI-Films-IMG-557CD478-E0C0-4FA4-9259-3B89F6EC7020.jpg",
+              "file": "collections/projects/game-lounge-design/6669de1d501559bb06b1610f_RNI-Films-IMG-557CD478-E0C0-4FA4-9259-3B89F6EC7020.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c445a7a41ab86ddea_RNI-Films-IMG-5E29687C-268D-49A4-9020-E3954CB50CC0.jpg",
+              "file": "collections/projects/game-lounge-design/6669de1c445a7a41ab86ddea_RNI-Films-IMG-5E29687C-268D-49A4-9020-E3954CB50CC0.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "grounded-bedroom-set",
+          "name": "Grounded Bedroom Set",
+          "count": 13,
+          "files": [
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8a2ff4b9fabc4ee7bca_RNI-Films-IMG-61E4B728-8249-4632-8E3D-F4A48E3CA91F.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8a2ff4b9fabc4ee7bca_RNI-Films-IMG-61E4B728-8249-4632-8E3D-F4A48E3CA91F.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b6f7ffb5c84b3618ae_RNI-Films-IMG-D8B89A06-EE9B-4FFB-92CE-91279C577EBB.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b6f7ffb5c84b3618ae_RNI-Films-IMG-D8B89A06-EE9B-4FFB-92CE-91279C577EBB.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b4ff4b9fabc4ee997c_RNI-Films-IMG-4B707775-E0F1-48CE-BE00-209F6E2A98CD%203.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b4ff4b9fabc4ee997c_RNI-Films-IMG-4B707775-E0F1-48CE-BE00-209F6E2A98CD 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b461d87c6db37316e0_RNI-Films-IMG-A5EB913D-D5C1-4960-8D69-45D73F206491%203.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b461d87c6db37316e0_RNI-Films-IMG-A5EB913D-D5C1-4960-8D69-45D73F206491 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b4ae6eac762e961551_RNI-Films-IMG-57332DA5-0FAE-4092-934A-C8E47945D537%203.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b4ae6eac762e961551_RNI-Films-IMG-57332DA5-0FAE-4092-934A-C8E47945D537 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b49c2e563a1738a13d_RNI-Films-IMG-DF3C810E-1375-4C00-807D-0ED24F241D89%203.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b49c2e563a1738a13d_RNI-Films-IMG-DF3C810E-1375-4C00-807D-0ED24F241D89 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b71d9fe6638bd1e9ab_RNI-Films-IMG-1FA172E1-CD2B-4A1C-9051-B1C3363E1584.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b71d9fe6638bd1e9ab_RNI-Films-IMG-1FA172E1-CD2B-4A1C-9051-B1C3363E1584.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b51bef5943d8ab63d1_RNI-Films-IMG-8DA2C4C1-366D-4B07-9DF6-4EA677026001%203.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b51bef5943d8ab63d1_RNI-Films-IMG-8DA2C4C1-366D-4B07-9DF6-4EA677026001 3.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6629d79b43e9e1b0644b9b20_RNI-Films-IMG-2FD9C3CF-CB7A-4395-9BE3-C7C360FD29EF%20(1).jpg",
+              "file": "collections/projects/grounded-bedroom-set/6629d79b43e9e1b0644b9b20_RNI-Films-IMG-2FD9C3CF-CB7A-4395-9BE3-C7C360FD29EF (1).jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b408225c9b5d073406_RNI-Films-IMG-BB6A9C7B-3E0E-4A39-9DCC-C2AF4A06EB86%202.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b408225c9b5d073406_RNI-Films-IMG-BB6A9C7B-3E0E-4A39-9DCC-C2AF4A06EB86 2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b5fc4bff6bb4858c5d_RNI-Films-IMG-47E44C01-4252-4761-9F4D-29EF81BA6F00%204.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b5fc4bff6bb4858c5d_RNI-Films-IMG-47E44C01-4252-4761-9F4D-29EF81BA6F00 4.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a952c04b94ddace97f07_RNI-Films-IMG-B2489A60-D39B-48EA-871E-CA8A89E3BB07%204.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a952c04b94ddace97f07_RNI-Films-IMG-B2489A60-D39B-48EA-871E-CA8A89E3BB07 4.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657a8b68300e310a5be8e35_RNI-Films-IMG-E3B778FC-5F6E-4AC1-BC70-B2D45DD38C4A%203.jpg",
+              "file": "collections/projects/grounded-bedroom-set/6657a8b68300e310a5be8e35_RNI-Films-IMG-E3B778FC-5F6E-4AC1-BC70-B2D45DD38C4A 3.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "oldshoecabinet",
+          "name": "Old Shoe Cabinet",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017eb162a27105224012_RNI-Films-IMG-807FCFE5-A94C-4A36-BF6C-6E27A0C5C6CB%202%20(1).jpg",
+              "file": "collections/projects/oldshoecabinet/6617017eb162a27105224012_RNI-Films-IMG-807FCFE5-A94C-4A36-BF6C-6E27A0C5C6CB 2 (1).jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "studio-al-mokattam",
+          "name": "Studio Al Mokattam",
+          "count": 20,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e83fbc3454836decadb_RNI-Films-IMG-A692FD3D-5D23-4B5F-AA93-8D3E33FA1BB8.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e83fbc3454836decadb_RNI-Films-IMG-A692FD3D-5D23-4B5F-AA93-8D3E33FA1BB8.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e85c6dcc4fd3aeade43_RNI-Films-IMG-8BBFA493-774A-4C1A-9EF9-8F993DEAB604.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e85c6dcc4fd3aeade43_RNI-Films-IMG-8BBFA493-774A-4C1A-9EF9-8F993DEAB604.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e8455ee141c5849696f_RNI-Films-IMG-8CC46867-8891-42A4-A8FF-2EB0C2DC9084.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e8455ee141c5849696f_RNI-Films-IMG-8CC46867-8891-42A4-A8FF-2EB0C2DC9084.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e82d794d836c179ad74_RNI-Films-IMG-CE20C15D-4FE9-454C-BACA-E8E79E8EFE80.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e82d794d836c179ad74_RNI-Films-IMG-CE20C15D-4FE9-454C-BACA-E8E79E8EFE80.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e843b471764505d2cb4_RNI-Films-IMG-72FCBFDD-022B-410D-A87A-33674528C79A.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e843b471764505d2cb4_RNI-Films-IMG-72FCBFDD-022B-410D-A87A-33674528C79A.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e8316b57fb4d8445318_RNI-Films-IMG-63774ECC-8295-47EF-9638-02B2A8EB81E8.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e8316b57fb4d8445318_RNI-Films-IMG-63774ECC-8295-47EF-9638-02B2A8EB81E8.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e820f965396081568b4_RNI-Films-IMG-AE09A324-B57D-45B6-84DF-63EEAFAE466C.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e820f965396081568b4_RNI-Films-IMG-AE09A324-B57D-45B6-84DF-63EEAFAE466C.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e85d570b8a2a403c59a_RNI-Films-IMG-6AFF5316-180C-4600-AF22-8384312E2099.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e85d570b8a2a403c59a_RNI-Films-IMG-6AFF5316-180C-4600-AF22-8384312E2099.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e830f9653960815691b_RNI-Films-IMG-7329EEA2-E95B-4CCA-8780-12C61631B164.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e830f9653960815691b_RNI-Films-IMG-7329EEA2-E95B-4CCA-8780-12C61631B164.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e820f965396081568e0_RNI-Films-IMG-A876E35E-B5AC-4185-BCFE-13AE2A59909F.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e820f965396081568e0_RNI-Films-IMG-A876E35E-B5AC-4185-BCFE-13AE2A59909F.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66577c47d3fd30ee578e357b_Resized.jpg",
+              "file": "collections/projects/studio-al-mokattam/66577c47d3fd30ee578e357b_Resized.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e840c4ae08aabb92ba2_RNI-Films-IMG-6A6CDA26-432B-4BF7-AC81-2E9E848B78C9.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e840c4ae08aabb92ba2_RNI-Films-IMG-6A6CDA26-432B-4BF7-AC81-2E9E848B78C9.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e82b5cb677a4e35cf60_RNI-Films-IMG-B95A6CF5-4E4B-4B3F-8ABD-33B5F284F4B5.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e82b5cb677a4e35cf60_RNI-Films-IMG-B95A6CF5-4E4B-4B3F-8ABD-33B5F284F4B5.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e817416796df25bbea0_RNI-Films-IMG-C16AAC02-9044-400E-A2F5-27EC10A684C5.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e817416796df25bbea0_RNI-Films-IMG-C16AAC02-9044-400E-A2F5-27EC10A684C5.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e847416796df25bc133_RNI-Films-IMG-2787C3A7-0FA9-4A43-91F8-0D6CCB5F7AB8.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e847416796df25bc133_RNI-Films-IMG-2787C3A7-0FA9-4A43-91F8-0D6CCB5F7AB8.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e826fd48e879590698b_RNI-Films-IMG-C6149BBD-DED1-4B29-BBDC-B64DB1966689.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e826fd48e879590698b_RNI-Films-IMG-C6149BBD-DED1-4B29-BBDC-B64DB1966689.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e82d794d836c179ae08_RNI-Films-IMG-B76FFFB6-3D48-419C-B004-E0046A079A24.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e82d794d836c179ae08_RNI-Films-IMG-B76FFFB6-3D48-419C-B004-E0046A079A24.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e84fbc3454836decb74_RNI-Films-IMG-3729D282-452A-459C-833F-6A1470AB13F2.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e84fbc3454836decb74_RNI-Films-IMG-3729D282-452A-459C-833F-6A1470AB13F2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e837416796df25bc0df_RNI-Films-IMG-37836969-C2B1-4C23-9DB0-A21E7D582402.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e837416796df25bc0df_RNI-Films-IMG-37836969-C2B1-4C23-9DB0-A21E7D582402.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66578e817416796df25bbe79_RNI-Films-IMG-EC77E6BA-3A57-463F-AB29-F4D4DF7864E9.jpg",
+              "file": "collections/projects/studio-al-mokattam/66578e817416796df25bbe79_RNI-Films-IMG-EC77E6BA-3A57-463F-AB29-F4D4DF7864E9.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "studio-al-nakhil",
+          "name": "Studio Al Nakhil",
+          "count": 20,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66170e182f83c292bb32ec36_RNI-Films-IMG-F5D0962B-8AB2-4AA0-86A3-F6D8738BE35A.jpg",
+              "file": "collections/projects/studio-al-nakhil/66170e182f83c292bb32ec36_RNI-Films-IMG-F5D0962B-8AB2-4AA0-86A3-F6D8738BE35A.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661080ca147a7b0ab77125e3_Resized.jpg",
+              "file": "collections/projects/studio-al-nakhil/661080ca147a7b0ab77125e3_Resized.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/665773f1a6e967645b11f5e8_Resized2.jpg",
+              "file": "collections/projects/studio-al-nakhil/665773f1a6e967645b11f5e8_Resized2.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846d04cb28b8fa13da102_RNI-Films-IMG-3CA53BCA-7A0E-4447-95F2-A63653DB8919.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846d04cb28b8fa13da102_RNI-Films-IMG-3CA53BCA-7A0E-4447-95F2-A63653DB8919.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661860a4678aab974c1196af_RNI-Films-IMG-2B3387D5-CABE-4FDE-BC8A-FDB6E899CC6E.jpg",
+              "file": "collections/projects/studio-al-nakhil/661860a4678aab974c1196af_RNI-Films-IMG-2B3387D5-CABE-4FDE-BC8A-FDB6E899CC6E.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662194ea05ee8e2a59cf4a60_RNI-Films-IMG-5B29CEB9-EBD5-40CD-A2F7-5947B1CF80D6.jpg",
+              "file": "collections/projects/studio-al-nakhil/662194ea05ee8e2a59cf4a60_RNI-Films-IMG-5B29CEB9-EBD5-40CD-A2F7-5947B1CF80D6.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846d041b8923c0e015252_RNI-Films-IMG-4F73FD10-9119-4C6F-B85E-22DCC8CFCFE9.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846d041b8923c0e015252_RNI-Films-IMG-4F73FD10-9119-4C6F-B85E-22DCC8CFCFE9.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846cfcc12b416184730a4_RNI-Films-IMG-5BC30E7E-848A-4594-9140-447160CC8398.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846cfcc12b416184730a4_RNI-Films-IMG-5BC30E7E-848A-4594-9140-447160CC8398.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846cdefcbcb5f52fa0485_RNI-Films-IMG-66A16884-4DCC-4986-B652-3A5DB895B37C.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846cdefcbcb5f52fa0485_RNI-Films-IMG-66A16884-4DCC-4986-B652-3A5DB895B37C.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/665773f0a672efb5696f3b5c_RNI-Films-IMG-DA2A9D74-90FB-421B-8341-16E8BC44D1DA.jpg",
+              "file": "collections/projects/studio-al-nakhil/665773f0a672efb5696f3b5c_RNI-Films-IMG-DA2A9D74-90FB-421B-8341-16E8BC44D1DA.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846d05966c4bd44a7c83b_RNI-Films-IMG-2AD804F6-E49D-4E6D-9AD9-AFAB05BFC788.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846d05966c4bd44a7c83b_RNI-Films-IMG-2AD804F6-E49D-4E6D-9AD9-AFAB05BFC788.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/665773f11f6c349cd69737fa_RNI-Films-IMG-1CF5EB83-429F-4571-A59C-1D0AD0F223B8.jpg",
+              "file": "collections/projects/studio-al-nakhil/665773f11f6c349cd69737fa_RNI-Films-IMG-1CF5EB83-429F-4571-A59C-1D0AD0F223B8.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846ce8da1ccaf0477c763_RNI-Films-IMG-CAA39370-E820-4957-B1B8-E6D677D26930.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846ce8da1ccaf0477c763_RNI-Films-IMG-CAA39370-E820-4957-B1B8-E6D677D26930.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846cefa14ffcb67795feb_RNI-Films-IMG-0CFE6F7D-CFD5-49EA-BAA2-954DD32A8C8D.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846cefa14ffcb67795feb_RNI-Films-IMG-0CFE6F7D-CFD5-49EA-BAA2-954DD32A8C8D.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846cd4e7395c0df7c015d_RNI-Films-IMG-3F0E7F09-6BE1-48DF-B86F-A70FFC9460EF.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846cd4e7395c0df7c015d_RNI-Films-IMG-3F0E7F09-6BE1-48DF-B86F-A70FFC9460EF.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/665773f0898625bc09961b35_RNI-Films-IMG-3D8430F5-2832-4C6F-9C85-3D9E189A2D0F.jpg",
+              "file": "collections/projects/studio-al-nakhil/665773f0898625bc09961b35_RNI-Films-IMG-3D8430F5-2832-4C6F-9C85-3D9E189A2D0F.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846ce8da1ccaf0477c5f4_RNI-Films-IMG-A071DDDC-24A3-4A66-B891-2233DF8B0026.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846ce8da1ccaf0477c5f4_RNI-Films-IMG-A071DDDC-24A3-4A66-B891-2233DF8B0026.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/665776b1a41787b93205e01c_RNI-Films-IMG-11E169E2-C5D9-4B31-90F6-3B96F9903052.jpg",
+              "file": "collections/projects/studio-al-nakhil/665776b1a41787b93205e01c_RNI-Films-IMG-11E169E2-C5D9-4B31-90F6-3B96F9903052.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629ad83048f4e93714bd190_RNI-Films-IMG-22D76D3E-9F18-4AE0-BC11-8C3F66DD5BFE.jpg",
+              "file": "collections/projects/studio-al-nakhil/6629ad83048f4e93714bd190_RNI-Films-IMG-22D76D3E-9F18-4AE0-BC11-8C3F66DD5BFE.jpg",
+              "status": "ok"
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661846d0efcbcb5f52fa0842_RNI-Films-IMG-3B6744D8-76FB-49BA-8475-8E8127DE219D.jpg",
+              "file": "collections/projects/studio-al-nakhil/661846d0efcbcb5f52fa0842_RNI-Films-IMG-3B6744D8-76FB-49BA-8475-8E8127DE219D.jpg",
+              "status": "ok"
+            }
+          ]
+        },
+        {
+          "slug": "vintage-mirror",
+          "name": "Vintage mirror",
+          "count": 1,
+          "files": [
+            {
+              "url": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017e7250a3fce3b846c3_RNI-Films-IMG-5C42A209-52DC-4CF4-AF3A-DA30FCB9E198%203%20(1).jpg",
+              "file": "collections/projects/vintage-mirror/6617017e7250a3fce3b846c3_RNI-Films-IMG-5C42A209-52DC-4CF4-AF3A-DA30FCB9E198 3 (1).jpg",
+              "status": "ok"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
