@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/beach-loving",
+  "slug": "beach-loving",
+  "data": {
+    "Name": "Beach loving.",
+    "Slug": "beach-loving",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661da2be2768a065fbcde9af",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 21:57:18 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 21:57:18 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 21:57:23 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da28d54ec0d11ef71ba4c_IMG_9576.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Acrylic painitng. ",
+    "Details": "<p>Acrylic painting. </p><p>2022</p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da2992768a065fbcdbac6_RNI-Films-IMG-2051519C-77F0-4FE8-A772-4184084A2465.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da2992f481e0135ee6aa1_RNI-Films-IMG-A621D9C8-5CD0-4E71-84AC-F3B19A724530.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da28d54ec0d11ef71ba4c_IMG_9576.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da2992768a065fbcdbac6_RNI-Films-IMG-2051519C-77F0-4FE8-A772-4184084A2465.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da2992f481e0135ee6aa1_RNI-Films-IMG-A621D9C8-5CD0-4E71-84AC-F3B19A724530.jpg"
+  ]
+}

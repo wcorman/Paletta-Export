@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/sierra",
+  "slug": "sierra",
+  "data": {
+    "Name": "Sierra ",
+    "Slug": "sierra",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "65a4add0e54d41c8daea521d",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Jan 15 2024 04:00:16 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat Apr 13 2024 01:22:04 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sat Apr 13 2024 01:42:36 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65ac2253c6cc171c87020ecf_sierra-01%20(1).png",
+    "Header": "Sierra facelift ",
+    "Description": "",
+    "Short Description": "Illustrated this design for Sierra, the bottle. ",
+    "Details": "",
+    "Design File (PDF)": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65ac2253c6cc171c87020ecf_sierra-01%20(1).png",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619de107f0be2ebedea455e_SIERA-01.png",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65ac2253c6cc171c87020ecf_sierra-01%20(1).png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619de107f0be2ebedea455e_SIERA-01.png"
+  ]
+}

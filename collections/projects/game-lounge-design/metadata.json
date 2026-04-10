@@ -1,0 +1,31 @@
+{
+  "source_csv": "Paletta_-_Projects_-_659a138155ab821f566b9e72---bf01f768-d0e7-43de-9fdc-6a5db7230d85.csv",
+  "folder": "collections/projects/game-lounge-design",
+  "slug": "game-lounge-design",
+  "data": {
+    "Name": "Game Lounge Design",
+    "Slug": "game-lounge-design",
+    "Collection ID": "659a138155ab821f566b9e72",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6669daacb3659d45bdf1552c",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Jun 12 2024 17:28:12 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 24 2025 03:03:51 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 24 2025 03:11:19 GMT+0000 (Coordinated Universal Time)",
+    "Title": "Game Lounge Design",
+    "Short Description": "Upcycled lounge pieces designed for From Waste To Good Taste, showcasing playful, sustainable design through reclaimed materials.",
+    "Description": "<p id=\"\">Designed a custom game lounge installation for <em id=\"\">From Waste To Good Taste</em>, an event celebrating sustainability and eco-conscious living. The space featured upcycled furniture and playful, functional pieces crafted from reclaimed materials—inviting guests to relax, connect, and experience the beauty of reuse.</p>",
+    "Main image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1d8603354f6b98ced9_RNI-Films-IMG-14EC123A-F49F-441E-81F1-53F9638F1320.jpg",
+    "Related Service(s)": "custom-furniture",
+    "Image-gallery": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c8603354f6b98ce8d_RNI-Films-IMG-83CBB6E2-8585-46C2-8740-DDBD461A3862.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c46bd3122e7a52dba_RNI-Films-IMG-B46950C1-C8AE-4E02-9EE1-7968C1F6C779.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c501559bb06b160ff_RNI-Films-IMG-24092C05-3AC6-432A-81BB-D147FE68115D.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1d501559bb06b1610f_RNI-Films-IMG-557CD478-E0C0-4FA4-9259-3B89F6EC7020.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c445a7a41ab86ddea_RNI-Films-IMG-5E29687C-268D-49A4-9020-E3954CB50CC0.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1d8603354f6b98ced9_RNI-Films-IMG-14EC123A-F49F-441E-81F1-53F9638F1320.jpg"
+  },
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1d8603354f6b98ced9_RNI-Films-IMG-14EC123A-F49F-441E-81F1-53F9638F1320.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c8603354f6b98ce8d_RNI-Films-IMG-83CBB6E2-8585-46C2-8740-DDBD461A3862.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c46bd3122e7a52dba_RNI-Films-IMG-B46950C1-C8AE-4E02-9EE1-7968C1F6C779.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c501559bb06b160ff_RNI-Films-IMG-24092C05-3AC6-432A-81BB-D147FE68115D.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1d501559bb06b1610f_RNI-Films-IMG-557CD478-E0C0-4FA4-9259-3B89F6EC7020.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6669de1c445a7a41ab86ddea_RNI-Films-IMG-5E29687C-268D-49A4-9020-E3954CB50CC0.jpg"
+  ]
+}

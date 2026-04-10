@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/mountain-view",
+  "slug": "mountain-view",
+  "data": {
+    "Name": "Mountain view.",
+    "Slug": "mountain-view",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661da7bea825c036d357d75e",
+    "Archived": "true",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 22:18:38 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Aug 20 2025 18:38:52 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
+    "Main Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/661da7981e9b0a04321bad47_RNI-Films-IMG-E3FEF1EA-8457-4EAF-9B5A-3F9797DE0413.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Acrylic painting. ",
+    "Details": "<p id=\"\">Acrylic painting.</p><p>2023</p>",
+    "Image Gallery": "",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/661da7981e9b0a04321bad47_RNI-Films-IMG-E3FEF1EA-8457-4EAF-9B5A-3F9797DE0413.jpg"
+  ]
+}

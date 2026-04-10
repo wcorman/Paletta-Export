@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/bedroom-design",
+  "slug": "bedroom-design",
+  "data": {
+    "Name": "Bedroom design. ",
+    "Slug": "bedroom-design",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622c55cbff2298c73d3783c",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:26:20 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu Apr 25 2024 04:12:55 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu Apr 25 2024 04:13:00 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c52d05e5a26edabce1ac_RNI-Films-IMG-B0CFA73E-B522-4E7B-B660-E57EA21977B6.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Created while working at HIDS. ",
+    "Details": "<p>Queen Bed, 2 side tables and a dresser. </p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629d842c96d3df854dd1bf1_RNI-Films-IMG-4A5DD85B-8920-4827-A2B7-D7DD1CFE589E.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c5368dc4513c1fbfcc95_RNI-Films-IMG-2934ED9E-8390-4141-96EE-45E60BF3B477.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c5362b62db0a82b29616_RNI-Films-IMG-DDF5F115-0581-4398-BA33-12BFAE8824D7.jpg",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c52d05e5a26edabce1ac_RNI-Films-IMG-B0CFA73E-B522-4E7B-B660-E57EA21977B6.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629d842c96d3df854dd1bf1_RNI-Films-IMG-4A5DD85B-8920-4827-A2B7-D7DD1CFE589E.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c5368dc4513c1fbfcc95_RNI-Films-IMG-2934ED9E-8390-4141-96EE-45E60BF3B477.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c5362b62db0a82b29616_RNI-Films-IMG-DDF5F115-0581-4398-BA33-12BFAE8824D7.jpg"
+  ]
+}

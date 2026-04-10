@@ -1,0 +1,37 @@
+{
+  "source_csv": "Paletta_Portfolio_Product_Designs_661d7f3d9e17b1860925d329---75e1262e-cc1e-4ca7-8dcc-493a584509c4.csv",
+  "folder": "collections/portfolio-product-designs/lighting-unit",
+  "slug": "lighting-unit",
+  "data": {
+    "Name": "Lighting units ",
+    "Slug": "lighting-unit",
+    "Collection ID": "661d7f3d9e17b1860925d329",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6626bb793bc6b355249bbeab",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 22 2024 19:33:13 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu Apr 25 2024 20:21:36 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu Apr 25 2024 20:25:24 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bb5c7d202b69a21822c4_RNI-Films-IMG-3C74160B-9373-4009-8014-F19F1DB8C9E0%20(1).jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Created while working at HIDS.",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec2b82be38d8803deb3_RNI-Films-IMG-91B54A83-D039-47E0-A450-9A5E3E2D876C.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da8473c745238c026c797_RNI-Films-IMG-2BBE6064-7920-47A1-87FC-CD80F42838B3.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec3469a2dd1cf09d59f_RNI-Films-IMG-6664B90A-9C68-4A05-A0C5-865CD030D925%20(1).jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bc5a8a03d69bd7b139ec_RNI-Films-IMG-AE7A3618-5B06-48DB-8CBE-59D73E0A3AA6.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec1098089b748f72697_RNI-Films-IMG-258A2CA6-F314-43F0-A84F-79061425A9DB.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec218de2091e2f770cb_RNI-Films-IMG-21065EAB-BFB0-4269-AB43-8795143681A9.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec1ae419a050d9d00a6_RNI-Films-IMG-57550B67-6078-440D-A7BA-AE0B7EF67F4B.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec218de2091e2f77061_RNI-Films-IMG-131789D7-B113-4EBD-929A-4C83339449D1.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec6e1561c7b22c6e378_RNI-Films-IMG-3CB85A77-A328-4CD6-9A5D-04C0CD3C5F91.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bd2a3589d57e1827b7db_RNI-Films-IMG-0A8E9E7D-1152-4E55-B91A-A0EF6120CE95.jpg",
+    "Highlight?": "true"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bb5c7d202b69a21822c4_RNI-Films-IMG-3C74160B-9373-4009-8014-F19F1DB8C9E0%20(1).jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec2b82be38d8803deb3_RNI-Films-IMG-91B54A83-D039-47E0-A450-9A5E3E2D876C.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da8473c745238c026c797_RNI-Films-IMG-2BBE6064-7920-47A1-87FC-CD80F42838B3.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec3469a2dd1cf09d59f_RNI-Films-IMG-6664B90A-9C68-4A05-A0C5-865CD030D925%20(1).jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bc5a8a03d69bd7b139ec_RNI-Films-IMG-AE7A3618-5B06-48DB-8CBE-59D73E0A3AA6.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec1098089b748f72697_RNI-Films-IMG-258A2CA6-F314-43F0-A84F-79061425A9DB.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec218de2091e2f770cb_RNI-Films-IMG-21065EAB-BFB0-4269-AB43-8795143681A9.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec1ae419a050d9d00a6_RNI-Films-IMG-57550B67-6078-440D-A7BA-AE0B7EF67F4B.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec218de2091e2f77061_RNI-Films-IMG-131789D7-B113-4EBD-929A-4C83339449D1.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daec6e1561c7b22c6e378_RNI-Films-IMG-3CB85A77-A328-4CD6-9A5D-04C0CD3C5F91.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bd2a3589d57e1827b7db_RNI-Films-IMG-0A8E9E7D-1152-4E55-B91A-A0EF6120CE95.jpg"
+  ]
+}

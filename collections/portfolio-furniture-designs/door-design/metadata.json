@@ -1,0 +1,28 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/door-design",
+  "slug": "door-design",
+  "data": {
+    "Name": "Door Design.",
+    "Slug": "door-design",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622c50a714bb2de3d0cc6d6",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:24:58 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu Apr 25 2024 21:01:19 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu Apr 25 2024 21:01:31 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c4eb3045d3a34f336d2d_RNI-Films-IMG-48304425-5882-4541-A420-45AA9F9AFE7A.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Created while working at HIDS. ",
+    "Details": "<p>Glass door with engraved wooden frame. </p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c4eb3045d3a34f336d2d_RNI-Films-IMG-48304425-5882-4541-A420-45AA9F9AFE7A.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662ac49b12fa7c031969d395_fb2e4e3e-d8f8-4ec0-b239-330896e4b67d%20copy.JPG",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c4eb3045d3a34f336d2d_RNI-Films-IMG-48304425-5882-4541-A420-45AA9F9AFE7A.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662ac49b12fa7c031969d395_fb2e4e3e-d8f8-4ec0-b239-330896e4b67d%20copy.JPG"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/reflections",
+  "slug": "reflections",
+  "data": {
+    "Name": "Reflections",
+    "Slug": "reflections",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "662866f5e9e5ecfafd630c71",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 01:57:09 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 01:58:10 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 01:58:15 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866cc1869b40a5411b231_Untitled-1-04.png",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Illustrations created for a clothing brand.",
+    "Details": "",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866eae849199620b4d220_8.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866e827dd8bbe75ce5fc4_T_Shirt_06.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866cc1869b40a5411b231_Untitled-1-04.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866eae849199620b4d220_8.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866e827dd8bbe75ce5fc4_T_Shirt_06.jpg"
+  ]
+}

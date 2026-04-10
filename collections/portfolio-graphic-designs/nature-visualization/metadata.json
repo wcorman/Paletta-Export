@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/nature-visualization",
+  "slug": "nature-visualization",
+  "data": {
+    "Name": "Nature Visualization",
+    "Slug": "nature-visualization",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "65a4add0e54d41c8daea5210",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Jan 15 2024 04:00:16 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat Apr 13 2024 01:34:27 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sat Apr 13 2024 01:42:36 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c81284f5aea133f6adaf60_Tree%20visuals-01%20(1).png",
+    "Header": "Nature Visualization",
+    "Description": "",
+    "Short Description": "Illustrations made with a picture of a tree that I have taken in Saskatoon. ",
+    "Details": "<p>Made with Adobe Illustrator. </p>",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c812897126eca35ce5959d_Tree%20visuals-02%20(1).png",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c81284f5aea133f6adaf60_Tree%20visuals-01%20(1).png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c812897126eca35ce5959d_Tree%20visuals-02%20(1).png"
+  ]
+}

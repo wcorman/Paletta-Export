@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/eyes-can-speak",
+  "slug": "eyes-can-speak",
+  "data": {
+    "Name": "Eyes can speak. ",
+    "Slug": "eyes-can-speak",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622be7134f017810789b342",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 18:56:49 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 19 2024 18:56:49 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 19 2024 18:56:53 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622be0d75c7e1d3a0e93955_eyeflowers.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Digital painting made on photoshop with drawing tablet. ",
+    "Details": "<p>Art for a clothing brand, Psych. </p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622be3370c18cd86d8d558b_IMG_6576.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622be334ad73d72bb1cbd59_IMG_6577.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622be0d75c7e1d3a0e93955_eyeflowers.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622be3370c18cd86d8d558b_IMG_6576.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622be334ad73d72bb1cbd59_IMG_6577.jpg"
+  ]
+}

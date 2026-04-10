@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+  "folder": "collections/portfolio-dances/choreography-by-lindsay-harpham",
+  "slug": "choreography-by-lindsay-harpham",
+  "data": {
+    "Name": "Choreography by Lindsay Harpham",
+    "Slug": "choreography-by-lindsay-harpham",
+    "Collection ID": "65a47faadc1efbe190055673",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "65a48e477c89e05bfa499ea2",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Jan 15 2024 01:45:43 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 19 2024 20:39:05 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 19 2024 20:43:40 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48e439a5e22222e5e7029_Screenshot%202024-01-14%20at%207.43.00%20PM.png",
+    "Header": "Choreography by Lindsay Harpham",
+    "Description": "It was a pleasure learning this part of the piece from Lindsay Harpham ",
+    "Short Description": "A part of it. ",
+    "Dance Video Link": "https://vimeo.com/931655223",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48e439a5e22222e5e7029_Screenshot%202024-01-14%20at%207.43.00%20PM.png",
+    "https://vimeo.com/931655223"
+  ]
+}

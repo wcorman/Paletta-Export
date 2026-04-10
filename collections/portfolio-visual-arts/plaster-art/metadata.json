@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/plaster-art",
+  "slug": "plaster-art",
+  "data": {
+    "Name": "3D Abstract paintings. ",
+    "Slug": "plaster-art",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6626babc802a365aaaf6ad01",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 22 2024 19:30:03 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:29:38 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baad3bc6b355249ad2b7_RNI-Films-IMG-F05E4472-EAD4-4E69-8232-513C9D0D8071.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Plaster and acrylic painting. ",
+    "Details": "<p id=\"\">Plaster and acrylic painting.</p><ol start=\"2024\"><li>‍</li></ol>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baa6db67283ea0be723d_RNI-Films-IMG-9A8AC79A-90A1-4BA0-84B1-C9E9D4A6F4CE.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baaddb67283ea0be7cb1_RNI-Films-IMG-485B65CA-0CEF-4EB8-875C-151FCFB302BC.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662194e917b913c0f4502fa1_RNI-Films-IMG-24909573-7E0D-4AE4-B84B-CAE3E1F9F326.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baad3bc6b355249ad2b7_RNI-Films-IMG-F05E4472-EAD4-4E69-8232-513C9D0D8071.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baad3bc6b355249ad2b7_RNI-Films-IMG-F05E4472-EAD4-4E69-8232-513C9D0D8071.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baa6db67283ea0be723d_RNI-Films-IMG-9A8AC79A-90A1-4BA0-84B1-C9E9D4A6F4CE.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626baaddb67283ea0be7cb1_RNI-Films-IMG-485B65CA-0CEF-4EB8-875C-151FCFB302BC.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662194e917b913c0f4502fa1_RNI-Films-IMG-24909573-7E0D-4AE4-B84B-CAE3E1F9F326.jpg"
+  ]
+}

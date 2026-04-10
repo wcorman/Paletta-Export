@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/dinning-table-and-buffet-design",
+  "slug": "dinning-table-and-buffet-design",
+  "data": {
+    "Name": "Dinning table and buffet design. ",
+    "Slug": "dinning-table-and-buffet-design",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661dadd248e28ee072d7d1f3",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 22:44:34 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 22:44:34 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 22:46:22 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad9c5a581a4675f15a82_f44e39ac-39c9-415f-9051-1c67b4d6f84e.JPG",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Design created while working at Hala Imam Design Studio. ",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dada85a581a4675f167a9_3dcdfc83-43a6-4561-b2e8-5ed074046796.JPG; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dada7469a2dd1cf089dd4_c67d55f5-770e-405d-9068-71bdc516e142.JPG; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad9c5a581a4675f15a82_f44e39ac-39c9-415f-9051-1c67b4d6f84e.JPG; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dada7098089b748f5df9d_f625b712-1a71-4874-95af-fd7d1119f96d.JPG",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad9c5a581a4675f15a82_f44e39ac-39c9-415f-9051-1c67b4d6f84e.JPG",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dada85a581a4675f167a9_3dcdfc83-43a6-4561-b2e8-5ed074046796.JPG",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dada7469a2dd1cf089dd4_c67d55f5-770e-405d-9068-71bdc516e142.JPG",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dada7098089b748f5df9d_f625b712-1a71-4874-95af-fd7d1119f96d.JPG"
+  ]
+}

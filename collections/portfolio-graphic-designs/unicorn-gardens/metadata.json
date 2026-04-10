@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/unicorn-gardens",
+  "slug": "unicorn-gardens",
+  "data": {
+    "Name": "Unicorn Gardens",
+    "Slug": "unicorn-gardens",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "65a4add0e54d41c8daea5214",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Jan 15 2024 04:00:16 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat Apr 13 2024 01:25:26 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sat Apr 13 2024 01:42:36 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c811782a38163bab8499d1_POSTER%20(1).jpg",
+    "Header": "Unicorn Gardens",
+    "Description": "",
+    "Short Description": "Was playing around with my Monroe digital painting I crafted this poster and ticket just for fun",
+    "Details": "",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619df021a023cac6a6eeefa_ticket%202.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c811782a38163bab8499d1_POSTER%20(1).jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619df021a023cac6a6eeefa_ticket%202.jpg"
+  ]
+}

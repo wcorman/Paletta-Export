@@ -1,0 +1,28 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/abstract-flower-inspired",
+  "slug": "abstract-flower-inspired",
+  "data": {
+    "Name": "Abstract flower.",
+    "Slug": "abstract-flower-inspired",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661d9404b253f25107db41d5",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 20:54:28 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:31:20 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93ba74bca047acd74fd7_IMG_9315.JPG",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Inspired by the flowers on the cushions. ",
+    "Details": "<p id=\"\">Customized painting for In Fine Order Staging Company in Saskatoon.</p><p id=\"\">Acrylic painting </p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d940174bca047acd78396_IMG_9312.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93ba74bca047acd74fd7_IMG_9315.JPG",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93ba74bca047acd74fd7_IMG_9315.JPG",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d940174bca047acd78396_IMG_9312.jpg"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+  "folder": "collections/portfolio-dances/somatic-movement-improvisation",
+  "slug": "somatic-movement-improvisation",
+  "data": {
+    "Name": "Somatic Movement Improvisation",
+    "Slug": "somatic-movement-improvisation",
+    "Collection ID": "65a47faadc1efbe190055673",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "65a48baf290ce3c73bb6a77b",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Jan 15 2024 01:34:39 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 19 2024 20:39:23 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 19 2024 20:43:40 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48b89736b28bebad3f8ac_Screenshot%202024-01-14%20at%207.33.20%20PM.png",
+    "Header": "Somatic Movement Improvisation",
+    "Description": "Deep listening, getting inspired from nature. ",
+    "Short Description": "Deep listening, getting inspired from nature.",
+    "Dance Video Link": "https://vimeo.com/902823382",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48b89736b28bebad3f8ac_Screenshot%202024-01-14%20at%207.33.20%20PM.png",
+    "https://vimeo.com/902823382"
+  ]
+}

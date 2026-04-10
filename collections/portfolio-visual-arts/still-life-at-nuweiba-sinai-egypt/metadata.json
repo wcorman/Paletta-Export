@@ -1,0 +1,28 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/still-life-at-nuweiba-sinai-egypt",
+  "slug": "still-life-at-nuweiba-sinai-egypt",
+  "data": {
+    "Name": "Still life at Nuweiba, Sinai, Egypt. ",
+    "Slug": "still-life-at-nuweiba-sinai-egypt",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "662874924c5a60437bf8b8c5",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 02:55:14 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:12:11 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:19:26 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628788891d7407e8aec6b34_RNI-Films-IMG-9E35FF81-479E-4507-BF36-9C6CEAF9B1FF.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628745b99581e6998a65fb0_876A26C6-B03F-4824-AF9E-D57FDFFF0335.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628788891d7407e8aec6b34_RNI-Films-IMG-9E35FF81-479E-4507-BF36-9C6CEAF9B1FF.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628745b99581e6998a65fb0_876A26C6-B03F-4824-AF9E-D57FDFFF0335.jpg"
+  ]
+}

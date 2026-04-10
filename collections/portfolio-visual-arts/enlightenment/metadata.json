@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/enlightenment",
+  "slug": "enlightenment",
+  "data": {
+    "Name": "Enlightenment. ",
+    "Slug": "enlightenment",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "662960a4a977638b75780ae5",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 19:42:28 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 19:42:28 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 19:42:33 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66296074133b6ecf39abbc03_IMG_8039%202%20(1).jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Drawing made with Oil pastel. ",
+    "Details": "<p id=\"\">Oil pastel drawing. </p><p>2019.</p><p>‍</p>",
+    "Image Gallery": "",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66296074133b6ecf39abbc03_IMG_8039%202%20(1).jpg"
+  ]
+}

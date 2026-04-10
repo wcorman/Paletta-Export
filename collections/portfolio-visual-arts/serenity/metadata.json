@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/serenity",
+  "slug": "serenity",
+  "data": {
+    "Name": "Serenity.",
+    "Slug": "serenity",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66287b71e3dcd84ed3433224",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 03:24:33 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:24:33 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:25:01 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b3f4b7173fea703658d_RNI-Films-IMG-B9E1E433-88D8-43F0-B55E-34B661F4A58C.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b5104ca7bbff243d2ea_RNI-Films-IMG-8C8F38E9-C237-4898-8DC2-29454FD8D7B0.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b51c2ce0ca99eb8caa1_RNI-Films-IMG-6DBBB239-C56C-4D89-AF08-2ECA1887163E.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b51c2ce0ca99eb8ca3f_RNI-Films-IMG-18BC5D89-5852-45AD-A4C4-C4E34CBD013F.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b3f4b7173fea703658d_RNI-Films-IMG-B9E1E433-88D8-43F0-B55E-34B661F4A58C.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b5104ca7bbff243d2ea_RNI-Films-IMG-8C8F38E9-C237-4898-8DC2-29454FD8D7B0.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b51c2ce0ca99eb8caa1_RNI-Films-IMG-6DBBB239-C56C-4D89-AF08-2ECA1887163E.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287b51c2ce0ca99eb8ca3f_RNI-Films-IMG-18BC5D89-5852-45AD-A4C4-C4E34CBD013F.jpg"
+  ]
+}

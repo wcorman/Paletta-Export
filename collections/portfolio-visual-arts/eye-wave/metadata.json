@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/eye-wave",
+  "slug": "eye-wave",
+  "data": {
+    "Name": "Eye wave.",
+    "Slug": "eye-wave",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66287bf9b2846b51738f768c",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 03:26:49 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:28:30 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287be6cd7c9717b2f9e5be_RNI-Films-IMG-3988B5ED-EA55-4F10-85C9-A6D0AF42D960.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287bf05e6b456b4db93c74_RNI-Films-IMG-56C771BF-1D37-42A9-B2C4-9E4BECCB0ED9.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287bd5518b23c7e46d42cb_RNI-Films-IMG-81B29043-A956-42DE-A425-BCBDC87F1B56.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287be6cd7c9717b2f9e5be_RNI-Films-IMG-3988B5ED-EA55-4F10-85C9-A6D0AF42D960.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287bf05e6b456b4db93c74_RNI-Films-IMG-56C771BF-1D37-42A9-B2C4-9E4BECCB0ED9.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287bd5518b23c7e46d42cb_RNI-Films-IMG-81B29043-A956-42DE-A425-BCBDC87F1B56.jpg"
+  ]
+}

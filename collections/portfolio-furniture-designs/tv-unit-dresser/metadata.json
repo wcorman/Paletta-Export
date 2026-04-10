@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/tv-unit-dresser",
+  "slug": "tv-unit-dresser",
+  "data": {
+    "Name": "Tv unit/dresser ",
+    "Slug": "tv-unit-dresser",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661dae1b3ed400f04dea5b79",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 22:45:47 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 22:45:47 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 22:46:22 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daddc469a2dd1cf08e578_07211e87-a914-4291-ba98-b1f91cc41e41.JPG",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Multifunctional unit, designed while working at Hala Imam Design Studio. ",
+    "Details": "",
+    "Image Gallery": "",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daddc469a2dd1cf08e578_07211e87-a914-4291-ba98-b1f91cc41e41.JPG"
+  ]
+}

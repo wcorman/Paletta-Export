@@ -1,0 +1,28 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/full-length-mirror",
+  "slug": "full-length-mirror",
+  "data": {
+    "Name": "Full length Mirror. ",
+    "Slug": "full-length-mirror",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661dad6e84ea745a46aaaed8",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 22:42:54 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 22:42:54 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 22:42:58 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad3c3140666489a4fdae_8f8c7feb-e106-4b76-829f-dfc6c2d654ce.JPG",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Designed for a project at Hala Imam Design Studio. ",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad5245dbdbdd2e11cbc8_PHOTO-2021-02-18-03-39-21.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad3c3140666489a4fdae_8f8c7feb-e106-4b76-829f-dfc6c2d654ce.JPG",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad3c3140666489a4fdae_8f8c7feb-e106-4b76-829f-dfc6c2d654ce.JPG",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad5245dbdbdd2e11cbc8_PHOTO-2021-02-18-03-39-21.jpg"
+  ]
+}

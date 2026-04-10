@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/side-table-4",
+  "slug": "side-table-4",
+  "data": {
+    "Name": "Side table",
+    "Slug": "side-table-4",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622cf5fe69ada4f35cd42d2",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 20:09:03 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu Apr 25 2024 04:10:07 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu Apr 25 2024 04:10:13 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cf555cd82ddd912a58dc_RNI-Films-IMG-70953D02-D2D5-4EBC-90D7-6F9719E04147%202.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629d79b43e9e1b0644b9b20_RNI-Films-IMG-2FD9C3CF-CB7A-4395-9BE3-C7C360FD29EF%20(1).jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629d79b7ef7674338f69a34_RNI-Films-IMG-C1AC41D8-382A-4A85-AD97-FB72AF9CD6A1%20(1).jpg",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cf555cd82ddd912a58dc_RNI-Films-IMG-70953D02-D2D5-4EBC-90D7-6F9719E04147%202.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629d79b43e9e1b0644b9b20_RNI-Films-IMG-2FD9C3CF-CB7A-4395-9BE3-C7C360FD29EF%20(1).jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6629d79b7ef7674338f69a34_RNI-Films-IMG-C1AC41D8-382A-4A85-AD97-FB72AF9CD6A1%20(1).jpg"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/international-womens-day",
+  "slug": "international-womens-day",
+  "data": {
+    "Name": "International women's day",
+    "Slug": "international-womens-day",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6619e2c0acecac6fd95d42ab",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Sat Apr 13 2024 01:41:20 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat Apr 13 2024 01:46:01 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sat Apr 13 2024 01:48:03 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2a585214773524658b4_women%20day-01.png",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Instagram post for VIM agency. ",
+    "Details": "<p>Made with Adobe Illustrator. </p>",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2a585214773524658b4_women%20day-01.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e3d3cb675d8f357837c5_women%20day-02.png",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2a585214773524658b4_women%20day-01.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e3d3cb675d8f357837c5_women%20day-02.png"
+  ]
+}

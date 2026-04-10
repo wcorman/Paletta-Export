@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/connected-cabinets",
+  "slug": "connected-cabinets",
+  "data": {
+    "Name": "Connected cabinets.",
+    "Slug": "connected-cabinets",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622c4ace259977b0822728e",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:23:24 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu Apr 25 2024 21:19:48 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu Apr 25 2024 21:19:55 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c4330f63f8a368caf251_IMG_0503.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Designed while working at HIDS. ",
+    "Details": "<p>Designed to fit as much stuff as possible for an artist.</p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c4330f63f8a368caf251_IMG_0503.jpg",
+    "Highlight?": "true"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c4330f63f8a368caf251_IMG_0503.jpg"
+  ]
+}

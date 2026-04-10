@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/portraits",
+  "slug": "portraits",
+  "data": {
+    "Name": "Portraits",
+    "Slug": "portraits",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661da059c30cf3969fa76598",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 21:47:05 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:31:55 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da03ec531dfa612960084_IMG_6550.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Aquarelle painting. ",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da03ec531dfa612960084_IMG_6550.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da05178df4402a8450587_IMG_6551.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da051f3e3d6f942de891c_IMG_6552%20(1).jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da03ec531dfa612960084_IMG_6550.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da05178df4402a8450587_IMG_6551.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da051f3e3d6f942de891c_IMG_6552%20(1).jpg"
+  ]
+}

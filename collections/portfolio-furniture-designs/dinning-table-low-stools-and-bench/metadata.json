@@ -1,0 +1,28 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/dinning-table-low-stools-and-bench",
+  "slug": "dinning-table-low-stools-and-bench",
+  "data": {
+    "Name": "Dinning table, low stools and bench. ",
+    "Slug": "dinning-table-low-stools-and-bench",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622c06db87138ae5c396c96",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:05:17 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 19 2024 19:05:17 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 19 2024 19:05:21 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c042aad3e41a97a95194_RNI-Films-IMG-B547CEA2-90A5-4EA7-B3EA-42CF04BD35A5.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Designed while working at HIDS. ",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab19595ad0353ab62625_RNI-Films-IMG-AA86BD58-6D60-4B11-8863-E231F2742393.jpg",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c042aad3e41a97a95194_RNI-Films-IMG-B547CEA2-90A5-4EA7-B3EA-42CF04BD35A5.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dab19595ad0353ab62625_RNI-Films-IMG-AA86BD58-6D60-4B11-8863-E231F2742393.jpg"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/bathroom-cabinet",
+  "slug": "bathroom-cabinet",
+  "data": {
+    "Name": "Bathroom cabinet. ",
+    "Slug": "bathroom-cabinet",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622cc08b7c678b976551016",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:54:48 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 19 2024 19:54:48 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 19 2024 19:55:17 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc04705118385dbaa7ac_RNI-Films-IMG-FADA5962-62DF-46BC-B25E-482A1909E893.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Image Gallery": "",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc04705118385dbaa7ac_RNI-Films-IMG-FADA5962-62DF-46BC-B25E-482A1909E893.jpg"
+  ]
+}

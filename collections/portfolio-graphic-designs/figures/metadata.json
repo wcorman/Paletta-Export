@@ -1,0 +1,32 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/figures",
+  "slug": "figures",
+  "data": {
+    "Name": "Figures",
+    "Slug": "figures",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "65a4add0e54d41c8daea5222",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Jan 15 2024 04:00:16 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 20:52:28 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 20:52:31 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a4ae1fea992551ef658bb2_Screenshot%202024-01-14%20at%2010.01.06%20PM.png",
+    "Header": "Figures Illustrations ",
+    "Description": "",
+    "Short Description": "Created these illustrations for a clothing brand named Psych for the swim shorts collection. ",
+    "Details": "<p>Made with Adobe Illustrator. </p>",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c8110d7df8e86efac5c401_figuresss-01.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c8110e7393895d5ff51999_figuresss-02.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619dd9fc2b0755aacac4369_figures.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619dd9e8654f7deae8dbecf_figures1.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a4ae1fea992551ef658bb2_Screenshot%202024-01-14%20at%2010.01.06%20PM.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c8110d7df8e86efac5c401_figuresss-01.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c8110e7393895d5ff51999_figuresss-02.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619dd9fc2b0755aacac4369_figures.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619dd9e8654f7deae8dbecf_figures1.jpg"
+  ]
+}

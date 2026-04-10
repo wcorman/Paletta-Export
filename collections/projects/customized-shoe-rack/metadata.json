@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_-_Projects_-_659a138155ab821f566b9e72---bf01f768-d0e7-43de-9fdc-6a5db7230d85.csv",
+  "folder": "collections/projects/customized-shoe-rack",
+  "slug": "customized-shoe-rack",
+  "data": {
+    "Name": "Customized Shoe Rack",
+    "Slug": "customized-shoe-rack",
+    "Collection ID": "659a138155ab821f566b9e72",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "659a138155ab821f566b9eec",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Jan 03 2024 04:00:23 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Tue Jun 24 2025 02:58:21 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jun 24 2025 03:11:19 GMT+0000 (Coordinated Universal Time)",
+    "Title": "Customized Shoe Rack",
+    "Short Description": "Handcrafted shoe rack made from reclaimed wood, featuring a mix of open and closed storage.",
+    "Description": "<p id=\"\">This handcrafted shoe rack was designed as a practical and aesthetic storage solution for a compact entryway. Built entirely from reclaimed wood, it celebrates the raw beauty and individuality of repurposed materials while supporting sustainable building practices.</p><p id=\"\"><strong id=\"\">Key Features:</strong></p><ul id=\"\"><li><strong id=\"\">Material:</strong> 100% reclaimed wood, selected for its rich grain and character</li><li><strong id=\"\">Design:</strong> Asymmetrical layout with a balance of open and closed storage</li><li id=\"\"><strong id=\"\">Storage:</strong><ul id=\"\"><li>Three closed compartments to hide bulkier items or shoes</li><li>Five angled open shelves for easy-access footwear</li><li>Upper open cubby and top shelf for decorative or everyday essentials</li></ul></li><li><strong id=\"\">Finish:</strong> Light sanding and natural oil to preserve texture and tone</li></ul><p id=\"\">The structure’s clean lines and staggered form allow it to fit snugly into a corner space while adding warmth and personality to the room.</p>",
+    "Main image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66577861f9924b7f50d116a3_RNI-Films-IMG-376B7AC3-59BF-41DF-81CB-3AA70FE847F5.jpg",
+    "Related Service(s)": "custom-furniture",
+    "Image-gallery": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66577861f9924b7f50d116a3_RNI-Films-IMG-376B7AC3-59BF-41DF-81CB-3AA70FE847F5.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657aff495501f0fa6884ab9_PHOTO-2022-06-15-01-05-36%202.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657aff4e6914a5c6cb60b4c_PHOTO-2022-06-15-01-05-36.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657aff45131d7a7df70c4fe_PHOTO-2022-06-15-01-11-35.jpg"
+  },
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66577861f9924b7f50d116a3_RNI-Films-IMG-376B7AC3-59BF-41DF-81CB-3AA70FE847F5.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657aff495501f0fa6884ab9_PHOTO-2022-06-15-01-05-36%202.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657aff4e6914a5c6cb60b4c_PHOTO-2022-06-15-01-05-36.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6657aff45131d7a7df70c4fe_PHOTO-2022-06-15-01-11-35.jpg"
+  ]
+}

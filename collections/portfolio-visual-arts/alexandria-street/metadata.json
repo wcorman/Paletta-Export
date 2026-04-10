@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/alexandria-street",
+  "slug": "alexandria-street",
+  "data": {
+    "Name": "Alexandria street ",
+    "Slug": "alexandria-street",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661da0b41959c8a48c017dee",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 21:48:36 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 21:48:36 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 21:52:30 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da0a0c531dfa612967ee1_IMG_5021.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Image Gallery": "",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da0a0c531dfa612967ee1_IMG_5021.jpg"
+  ]
+}

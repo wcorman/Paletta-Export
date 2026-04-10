@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/flourish",
+  "slug": "flourish",
+  "data": {
+    "Name": "Flourish",
+    "Slug": "flourish",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66286729147eb869b6942006",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 01:58:01 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu Apr 25 2024 04:25:58 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu Apr 25 2024 04:27:45 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628670696f71383cd2bba2e_final%2011-05.png",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Illustrations created for a clothing brand.",
+    "Details": "",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662867243e5bbb0dd231fdb8_2%202.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286722e897f5a7bcad568d_T_Shirt_01.jpg",
+    "Highlight": "true"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628670696f71383cd2bba2e_final%2011-05.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662867243e5bbb0dd231fdb8_2%202.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286722e897f5a7bcad568d_T_Shirt_01.jpg"
+  ]
+}

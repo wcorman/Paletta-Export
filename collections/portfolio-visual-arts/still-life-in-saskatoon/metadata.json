@@ -1,0 +1,28 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/still-life-in-saskatoon",
+  "slug": "still-life-in-saskatoon",
+  "data": {
+    "Name": "Still life in Saskatoon.",
+    "Slug": "still-life-in-saskatoon",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661eae751c62fb5956d07e90",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Tue Apr 16 2024 16:59:33 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:30:29 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eae59b2fcc8171db5d884_IMG_6600.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Aquarelle painting.",
+    "Details": "<p id=\"\">Aquarelle painting.</p><p>2020</p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eae5fe2683d4f255af896_IMG_6601.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eae59b2fcc8171db5d884_IMG_6600.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eae59b2fcc8171db5d884_IMG_6600.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eae5fe2683d4f255af896_IMG_6601.jpg"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/side-table-2",
+  "slug": "side-table-2",
+  "data": {
+    "Name": "Side table.",
+    "Slug": "side-table-2",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622bfdb4ea9cb6337720871",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:02:51 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 19 2024 19:02:51 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 19 2024 19:05:21 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bfbb897d1d628ccfcea6_IMG_4876.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Designed while working at HIDS. ",
+    "Details": "",
+    "Image Gallery": "",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bfbb897d1d628ccfcea6_IMG_4876.jpg"
+  ]
+}

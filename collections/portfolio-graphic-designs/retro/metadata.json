@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/retro",
+  "slug": "retro",
+  "data": {
+    "Name": "Retro ",
+    "Slug": "retro",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6619e27eac965564c6205ee4",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Sat Apr 13 2024 01:40:14 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat Apr 13 2024 01:51:56 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sat Apr 13 2024 01:52:00 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e53a1cf83d2960997a12_retro-01.png",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Pattern design ",
+    "Details": "<p>Made with Adobe Illustrator. </p>",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2725c8baff8acebc9e5_retro-01.png",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e53a1cf83d2960997a12_retro-01.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2725c8baff8acebc9e5_retro-01.png"
+  ]
+}

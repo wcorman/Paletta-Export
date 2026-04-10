@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/lost-in-the-desert",
+  "slug": "lost-in-the-desert",
+  "data": {
+    "Name": "Lost in the desert.",
+    "Slug": "lost-in-the-desert",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661da278daf2dfd191d7c5bc",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 21:56:08 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 21:56:08 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 21:57:23 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da24fc37c4dac971a95d7_RNI-Films-IMG-309863E6-0D18-4553-B620-8B887469285A%202.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Oil painting ",
+    "Details": "<p>Oil painitng. </p><p>2023</p>",
+    "Image Gallery": "",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da24fc37c4dac971a95d7_RNI-Films-IMG-309863E6-0D18-4553-B620-8B887469285A%202.jpg"
+  ]
+}

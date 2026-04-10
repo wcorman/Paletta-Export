@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/golden-hour",
+  "slug": "golden-hour",
+  "data": {
+    "Name": "Golden hour.",
+    "Slug": "golden-hour",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661da803359ccaac58053cf0",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 22:19:47 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:32:16 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da7dd359ccaac580512ad_RNI-Films-IMG-F72D75CD-56BA-4DC2-B767-6AC1C74FEFA5%202.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Oil painting.",
+    "Details": "<p id=\"\">Oil painting.</p><p>2023</p>",
+    "Image Gallery": "",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da7dd359ccaac580512ad_RNI-Films-IMG-F72D75CD-56BA-4DC2-B767-6AC1C74FEFA5%202.jpg"
+  ]
+}

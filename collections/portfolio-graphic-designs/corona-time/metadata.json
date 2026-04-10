@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/corona-time",
+  "slug": "corona-time",
+  "data": {
+    "Name": "Corona time ",
+    "Slug": "corona-time",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6619e176a636da6c776832a6",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Sat Apr 13 2024 01:35:50 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 22 2024 01:48:51 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 22 2024 01:48:56 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e13b5c8baff8acea446e_exploration-02.png",
+    "Header": "Instagram posts for VIM agency during the Pandemic. ",
+    "Description": "",
+    "Short Description": "",
+    "Details": "<p>Created with Adobe Illustrator </p>",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e13b5c8baff8acea446e_exploration-02.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6625c1fd7621415f1c6e7330_corona%20-04.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6625c1fcadbc9812de104940_corona%20-05.png",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e13b5c8baff8acea446e_exploration-02.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6625c1fd7621415f1c6e7330_corona%20-04.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6625c1fcadbc9812de104940_corona%20-05.png"
+  ]
+}

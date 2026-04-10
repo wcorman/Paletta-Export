@@ -1,0 +1,28 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/side-table-3",
+  "slug": "side-table-3",
+  "data": {
+    "Name": "Side table ",
+    "Slug": "side-table-3",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622c02b282c2fe43872324c",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:04:11 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 19 2024 19:04:11 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 19 2024 19:05:21 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bfe875a845c8a0839585_IMG_5051.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Designed while working at HIDS. ",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c01a99a7f19d764c16fc_RNI-Films-IMG-78630360-259F-4B30-B085-704803DB505F.jpg",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bfe875a845c8a0839585_IMG_5051.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c01a99a7f19d764c16fc_RNI-Films-IMG-78630360-259F-4B30-B085-704803DB505F.jpg"
+  ]
+}

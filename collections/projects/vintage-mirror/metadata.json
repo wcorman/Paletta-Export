@@ -1,0 +1,26 @@
+{
+  "source_csv": "Paletta_-_Projects_-_659a138155ab821f566b9e72---bf01f768-d0e7-43de-9fdc-6a5db7230d85.csv",
+  "folder": "collections/projects/vintage-mirror",
+  "slug": "vintage-mirror",
+  "data": {
+    "Name": "Vintage mirror ",
+    "Slug": "vintage-mirror",
+    "Collection ID": "659a138155ab821f566b9e72",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66577e72c7cd297efa3f76a7",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed May 29 2024 19:13:54 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed May 29 2024 19:13:54 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed May 29 2024 19:13:58 GMT+0000 (Coordinated Universal Time)",
+    "Title": "We acquired an 80-year-old mirror from an antique collector.",
+    "Short Description": "We acquired an 80-year-old mirror from an antique collector.",
+    "Description": "<p>The mirror, originally gold and beige colored, underwent sanding and reshaping to suit its new home perfectly.</p>",
+    "Main image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017e7250a3fce3b846c3_RNI-Films-IMG-5C42A209-52DC-4CF4-AF3A-DA30FCB9E198%203%20(1).jpg",
+    "Related Service(s)": "eco-uplifts",
+    "Image-gallery": ""
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6617017e7250a3fce3b846c3_RNI-Films-IMG-5C42A209-52DC-4CF4-AF3A-DA30FCB9E198%203%20(1).jpg"
+  ]
+}

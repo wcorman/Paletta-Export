@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/abstract-painting-on-wood-canvas",
+  "slug": "abstract-painting-on-wood-canvas",
+  "data": {
+    "Name": "Abstract painting on wood canvas.",
+    "Slug": "abstract-painting-on-wood-canvas",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661d948d408d3ac6967bbf13",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 20:56:45 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 20:56:45 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 21:14:21 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d94816b2beefb59507936_IMG_6558.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Image Gallery": "",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d94816b2beefb59507936_IMG_6558.jpg"
+  ]
+}

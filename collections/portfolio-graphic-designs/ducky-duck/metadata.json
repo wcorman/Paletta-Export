@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/ducky-duck",
+  "slug": "ducky-duck",
+  "data": {
+    "Name": "Ducky duck",
+    "Slug": "ducky-duck",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6626c020e1c76b35faa781ed",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 22 2024 19:53:04 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 22 2024 19:53:04 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 22 2024 19:53:07 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bff026f288cf5cf101c1_DUCKk-01.png",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Illustration design for a clothing brand, Psych. ",
+    "Details": "",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bff8e1c76b35faa756f1_IMG_6574.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bff8eef0f782c4ee55c1_IMG_6575.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bff026f288cf5cf101c1_DUCKk-01.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bff8e1c76b35faa756f1_IMG_6574.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bff8eef0f782c4ee55c1_IMG_6575.jpg"
+  ]
+}

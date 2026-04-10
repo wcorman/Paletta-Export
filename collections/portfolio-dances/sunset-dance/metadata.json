@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+  "folder": "collections/portfolio-dances/sunset-dance",
+  "slug": "sunset-dance",
+  "data": {
+    "Name": "Sunset dance ",
+    "Slug": "sunset-dance",
+    "Collection ID": "65a47faadc1efbe190055673",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66359bb37753a1ebb4d74822",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Sat May 04 2024 02:21:38 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 25 2024 03:33:56 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sat May 25 2024 03:34:32 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66366f7d4323f7fa7b8d77f0_IMG_69855.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Ad for a travel agency. ",
+    "Dance Video Link": "https://vimeo.com/942551743",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66366f7d4323f7fa7b8d77f0_IMG_69855.jpg",
+    "https://vimeo.com/942551743"
+  ]
+}

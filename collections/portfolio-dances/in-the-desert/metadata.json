@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+  "folder": "collections/portfolio-dances/in-the-desert",
+  "slug": "in-the-desert",
+  "data": {
+    "Name": "Excerpts from \"In The Desert\"",
+    "Slug": "in-the-desert",
+    "Collection ID": "65a47faadc1efbe190055673",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "68796eec615be1391b42f641",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Thu Jul 17 2025 21:45:16 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat Jul 19 2025 23:59:40 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Tue Jul 22 2025 04:23:02 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/68796e92900a1780a312c2e9_RNI-Films-IMG-A9122672-5EE3-4506-8B5C-CD8BB3D732A5_11zon.jpg",
+    "Header": "",
+    "Description": "This is excerpts from a 20 minutes piece that was created for international Dance Week, inspired by Bedouin women in Egypt, in an honor of what they're capable of doing. ",
+    "Short Description": "Co-created and performed by Taylor Zeller and Rawda Mabrouk",
+    "Dance Video Link": "https://vimeo.com/1102832819?share=copy",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/68796e92900a1780a312c2e9_RNI-Films-IMG-A9122672-5EE3-4506-8B5C-CD8BB3D732A5_11zon.jpg",
+    "https://vimeo.com/1102832819?share=copy"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/zebra-visuals",
+  "slug": "zebra-visuals",
+  "data": {
+    "Name": "Zebra Visuals",
+    "Slug": "zebra-visuals",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6619e30771ad9c5b4c1722cb",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Sat Apr 13 2024 01:42:31 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 22 2024 01:35:45 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 22 2024 01:47:49 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e3e638d56060f706611c_ZEBRA%20illustration-01.png",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Made for a clothing brand, Psych, for the swim shorts collection. ",
+    "Details": "<p>Illustrations made with Adobe Illustrator. </p>",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2df71ad9c5b4c16f232_ZEBRA%20illustration-01.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6625bee55b0a34a9ed04678f_ZEBRAPATTERN-01.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d9373b253f25107daca02_IMG_6568.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93749a1de81026ded531_IMG_6569.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d9374b253f25107daca58_IMG_6570.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e3e638d56060f706611c_ZEBRA%20illustration-01.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2df71ad9c5b4c16f232_ZEBRA%20illustration-01.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6625bee55b0a34a9ed04678f_ZEBRAPATTERN-01.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d9373b253f25107daca02_IMG_6568.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93749a1de81026ded531_IMG_6569.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d9374b253f25107daca58_IMG_6570.jpg"
+  ]
+}

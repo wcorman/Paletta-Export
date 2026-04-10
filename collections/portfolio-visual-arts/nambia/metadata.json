@@ -1,0 +1,32 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/nambia",
+  "slug": "nambia",
+  "data": {
+    "Name": "Nambia.",
+    "Slug": "nambia",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66287947e4a82a903dc3d134",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 03:15:19 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:29:04 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287912cfda01ba63e61312_RNI-Films-IMG-BC004CDD-721B-4615-AF49-07E1E61B4059.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Acrylic painting. ",
+    "Details": "<p id=\"\">Acrylic painting.</p><ol start=\"2023\"><li>‍</li></ol>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879611953a27c55bffd0c_RNI-Films-IMG-664938C5-97C1-4715-A938-AF75FE78B440.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879624c5a60437bfe32e4_RNI-Films-IMG-BA0E1CF8-01FA-49A4-B9DF-3D63DFFE8F4F.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287961e4a82a903dc3ec2b_RNI-Films-IMG-CD1A3520-CC14-4BF1-A7AB-54773C8A2537.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628796241919aefb8ecbc5f_RNI-Films-IMG-D82C653D-9D7A-4BB3-B5F1-F7E2222CD4F7.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879612ea5264f6c4538f0_RNI-Films-IMG-F6470785-8390-4BEE-88A6-5EA1B1D26464.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287912cfda01ba63e61312_RNI-Films-IMG-BC004CDD-721B-4615-AF49-07E1E61B4059.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879611953a27c55bffd0c_RNI-Films-IMG-664938C5-97C1-4715-A938-AF75FE78B440.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879624c5a60437bfe32e4_RNI-Films-IMG-BA0E1CF8-01FA-49A4-B9DF-3D63DFFE8F4F.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287961e4a82a903dc3ec2b_RNI-Films-IMG-CD1A3520-CC14-4BF1-A7AB-54773C8A2537.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628796241919aefb8ecbc5f_RNI-Films-IMG-D82C653D-9D7A-4BB3-B5F1-F7E2222CD4F7.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879612ea5264f6c4538f0_RNI-Films-IMG-F6470785-8390-4BEE-88A6-5EA1B1D26464.jpg"
+  ]
+}

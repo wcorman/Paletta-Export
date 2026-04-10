@@ -1,0 +1,28 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/tv-unit",
+  "slug": "tv-unit",
+  "data": {
+    "Name": "Tv unit and coffee table.",
+    "Slug": "tv-unit",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622cbd3f1de752287cd3855",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:53:55 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu Apr 25 2024 21:04:30 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu Apr 25 2024 21:04:36 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662ac52812fa7c03196a8ea2_RNI-Films-IMG-3BB4E99B-117B-4A18-BADC-CAB401F81826%20(1).jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Created while working at HIDS. ",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662ac538e2b655a9a3300d3b_RNI-Films-IMG-53DE0196-8DF1-4427-A0FA-9EC5D03C9D3E.jpg",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662ac52812fa7c03196a8ea2_RNI-Films-IMG-3BB4E99B-117B-4A18-BADC-CAB401F81826%20(1).jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662ac538e2b655a9a3300d3b_RNI-Films-IMG-53DE0196-8DF1-4427-A0FA-9EC5D03C9D3E.jpg"
+  ]
+}

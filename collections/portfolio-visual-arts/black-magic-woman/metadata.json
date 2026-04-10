@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/black-magic-woman",
+  "slug": "black-magic-woman",
+  "data": {
+    "Name": "Black magic woman.",
+    "Slug": "black-magic-woman",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661eade68b5c35acfa18e23d",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Tue Apr 16 2024 16:57:10 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:30:53 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eadb4a11ea6aa0b55b79a_IMG_6597.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Aquarelle painting ",
+    "Details": "<p id=\"\">Aquarelle painting</p><p>2020</p>",
+    "Image Gallery": "",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661eadb4a11ea6aa0b55b79a_IMG_6597.jpg"
+  ]
+}

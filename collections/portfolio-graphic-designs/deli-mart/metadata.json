@@ -1,0 +1,33 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/deli-mart",
+  "slug": "deli-mart",
+  "data": {
+    "Name": "Deli Mart",
+    "Slug": "deli-mart",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "65a4add0e54d41c8daea5217",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Jan 15 2024 04:00:16 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat Apr 13 2024 01:48:00 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sat Apr 13 2024 01:48:03 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810bb15a8106a1d79a4dc_DeliMart-06.png",
+    "Header": "Deli Mart",
+    "Description": "",
+    "Short Description": "Proposal for Deli Mart, the coffee place. ",
+    "Details": "<p>Different illustrations for posters and a card design </p>",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d18e01ed41a95ff0ce_DeliMart-02.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d1b261868f42937600_DeliMart-03.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d10088cc69f091413d_DeliMart-04.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d183ef5f127575af1c_DeliMart-05.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d162bec0a5a0cb2bff_DeliMart-07.png",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810bb15a8106a1d79a4dc_DeliMart-06.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d18e01ed41a95ff0ce_DeliMart-02.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d1b261868f42937600_DeliMart-03.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d10088cc69f091413d_DeliMart-04.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d183ef5f127575af1c_DeliMart-05.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65c810d162bec0a5a0cb2bff_DeliMart-07.png"
+  ]
+}

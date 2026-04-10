@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/soul-dance-painting",
+  "slug": "soul-dance-painting",
+  "data": {
+    "Name": "Soul dance painting.",
+    "Slug": "soul-dance-painting",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661d94c86b2beefb5950d261",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 20:57:44 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:31:46 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d949fce855882618bb811_IMG_6556.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "My ballet instructor in a dream field. ",
+    "Details": "",
+    "Image Gallery": "",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d949fce855882618bb811_IMG_6556.jpg"
+  ]
+}

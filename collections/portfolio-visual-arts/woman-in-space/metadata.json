@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/woman-in-space",
+  "slug": "woman-in-space",
+  "data": {
+    "Name": "Woman in space.",
+    "Slug": "woman-in-space",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622be05c0c401c64e52f1b1",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 18:55:01 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:29:50 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bdfff722a84d07d6977b_girl%20space.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Digital painting, made on photoshop with drawing tablet. ",
+    "Details": "<p>Art made for a clothing brand, Psych. </p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd67c0c401c64e523571_IMG_6627.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd95d60796992e4519f6_IMG_6578.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bdfff722a84d07d6977b_girl%20space.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd67c0c401c64e523571_IMG_6627.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd95d60796992e4519f6_IMG_6578.jpg"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/entrance-furniture",
+  "slug": "entrance-furniture",
+  "data": {
+    "Name": "Entrance furniture. ",
+    "Slug": "entrance-furniture",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622c0c95ae1790cff681288",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:06:49 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Fri Apr 19 2024 19:06:49 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Fri Apr 19 2024 19:08:16 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c092189b6cc20f1d68ee_RNI-Films-IMG-9323DF42-3B04-4D96-8AB6-1177D33BC133.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Designed while working at HIDS",
+    "Details": "<p>Shoe Cabinet, full length mirror and a shelf unit. </p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0ac635229452e69ff27_9E480F71-E092-4D85-9F94-16E17420E11B.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0ac5529339da0454f52_RNI-Films-IMG-86D6C604-8D01-4609-8F5C-F134C9C80004.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0ab954348eacfd6dd5d_RNI-Films-IMG-369CF7C3-753C-4DD8-93CC-06CF0A276819.jpg",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c092189b6cc20f1d68ee_RNI-Films-IMG-9323DF42-3B04-4D96-8AB6-1177D33BC133.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0ac635229452e69ff27_9E480F71-E092-4D85-9F94-16E17420E11B.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0ac5529339da0454f52_RNI-Films-IMG-86D6C604-8D01-4609-8F5C-F134C9C80004.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0ab954348eacfd6dd5d_RNI-Films-IMG-369CF7C3-753C-4DD8-93CC-06CF0A276819.jpg"
+  ]
+}

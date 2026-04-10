@@ -1,0 +1,29 @@
+{
+  "source_csv": "Paletta_-_Projects_-_659a138155ab821f566b9e72---bf01f768-d0e7-43de-9fdc-6a5db7230d85.csv",
+  "folder": "collections/projects/reupholstered-antique-chair",
+  "slug": "reupholstered-antique-chair",
+  "data": {
+    "Name": "Antique Chair",
+    "Slug": "reupholstered-antique-chair",
+    "Collection ID": "659a138155ab821f566b9e72",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "659a138155ab821f566b9eed",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Jan 03 2024 04:00:23 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Jun 11 2025 20:56:47 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Jun 11 2025 20:56:47 GMT+0000 (Coordinated Universal Time)",
+    "Title": "Classic Revival",
+    "Short Description": "Paletta presents the \"Classic Revival,\" a tastefully reupholstered antique chair that marries tradition with eco-consciousness. The chair’s sturdy wooden frame and elegant form have been preserved, while the seating is refreshed with a sustainable, plush rose fabric, and the backrest with a complementary grey tone. Maintaining the chair's original charm with a focus on environmental responsibility, this piece is a quiet nod to the past and a commitment to timeless, sustainable design.",
+    "Description": "<ul><li>Marries tradition with eco-consciousness.</li><li>Tastefully reupholstered antique chair.</li><li>100% reclaimed materials</li><li>Completely unique dye pattern<br></li></ul>",
+    "Main image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66046472ab75984c36079dcc_chair3.jpg",
+    "Related Service(s)": "eco-uplifts",
+    "Image-gallery": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/660464ddc6ea2bfe8c8234d0_chair1.jpg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/660464db3acf5793689889d6_WhatsApp%20Image%202022-03-09%20at%202.11.41%20PM.jpeg; https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66046525de766486ed10cb3f_chair2.jpg"
+  },
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66046472ab75984c36079dcc_chair3.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/660464ddc6ea2bfe8c8234d0_chair1.jpg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/660464db3acf5793689889d6_WhatsApp%20Image%202022-03-09%20at%202.11.41%20PM.jpeg",
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/66046525de766486ed10cb3f_chair2.jpg"
+  ]
+}

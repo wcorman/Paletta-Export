@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+  "folder": "collections/portfolio-visual-arts/over-the-window-ii",
+  "slug": "over-the-window-ii",
+  "data": {
+    "Name": "Over the window II.",
+    "Slug": "over-the-window-ii",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66287ac90a03ddb5094faec7",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 03:21:45 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:28:37 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287aa170874cbbce0ede7f_RNI-Films-IMG-2A289EEB-DD86-401B-9D0A-C414242F841C.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287abfbe4f62bb6fc5d95d_RNI-Films-IMG-66B2623D-AAF8-4EFA-BA91-033D49011ED2.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287abf70874cbbce0f08e8_RNI-Films-IMG-BB6191C8-EC54-463C-A85D-1312C6F846E9.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287abfe14c9bdf11767325_RNI-Films-IMG-387042C5-F928-49B2-9C7E-D43544A9F18C.jpg",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287aa170874cbbce0ede7f_RNI-Films-IMG-2A289EEB-DD86-401B-9D0A-C414242F841C.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287abfbe4f62bb6fc5d95d_RNI-Films-IMG-66B2623D-AAF8-4EFA-BA91-033D49011ED2.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287abf70874cbbce0f08e8_RNI-Films-IMG-BB6191C8-EC54-463C-A85D-1312C6F846E9.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287abfe14c9bdf11767325_RNI-Films-IMG-387042C5-F928-49B2-9C7E-D43544A9F18C.jpg"
+  ]
+}

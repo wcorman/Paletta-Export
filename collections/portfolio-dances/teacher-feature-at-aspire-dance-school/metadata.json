@@ -1,0 +1,27 @@
+{
+  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+  "folder": "collections/portfolio-dances/teacher-feature-at-aspire-dance-school",
+  "slug": "teacher-feature-at-aspire-dance-school",
+  "data": {
+    "Name": "Teacher Feature at Aspire Dance School",
+    "Slug": "teacher-feature-at-aspire-dance-school",
+    "Collection ID": "65a47faadc1efbe190055673",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "68c326e3700c8e0978c52960",
+    "Archived": "true",
+    "Draft": "true",
+    "Created On": "Thu Sep 11 2025 19:45:39 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Sep 15 2025 15:53:06 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "",
+    "Main Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/68c326ac700c8e0978c507b8_IMG_8600.PNG",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Us teachers created a fun dance piece to inspire the dance students at the Aspire Dance School. Rawda Mabrouk, Anne Neudorf and Kiya Kincade ",
+    "Dance Video Link": "https://vimeo.com/1117897583?share=copy#t=0",
+    "Highlight?": "false"
+  },
+  "referenced_urls": [
+    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/68c326ac700c8e0978c507b8_IMG_8600.PNG",
+    "https://vimeo.com/1117897583?share=copy#t=0"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+  "folder": "collections/portfolio-furniture-designs/ratan-buffet",
+  "slug": "ratan-buffet",
+  "data": {
+    "Name": "Ratan buffet. ",
+    "Slug": "ratan-buffet",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622c11b3045d3a34f2f1371",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 19:08:11 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu Apr 25 2024 21:19:34 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu Apr 25 2024 21:19:55 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f007a4417ee75dfc3d_RNI-Films-IMG-5E54163F-7D33-4AD4-B28A-76EE78CA0836.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Designed will working at HIDS. ",
+    "Details": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0d830331ef65b9d7bb0_RNI-Films-IMG-05D73084-B27F-465E-BF17-4BF82F45DD0B.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f007a4417ee75dfc3d_RNI-Films-IMG-5E54163F-7D33-4AD4-B28A-76EE78CA0836.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f0c49d55a829bdbca7_RNI-Films-IMG-89B2F266-DEC8-48C3-B2EF-7FAB429F8CAE.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f0a51b2e999c2668b4_RNI-Films-IMG-C1E9B485-1AC4-4076-BDAC-3177B73EB74D.jpg",
+    "Highlight?": "true"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f007a4417ee75dfc3d_RNI-Films-IMG-5E54163F-7D33-4AD4-B28A-76EE78CA0836.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0d830331ef65b9d7bb0_RNI-Films-IMG-05D73084-B27F-465E-BF17-4BF82F45DD0B.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f0c49d55a829bdbca7_RNI-Films-IMG-89B2F266-DEC8-48C3-B2EF-7FAB429F8CAE.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c0f0a51b2e999c2668b4_RNI-Films-IMG-C1E9B485-1AC4-4076-BDAC-3177B73EB74D.jpg"
+  ]
+}

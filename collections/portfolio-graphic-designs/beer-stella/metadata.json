@@ -1,0 +1,30 @@
+{
+  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+  "folder": "collections/portfolio-graphic-designs/beer-stella",
+  "slug": "beer-stella",
+  "data": {
+    "Name": "Beer Stella ",
+    "Slug": "beer-stella",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6626bf6d13766893ea9c9b31",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 22 2024 19:50:05 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 22 2024 19:53:17 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 22 2024 19:53:23 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626be955177e6c4291c8ec9_beer%20(1).png",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Design File (PDF)": "",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bf6abb54e790aa682a7b_Screenshot%202024-04-22%20at%201.49.44%20PM.png; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bf6beef0f782c4edbe0c_Screenshot%202024-04-22%20at%201.49.32%20PM.png",
+    "Highlight": "false"
+  },
+  "referenced_urls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626be955177e6c4291c8ec9_beer%20(1).png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bf6abb54e790aa682a7b_Screenshot%202024-04-22%20at%201.49.44%20PM.png",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6626bf6beef0f782c4edbe0c_Screenshot%202024-04-22%20at%201.49.32%20PM.png"
+  ]
+}
