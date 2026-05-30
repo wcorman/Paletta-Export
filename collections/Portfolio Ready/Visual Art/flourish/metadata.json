@@ -1,10 +1,35 @@
 {
-  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
-  "folder": "collections/portfolio-graphic-designs/flourish",
+  "title": "Flourish",
   "slug": "flourish",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-graphic-designs",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Illustrations created for a clothing brand.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628670696f71383cd2bba2e_final%2011-05.png",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662867243e5bbb0dd231fdb8_2%202.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286722e897f5a7bcad568d_T_Shirt_01.jpg"
+  ],
+  "highlight": true,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T01:58:01+00:00",
+  "updatedOn": "2024-04-25T04:25:58+00:00",
+  "publishedOn": "2024-04-25T04:27:45+00:00",
+  "categoryData": {
+    "details": null,
+    "designFileUrl": null,
+    "medium": "Graphic Design"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+    "originalFolder": "collections/portfolio-graphic-designs/flourish",
+    "webflowCollectionId": "65a4abef635069142e270c4a",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "66286729147eb869b6942006"
+  },
+  "originalData": {
     "Name": "Flourish",
     "Slug": "flourish",
     "Collection ID": "65a4abef635069142e270c4a",
@@ -23,10 +48,5 @@
     "Design File (PDF)": "",
     "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662867243e5bbb0dd231fdb8_2%202.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286722e897f5a7bcad568d_T_Shirt_01.jpg",
     "Highlight": "true"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628670696f71383cd2bba2e_final%2011-05.png",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662867243e5bbb0dd231fdb8_2%202.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286722e897f5a7bcad568d_T_Shirt_01.jpg"
-  ]
+  }
 }

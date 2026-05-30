@@ -1,10 +1,36 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/over-the-window",
+  "title": "Over the Window I",
   "slug": "over-the-window",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": null,
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a5806c2c99cbcabe5c9_RNI-Films-IMG-C68224AB-FF6B-4185-A7E3-32E63B115EAC.jpg",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6d41919aefb8ee1494_RNI-Films-IMG-C19CE96E-5342-460E-90E8-053351EF7351.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6d4ccbfa48e66fa271_RNI-Films-IMG-AC9194B9-BFCA-4E26-956A-58402933F095.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6dd89edfc36b911115_RNI-Films-IMG-B264EA9D-3D6A-4817-86D4-72F2D701C4C6.jpg"
+  ],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T03:20:38+00:00",
+  "updatedOn": "2024-04-24T03:28:50+00:00",
+  "publishedOn": "2024-04-24T03:32:34+00:00",
+  "categoryData": {
+    "details": null,
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/over-the-window",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "66287a8618bf610d1a437a8d"
+  },
+  "originalData": {
     "Name": "Over the window I.",
     "Slug": "over-the-window",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,11 +48,5 @@
     "Details": "",
     "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6d41919aefb8ee1494_RNI-Films-IMG-C19CE96E-5342-460E-90E8-053351EF7351.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6d4ccbfa48e66fa271_RNI-Films-IMG-AC9194B9-BFCA-4E26-956A-58402933F095.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6dd89edfc36b911115_RNI-Films-IMG-B264EA9D-3D6A-4817-86D4-72F2D701C4C6.jpg",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a5806c2c99cbcabe5c9_RNI-Films-IMG-C68224AB-FF6B-4185-A7E3-32E63B115EAC.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6d41919aefb8ee1494_RNI-Films-IMG-C19CE96E-5342-460E-90E8-053351EF7351.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6d4ccbfa48e66fa271_RNI-Films-IMG-AC9194B9-BFCA-4E26-956A-58402933F095.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287a6dd89edfc36b911115_RNI-Films-IMG-B264EA9D-3D6A-4817-86D4-72F2D701C4C6.jpg"
-  ]
+  }
 }

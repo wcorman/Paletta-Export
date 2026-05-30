@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/blending-in-the-desert",
+  "title": "Blending in the Desert",
   "slug": "blending-in-the-desert",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Acrylic painting.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bcee7feead03f8a5df6a_IMG_6557.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-19T18:50:25+00:00",
+  "updatedOn": "2024-04-24T03:29:58+00:00",
+  "publishedOn": "2024-04-24T03:32:34+00:00",
+  "categoryData": {
+    "details": "<p id=\"\">Acrylic painting.</p><ol start=\"2020\"><li>‍</li></ol>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/blending-in-the-desert",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "6622bcf1897d1d628ccc7065"
+  },
+  "originalData": {
     "Name": "Blending in the desert.",
     "Slug": "blending-in-the-desert",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,8 +44,5 @@
     "Details": "<p id=\"\">Acrylic painting.</p><ol start=\"2020\"><li>‍</li></ol>",
     "Image Gallery": "",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bcee7feead03f8a5df6a_IMG_6557.jpg"
-  ]
+  }
 }

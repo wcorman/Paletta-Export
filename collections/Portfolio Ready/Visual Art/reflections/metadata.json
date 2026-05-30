@@ -1,10 +1,35 @@
 {
-  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
-  "folder": "collections/portfolio-graphic-designs/reflections",
+  "title": "Reflections",
   "slug": "reflections",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-graphic-designs",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Illustrations created for a clothing brand.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866cc1869b40a5411b231_Untitled-1-04.png",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866eae849199620b4d220_8.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866e827dd8bbe75ce5fc4_T_Shirt_06.jpg"
+  ],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T01:57:09+00:00",
+  "updatedOn": "2024-04-24T01:58:10+00:00",
+  "publishedOn": "2024-04-24T01:58:15+00:00",
+  "categoryData": {
+    "details": null,
+    "designFileUrl": null,
+    "medium": "Graphic Design"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+    "originalFolder": "collections/portfolio-graphic-designs/reflections",
+    "webflowCollectionId": "65a4abef635069142e270c4a",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "662866f5e9e5ecfafd630c71"
+  },
+  "originalData": {
     "Name": "Reflections",
     "Slug": "reflections",
     "Collection ID": "65a4abef635069142e270c4a",
@@ -23,10 +48,5 @@
     "Design File (PDF)": "",
     "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866eae849199620b4d220_8.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866e827dd8bbe75ce5fc4_T_Shirt_06.jpg",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866cc1869b40a5411b231_Untitled-1-04.png",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866eae849199620b4d220_8.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662866e827dd8bbe75ce5fc4_T_Shirt_06.jpg"
-  ]
+  }
 }

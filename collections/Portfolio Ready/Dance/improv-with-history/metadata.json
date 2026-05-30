@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
-  "folder": "collections/portfolio-dances/improv-with-history",
+  "title": "Improv with History",
   "slug": "improv-with-history",
   "portfolioCategory": "Dance",
   "sourceCollection": "portfolio-dances",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "At Siwa's buildings remains.",
+  "featuredImageUrl": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/683f56c363743bf224abaf04_RNI-Films-IMG-EF1531E8-8A1C-47A2-BDD4-3874BB54B413.jpeg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2025-06-03T20:10:51+00:00",
+  "updatedOn": "2025-06-03T20:10:51+00:00",
+  "publishedOn": "2025-06-03T20:10:51+00:00",
+  "categoryData": {
+    "danceVideoUrl": "https://vimeo.com/1090238599?share=copy#t=0",
+    "videoProvider": "vimeo",
+    "videoId": "1090238599"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+    "originalFolder": "collections/portfolio-dances/improv-with-history",
+    "webflowCollectionId": "65a47faadc1efbe190055673",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "683f56cb3dd8a644db34b0bd"
+  },
+  "originalData": {
     "Name": "Improv with history",
     "Slug": "improv-with-history",
     "Collection ID": "65a47faadc1efbe190055673",
@@ -21,9 +43,5 @@
     "Short Description": "At Siwa's buildings remains. ",
     "Dance Video Link": "https://vimeo.com/1090238599?share=copy#t=0",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/683f56c363743bf224abaf04_RNI-Films-IMG-EF1531E8-8A1C-47A2-BDD4-3874BB54B413.jpeg",
-    "https://vimeo.com/1090238599?share=copy#t=0"
-  ]
+  }
 }

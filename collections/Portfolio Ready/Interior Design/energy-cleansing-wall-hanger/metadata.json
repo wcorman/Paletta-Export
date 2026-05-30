@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_Portfolio_Product_Designs_661d7f3d9e17b1860925d329---75e1262e-cc1e-4ca7-8dcc-493a584509c4.csv",
-  "folder": "collections/portfolio-product-designs/energy-cleansing-wall-hanger",
+  "title": "Energy Cleansing Wall Hanger",
   "slug": "energy-cleansing-wall-hanger",
   "portfolioCategory": "Interior Design",
   "sourceCollection": "portfolio-product-designs",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Crafted as an energy cleansing masterpiece.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daf6a3af91742ac51c1b7_RNI-Films-IMG-2CE5848F-9CFF-4A36-901C-EDD91A9967AA%202.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-15T22:53:26+00:00",
+  "updatedOn": "2024-04-15T22:53:26+00:00",
+  "publishedOn": "2024-04-15T22:53:30+00:00",
+  "categoryData": {
+    "details": "<p id=\"\">Crafted as an energy cleansing masterpiece, this creation harnesses the potent symbolism of the triangle shape to invoke balance. Two meticulously chosen crystals adorn the piece, each serving as a conduit to purify and dispel negative energies within the space it inhabits.</p>",
+    "projectType": "Product Design",
+    "materials": []
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Product_Designs_661d7f3d9e17b1860925d329---75e1262e-cc1e-4ca7-8dcc-493a584509c4.csv",
+    "originalFolder": "collections/portfolio-product-designs/energy-cleansing-wall-hanger",
+    "webflowCollectionId": "661d7f3d9e17b1860925d329",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "661dafe649764101a2cf7279"
+  },
+  "originalData": {
     "Name": "Energy cleansing wall hanger",
     "Slug": "energy-cleansing-wall-hanger",
     "Collection ID": "661d7f3d9e17b1860925d329",
@@ -22,8 +44,5 @@
     "Details": "<p id=\"\">Crafted as an energy cleansing masterpiece, this creation harnesses the potent symbolism of the triangle shape to invoke balance. Two meticulously chosen crystals adorn the piece, each serving as a conduit to purify and dispel negative energies within the space it inhabits.</p>",
     "Image Gallery": "",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661daf6a3af91742ac51c1b7_RNI-Films-IMG-2CE5848F-9CFF-4A36-901C-EDD91A9967AA%202.jpg"
-  ]
+  }
 }

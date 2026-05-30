@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
-  "folder": "collections/portfolio-dances/excerpts-from-patterns",
+  "title": "Excerpts from \"patterns\"",
   "slug": "excerpts-from-patterns",
   "portfolioCategory": "Dance",
   "sourceCollection": "portfolio-dances",
-  "data": {
+  "header": null,
+  "description": "Patterns by Haraka Collective. Piece created collaboratively between: Taylor Zeller, Bethany Mcmorine, Anne Neudorf, Rachel Saufert and Rawda Mabrouk.",
+  "shortDescription": "Patterns by Haraka Collective. Piece created collaboratively between: Taylor Zeller, Bethany Mcmorine, Anne Neudorf, Rachel Saufert and Rawda Mabrouk.",
+  "featuredImageUrl": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6647c52eaac36401550524da_IMG_7546%20(1).jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-05-17T20:20:30+00:00",
+  "updatedOn": "2025-07-20T00:01:46+00:00",
+  "publishedOn": "2025-07-20T00:01:46+00:00",
+  "categoryData": {
+    "danceVideoUrl": "https://vimeo.com/947539523",
+    "videoProvider": "vimeo",
+    "videoId": "947539523"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+    "originalFolder": "collections/portfolio-dances/excerpts-from-patterns",
+    "webflowCollectionId": "65a47faadc1efbe190055673",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "6647bc0e1db077d0bf2b36d3"
+  },
+  "originalData": {
     "Name": "Excerpts from \"Patterns\"",
     "Slug": "excerpts-from-patterns",
     "Collection ID": "65a47faadc1efbe190055673",
@@ -21,9 +43,5 @@
     "Short Description": "Patterns by Haraka Collective. Piece created collaboratively between: Taylor Zeller, Bethany Mcmorine, Anne Neudorf, Rachel Saufert and Rawda Mabrouk. ",
     "Dance Video Link": "https://vimeo.com/947539523",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6647c52eaac36401550524da_IMG_7546%20(1).jpg",
-    "https://vimeo.com/947539523"
-  ]
+  }
 }

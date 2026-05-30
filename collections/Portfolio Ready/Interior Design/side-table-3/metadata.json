@@ -1,10 +1,34 @@
 {
-  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
-  "folder": "collections/portfolio-furniture-designs/side-table-3",
+  "title": "Side Table",
   "slug": "side-table-3",
   "portfolioCategory": "Interior Design",
   "sourceCollection": "portfolio-furniture-designs",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Designed while working at HIDS.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bfe875a845c8a0839585_IMG_5051.jpg",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c01a99a7f19d764c16fc_RNI-Films-IMG-78630360-259F-4B30-B085-704803DB505F.jpg"
+  ],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-19T19:04:11+00:00",
+  "updatedOn": "2024-04-19T19:04:11+00:00",
+  "publishedOn": "2024-04-19T19:05:21+00:00",
+  "categoryData": {
+    "details": null,
+    "projectType": "Furniture Design",
+    "materials": []
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+    "originalFolder": "collections/portfolio-furniture-designs/side-table-3",
+    "webflowCollectionId": "661d77f5be82696294d14c6b",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "6622c02b282c2fe43872324c"
+  },
+  "originalData": {
     "Name": "Side table ",
     "Slug": "side-table-3",
     "Collection ID": "661d77f5be82696294d14c6b",
@@ -22,9 +46,5 @@
     "Details": "",
     "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c01a99a7f19d764c16fc_RNI-Films-IMG-78630360-259F-4B30-B085-704803DB505F.jpg",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bfe875a845c8a0839585_IMG_5051.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622c01a99a7f19d764c16fc_RNI-Films-IMG-78630360-259F-4B30-B085-704803DB505F.jpg"
-  ]
+  }
 }

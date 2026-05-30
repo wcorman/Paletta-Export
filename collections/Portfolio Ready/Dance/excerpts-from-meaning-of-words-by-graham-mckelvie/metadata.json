@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
-  "folder": "collections/portfolio-dances/excerpts-from-meaning-of-words-by-graham-mckelvie",
+  "title": "Excerpts from \"meaning of Words\" by Graham Mckelvie",
   "slug": "excerpts-from-meaning-of-words-by-graham-mckelvie",
   "portfolioCategory": "Dance",
   "sourceCollection": "portfolio-dances",
-  "data": {
+  "header": null,
+  "description": "Showcased by Free Flow Dance Company at Midtown Plaza's Gallery and at the Gala, Refinery Theatre.",
+  "shortDescription": "Showcased by Free Flow Dance Company at Midtown Plaza's Gallery and at the Gala, Refinery Theatre.",
+  "featuredImageUrl": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/68885479dd98b0e26b0567d0_IMG_5973.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-05-17T21:09:54+00:00",
+  "updatedOn": "2025-07-29T04:56:29+00:00",
+  "publishedOn": "2025-07-29T04:56:29+00:00",
+  "categoryData": {
+    "danceVideoUrl": "https://vimeo.com/947555961",
+    "videoProvider": "vimeo",
+    "videoId": "947555961"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+    "originalFolder": "collections/portfolio-dances/excerpts-from-meaning-of-words-by-graham-mckelvie",
+    "webflowCollectionId": "65a47faadc1efbe190055673",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "6647c7a263573facef18b8b1"
+  },
+  "originalData": {
     "Name": "Excerpts from \"Meaning Of Words\" by Graham Mckelvie ",
     "Slug": "excerpts-from-meaning-of-words-by-graham-mckelvie",
     "Collection ID": "65a47faadc1efbe190055673",
@@ -21,9 +43,5 @@
     "Short Description": "Showcased by Free Flow Dance Company at Midtown Plaza's Gallery and at the Gala, Refinery Theatre.",
     "Dance Video Link": "https://vimeo.com/947555961",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/68885479dd98b0e26b0567d0_IMG_5973.jpg",
-    "https://vimeo.com/947555961"
-  ]
+  }
 }

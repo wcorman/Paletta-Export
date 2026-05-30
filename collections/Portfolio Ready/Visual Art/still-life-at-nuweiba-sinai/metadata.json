@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/still-life-at-nuweiba-sinai",
+  "title": "Still Life at Nuweiba, Sinai",
   "slug": "still-life-at-nuweiba-sinai",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Oil painting.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662878ac7c79f37887ca5090_RNI-Films-IMG-1FB851FA-7C7F-4934-B5C1-82ECCF5E6D89.jpg",
+  "galleryUrls": [],
+  "highlight": true,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T03:13:27+00:00",
+  "updatedOn": "2024-04-25T20:29:17+00:00",
+  "publishedOn": "2024-04-25T20:31:11+00:00",
+  "categoryData": {
+    "details": "<p id=\"\">Oil painting.</p><p>2021.</p>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/still-life-at-nuweiba-sinai",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "662878d7970e0f13f8aa6904"
+  },
+  "originalData": {
     "Name": "Still life at Nuweiba, Sinai. ",
     "Slug": "still-life-at-nuweiba-sinai",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,8 +44,5 @@
     "Details": "<p id=\"\">Oil painting.</p><p>2021.</p>",
     "Image Gallery": "",
     "Highlight": "true"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662878ac7c79f37887ca5090_RNI-Films-IMG-1FB851FA-7C7F-4934-B5C1-82ECCF5E6D89.jpg"
-  ]
+  }
 }

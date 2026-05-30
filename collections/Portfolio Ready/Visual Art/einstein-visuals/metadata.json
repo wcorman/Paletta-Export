@@ -1,10 +1,35 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/einstein-visuals",
+  "title": "Einstein Visuals",
   "slug": "einstein-visuals",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Digital drawing made on photoshop, with drawing tablet.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bec1f722a84d07d75c2f_einstien.jpg",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bee1006be9ac8aadc53f_IMG_6628.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bee2d60796992e46988c_IMG_6629.jpg"
+  ],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-19T18:59:32+00:00",
+  "updatedOn": "2024-04-24T03:29:20+00:00",
+  "publishedOn": "2024-04-24T03:32:34+00:00",
+  "categoryData": {
+    "details": "<p>Art created for a clothing brand, Psych. </p>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/einstein-visuals",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "6622bf146c67c636ef6073d2"
+  },
+  "originalData": {
     "Name": "Einstein visuals.",
     "Slug": "einstein-visuals",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,10 +47,5 @@
     "Details": "<p>Art created for a clothing brand, Psych. </p>",
     "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bee1006be9ac8aadc53f_IMG_6628.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bee2d60796992e46988c_IMG_6629.jpg",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bec1f722a84d07d75c2f_einstien.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bee1006be9ac8aadc53f_IMG_6628.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bee2d60796992e46988c_IMG_6629.jpg"
-  ]
+  }
 }

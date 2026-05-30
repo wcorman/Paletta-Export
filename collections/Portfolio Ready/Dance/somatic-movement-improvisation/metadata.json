@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
-  "folder": "collections/portfolio-dances/somatic-movement-improvisation",
+  "title": "Somatic Movement Improvisation",
   "slug": "somatic-movement-improvisation",
   "portfolioCategory": "Dance",
   "sourceCollection": "portfolio-dances",
-  "data": {
+  "header": "Somatic Movement Improvisation",
+  "description": "Deep listening, getting inspired from nature.",
+  "shortDescription": "Deep listening, getting inspired from nature.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48b89736b28bebad3f8ac_Screenshot%202024-01-14%20at%207.33.20%20PM.png",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-01-15T01:34:39+00:00",
+  "updatedOn": "2024-04-19T20:39:23+00:00",
+  "publishedOn": "2024-04-19T20:43:40+00:00",
+  "categoryData": {
+    "danceVideoUrl": "https://vimeo.com/902823382",
+    "videoProvider": "vimeo",
+    "videoId": "902823382"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+    "originalFolder": "collections/portfolio-dances/somatic-movement-improvisation",
+    "webflowCollectionId": "65a47faadc1efbe190055673",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "65a48baf290ce3c73bb6a77b"
+  },
+  "originalData": {
     "Name": "Somatic Movement Improvisation",
     "Slug": "somatic-movement-improvisation",
     "Collection ID": "65a47faadc1efbe190055673",
@@ -21,9 +43,5 @@
     "Short Description": "Deep listening, getting inspired from nature.",
     "Dance Video Link": "https://vimeo.com/902823382",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48b89736b28bebad3f8ac_Screenshot%202024-01-14%20at%207.33.20%20PM.png",
-    "https://vimeo.com/902823382"
-  ]
+  }
 }

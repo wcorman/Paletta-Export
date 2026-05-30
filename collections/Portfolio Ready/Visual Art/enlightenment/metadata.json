@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/enlightenment",
+  "title": "Enlightenment",
   "slug": "enlightenment",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Drawing made with Oil pastel.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66296074133b6ecf39abbc03_IMG_8039%202%20(1).jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T19:42:28+00:00",
+  "updatedOn": "2024-04-24T19:42:28+00:00",
+  "publishedOn": "2024-04-24T19:42:33+00:00",
+  "categoryData": {
+    "details": "<p id=\"\">Oil pastel drawing. </p><p>2019.</p><p>‍</p>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/enlightenment",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "662960a4a977638b75780ae5"
+  },
+  "originalData": {
     "Name": "Enlightenment. ",
     "Slug": "enlightenment",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,8 +44,5 @@
     "Details": "<p id=\"\">Oil pastel drawing. </p><p>2019.</p><p>‍</p>",
     "Image Gallery": "",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66296074133b6ecf39abbc03_IMG_8039%202%20(1).jpg"
-  ]
+  }
 }

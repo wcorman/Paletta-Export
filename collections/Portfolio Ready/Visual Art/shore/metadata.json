@@ -1,10 +1,35 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/shore",
+  "title": "Shore",
   "slug": "shore",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": null,
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628798b8340881af1c14220_RNI-Films-IMG-D5544AB6-139C-4856-BBA4-B6CECDAD235D.jpg",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879a3e14c9bdf11752ee9_RNI-Films-IMG-4B6851BA-04C7-48EC-B4A9-D543986EE5EE.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879a441919aefb8ed0beb_RNI-Films-IMG-5C3328C1-D52B-47E4-B225-4388CB85CF50.jpg"
+  ],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T03:17:20+00:00",
+  "updatedOn": "2024-04-24T03:28:58+00:00",
+  "publishedOn": "2024-04-24T03:32:34+00:00",
+  "categoryData": {
+    "details": null,
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/shore",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "662879c00a03ddb5094e6d15"
+  },
+  "originalData": {
     "Name": "Shore.",
     "Slug": "shore",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,10 +47,5 @@
     "Details": "",
     "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879a3e14c9bdf11752ee9_RNI-Films-IMG-4B6851BA-04C7-48EC-B4A9-D543986EE5EE.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879a441919aefb8ed0beb_RNI-Films-IMG-5C3328C1-D52B-47E4-B225-4388CB85CF50.jpg",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6628798b8340881af1c14220_RNI-Films-IMG-D5544AB6-139C-4856-BBA4-B6CECDAD235D.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879a3e14c9bdf11752ee9_RNI-Films-IMG-4B6851BA-04C7-48EC-B4A9-D543986EE5EE.jpg",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/662879a441919aefb8ed0beb_RNI-Films-IMG-5C3328C1-D52B-47E4-B225-4388CB85CF50.jpg"
-  ]
+  }
 }

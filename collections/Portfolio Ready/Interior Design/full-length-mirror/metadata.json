@@ -1,10 +1,35 @@
 {
-  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
-  "folder": "collections/portfolio-furniture-designs/full-length-mirror",
+  "title": "Full Length Mirror",
   "slug": "full-length-mirror",
   "portfolioCategory": "Interior Design",
   "sourceCollection": "portfolio-furniture-designs",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Designed for a project at Hala Imam Design Studio.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad3c3140666489a4fdae_8f8c7feb-e106-4b76-829f-dfc6c2d654ce.JPG",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad5245dbdbdd2e11cbc8_PHOTO-2021-02-18-03-39-21.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad3c3140666489a4fdae_8f8c7feb-e106-4b76-829f-dfc6c2d654ce.JPG"
+  ],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-15T22:42:54+00:00",
+  "updatedOn": "2024-04-15T22:42:54+00:00",
+  "publishedOn": "2024-04-15T22:42:58+00:00",
+  "categoryData": {
+    "details": null,
+    "projectType": "Furniture Design",
+    "materials": []
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+    "originalFolder": "collections/portfolio-furniture-designs/full-length-mirror",
+    "webflowCollectionId": "661d77f5be82696294d14c6b",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "661dad6e84ea745a46aaaed8"
+  },
+  "originalData": {
     "Name": "Full length Mirror. ",
     "Slug": "full-length-mirror",
     "Collection ID": "661d77f5be82696294d14c6b",
@@ -22,9 +47,5 @@
     "Details": "",
     "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad5245dbdbdd2e11cbc8_PHOTO-2021-02-18-03-39-21.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad3c3140666489a4fdae_8f8c7feb-e106-4b76-829f-dfc6c2d654ce.JPG",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad3c3140666489a4fdae_8f8c7feb-e106-4b76-829f-dfc6c2d654ce.JPG",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dad5245dbdbdd2e11cbc8_PHOTO-2021-02-18-03-39-21.jpg"
-  ]
+  }
 }

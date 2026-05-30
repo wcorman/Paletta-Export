@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
-  "folder": "collections/portfolio-graphic-designs/egyptian-goddess",
+  "title": "Egyptian Goddess",
   "slug": "egyptian-goddess",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-graphic-designs",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Illustrations.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66295eda5b1bbd5d3ef652e5_fr3on-01.png",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T19:36:14+00:00",
+  "updatedOn": "2024-04-24T19:36:14+00:00",
+  "publishedOn": "2024-04-24T19:39:24+00:00",
+  "categoryData": {
+    "details": "<p>Created with Adobe Illustrator. </p><p>2018.</p>",
+    "designFileUrl": null,
+    "medium": "Graphic Design"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+    "originalFolder": "collections/portfolio-graphic-designs/egyptian-goddess",
+    "webflowCollectionId": "65a4abef635069142e270c4a",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "66295f2e2c0650da9d5884f5"
+  },
+  "originalData": {
     "Name": "Egyptian goddess.",
     "Slug": "egyptian-goddess",
     "Collection ID": "65a4abef635069142e270c4a",
@@ -23,8 +45,5 @@
     "Design File (PDF)": "",
     "Image Gallery": "",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66295eda5b1bbd5d3ef652e5_fr3on-01.png"
-  ]
+  }
 }

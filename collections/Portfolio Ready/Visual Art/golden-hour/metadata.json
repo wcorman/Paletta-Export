@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/golden-hour",
+  "title": "Golden Hour",
   "slug": "golden-hour",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Oil painting.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da7dd359ccaac580512ad_RNI-Films-IMG-F72D75CD-56BA-4DC2-B767-6AC1C74FEFA5%202.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-15T22:19:47+00:00",
+  "updatedOn": "2024-04-24T03:32:16+00:00",
+  "publishedOn": "2024-04-24T03:32:34+00:00",
+  "categoryData": {
+    "details": "<p id=\"\">Oil painting.</p><p>2023</p>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/golden-hour",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "661da803359ccaac58053cf0"
+  },
+  "originalData": {
     "Name": "Golden hour.",
     "Slug": "golden-hour",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,8 +44,5 @@
     "Details": "<p id=\"\">Oil painting.</p><p>2023</p>",
     "Image Gallery": "",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da7dd359ccaac580512ad_RNI-Films-IMG-F72D75CD-56BA-4DC2-B767-6AC1C74FEFA5%202.jpg"
-  ]
+  }
 }

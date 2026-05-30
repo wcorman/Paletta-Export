@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
-  "folder": "collections/portfolio-furniture-designs/divider",
+  "title": "Divider",
   "slug": "divider",
   "portfolioCategory": "Interior Design",
   "sourceCollection": "portfolio-furniture-designs",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Design created while working at Hala Imam Design Studio.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dacc2fdad9b21e79b6e0f_b1d70982-db19-49ea-8d43-b0d841f3a5b7.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-15T22:40:37+00:00",
+  "updatedOn": "2024-04-15T22:40:37+00:00",
+  "publishedOn": "2024-04-15T22:42:58+00:00",
+  "categoryData": {
+    "details": null,
+    "projectType": "Furniture Design",
+    "materials": []
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+    "originalFolder": "collections/portfolio-furniture-designs/divider",
+    "webflowCollectionId": "661d77f5be82696294d14c6b",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "661dace519af3b27cd69a005"
+  },
+  "originalData": {
     "Name": "Divider. ",
     "Slug": "divider",
     "Collection ID": "661d77f5be82696294d14c6b",
@@ -22,8 +44,5 @@
     "Details": "",
     "Image Gallery": "",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dacc2fdad9b21e79b6e0f_b1d70982-db19-49ea-8d43-b0d841f3a5b7.jpg"
-  ]
+  }
 }

@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/mountain-view",
+  "title": "Mountain View",
   "slug": "mountain-view",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Acrylic painting.",
+  "featuredImageUrl": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/661da7981e9b0a04321bad47_RNI-Films-IMG-E3FEF1EA-8457-4EAF-9B5A-3F9797DE0413.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": true,
+  "draft": false,
+  "createdOn": "2024-04-15T22:18:38+00:00",
+  "updatedOn": "2025-08-20T18:38:52+00:00",
+  "publishedOn": null,
+  "categoryData": {
+    "details": "<p id=\"\">Acrylic painting.</p><p>2023</p>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/mountain-view",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "661da7bea825c036d357d75e"
+  },
+  "originalData": {
     "Name": "Mountain view.",
     "Slug": "mountain-view",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,8 +44,5 @@
     "Details": "<p id=\"\">Acrylic painting.</p><p>2023</p>",
     "Image Gallery": "",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/661da7981e9b0a04321bad47_RNI-Films-IMG-E3FEF1EA-8457-4EAF-9B5A-3F9797DE0413.jpg"
-  ]
+  }
 }

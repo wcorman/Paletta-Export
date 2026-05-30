@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/still-life-at-aswan-egypt",
+  "title": "Still Life at Aswan, Egypt",
   "slug": "still-life-at-aswan-egypt",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Aquarelle painting.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287c244ccbfa48e6716e9a_RNI-Films-IMG-71E39340-14C3-44EF-B266-D51C981941F9.jpg",
+  "galleryUrls": [],
+  "highlight": true,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T03:28:11+00:00",
+  "updatedOn": "2024-04-25T20:29:37+00:00",
+  "publishedOn": "2024-04-25T20:31:11+00:00",
+  "categoryData": {
+    "details": "<p id=\"\">Aquarelle painting.</p><p>2021</p>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/still-life-at-aswan-egypt",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "66287c4b2f6771f1ae1d3abb"
+  },
+  "originalData": {
     "Name": "Still life at Aswan, Egypt. ",
     "Slug": "still-life-at-aswan-egypt",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,8 +44,5 @@
     "Details": "<p id=\"\">Aquarelle painting.</p><p>2021</p>",
     "Image Gallery": "",
     "Highlight": "true"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66287c244ccbfa48e6716e9a_RNI-Films-IMG-71E39340-14C3-44EF-B266-D51C981941F9.jpg"
-  ]
+  }
 }

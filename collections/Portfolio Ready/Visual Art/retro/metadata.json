@@ -1,10 +1,34 @@
 {
-  "source_csv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
-  "folder": "collections/portfolio-graphic-designs/retro",
+  "title": "Retro",
   "slug": "retro",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-graphic-designs",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Pattern design",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e53a1cf83d2960997a12_retro-01.png",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2725c8baff8acebc9e5_retro-01.png"
+  ],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-13T01:40:14+00:00",
+  "updatedOn": "2024-04-13T01:51:56+00:00",
+  "publishedOn": "2024-04-13T01:52:00+00:00",
+  "categoryData": {
+    "details": "<p>Made with Adobe Illustrator. </p>",
+    "designFileUrl": null,
+    "medium": "Graphic Design"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+    "originalFolder": "collections/portfolio-graphic-designs/retro",
+    "webflowCollectionId": "65a4abef635069142e270c4a",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "6619e27eac965564c6205ee4"
+  },
+  "originalData": {
     "Name": "Retro ",
     "Slug": "retro",
     "Collection ID": "65a4abef635069142e270c4a",
@@ -23,9 +47,5 @@
     "Design File (PDF)": "",
     "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2725c8baff8acebc9e5_retro-01.png",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e53a1cf83d2960997a12_retro-01.png",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6619e2725c8baff8acebc9e5_retro-01.png"
-  ]
+  }
 }

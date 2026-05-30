@@ -1,10 +1,35 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
-  "folder": "collections/portfolio-visual-arts/abstract-flower-inspired",
+  "title": "Abstract Flower",
   "slug": "abstract-flower-inspired",
   "portfolioCategory": "Visual Art",
   "sourceCollection": "portfolio-visual-arts",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Inspired by the flowers on the cushions.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93ba74bca047acd74fd7_IMG_9315.JPG",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d940174bca047acd78396_IMG_9312.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93ba74bca047acd74fd7_IMG_9315.JPG"
+  ],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-15T20:54:28+00:00",
+  "updatedOn": "2024-04-24T03:31:20+00:00",
+  "publishedOn": "2024-04-24T03:32:34+00:00",
+  "categoryData": {
+    "details": "<p id=\"\">Customized painting for In Fine Order Staging Company in Saskatoon.</p><p id=\"\">Acrylic painting </p>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/abstract-flower-inspired",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "661d9404b253f25107db41d5"
+  },
+  "originalData": {
     "Name": "Abstract flower.",
     "Slug": "abstract-flower-inspired",
     "Collection ID": "661d7849320458d0bc1d5d9e",
@@ -22,9 +47,5 @@
     "Details": "<p id=\"\">Customized painting for In Fine Order Staging Company in Saskatoon.</p><p id=\"\">Acrylic painting </p>",
     "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d940174bca047acd78396_IMG_9312.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93ba74bca047acd74fd7_IMG_9315.JPG",
     "Highlight": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d93ba74bca047acd74fd7_IMG_9315.JPG",
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661d940174bca047acd78396_IMG_9312.jpg"
-  ]
+  }
 }

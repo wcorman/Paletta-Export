@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
-  "folder": "collections/portfolio-furniture-designs/bathroom-cabinet",
+  "title": "Bathroom Cabinet",
   "slug": "bathroom-cabinet",
   "portfolioCategory": "Interior Design",
   "sourceCollection": "portfolio-furniture-designs",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": null,
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc04705118385dbaa7ac_RNI-Films-IMG-FADA5962-62DF-46BC-B25E-482A1909E893.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-19T19:54:48+00:00",
+  "updatedOn": "2024-04-19T19:54:48+00:00",
+  "publishedOn": "2024-04-19T19:55:17+00:00",
+  "categoryData": {
+    "details": null,
+    "projectType": "Furniture Design",
+    "materials": []
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+    "originalFolder": "collections/portfolio-furniture-designs/bathroom-cabinet",
+    "webflowCollectionId": "661d77f5be82696294d14c6b",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "6622cc08b7c678b976551016"
+  },
+  "originalData": {
     "Name": "Bathroom cabinet. ",
     "Slug": "bathroom-cabinet",
     "Collection ID": "661d77f5be82696294d14c6b",
@@ -22,8 +44,5 @@
     "Details": "",
     "Image Gallery": "",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622cc04705118385dbaa7ac_RNI-Films-IMG-FADA5962-62DF-46BC-B25E-482A1909E893.jpg"
-  ]
+  }
 }

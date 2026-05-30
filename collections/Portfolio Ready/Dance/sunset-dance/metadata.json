@@ -1,10 +1,32 @@
 {
-  "source_csv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
-  "folder": "collections/portfolio-dances/sunset-dance",
+  "title": "Sunset Dance",
   "slug": "sunset-dance",
   "portfolioCategory": "Dance",
   "sourceCollection": "portfolio-dances",
-  "data": {
+  "header": null,
+  "description": null,
+  "shortDescription": "Ad for a travel agency.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66366f7d4323f7fa7b8d77f0_IMG_69855.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-05-04T02:21:38+00:00",
+  "updatedOn": "2024-05-25T03:33:56+00:00",
+  "publishedOn": "2024-05-25T03:34:32+00:00",
+  "categoryData": {
+    "danceVideoUrl": "https://vimeo.com/942551743",
+    "videoProvider": "vimeo",
+    "videoId": "942551743"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+    "originalFolder": "collections/portfolio-dances/sunset-dance",
+    "webflowCollectionId": "65a47faadc1efbe190055673",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "66359bb37753a1ebb4d74822"
+  },
+  "originalData": {
     "Name": "Sunset dance ",
     "Slug": "sunset-dance",
     "Collection ID": "65a47faadc1efbe190055673",
@@ -21,9 +43,5 @@
     "Short Description": "Ad for a travel agency. ",
     "Dance Video Link": "https://vimeo.com/942551743",
     "Highlight?": "false"
-  },
-  "referenced_urls": [
-    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66366f7d4323f7fa7b8d77f0_IMG_69855.jpg",
-    "https://vimeo.com/942551743"
-  ]
+  }
 }
