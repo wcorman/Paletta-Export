@@ -1,0 +1,47 @@
+{
+  "title": "Excerpts from \"ongoing\"",
+  "slug": "ongoing",
+  "portfolioCategory": "Dance",
+  "sourceCollection": "portfolio-dances",
+  "header": "Ongoing",
+  "description": "Excerpts from \"Ongoing\" a collaborative creation by Kyle Syverson and myself, drawing inspiration from the persistent issue of genocide. Thanks to Dance Saskatchewan for their funding.",
+  "shortDescription": "Excerpts from 'Ongoing,' a collaborative creation by Kyle Syverson and myself, drawing inspiration from the persistent issue of genocide. Thanks to Dance Saskatchewan for their funding.",
+  "featuredImageUrl": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65a48b11736b28bebad3b93b_Screenshot%202024-01-14%20at%207.30.40%20PM.png",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-01-15T01:32:28+00:00",
+  "updatedOn": "2025-07-20T00:02:09+00:00",
+  "publishedOn": "2025-07-20T00:02:09+00:00",
+  "categoryData": {
+    "danceVideoUrl": "https://vimeo.com/939283500",
+    "videoProvider": "vimeo",
+    "videoId": "939283500"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+    "originalFolder": "collections/portfolio-dances/ongoing",
+    "webflowCollectionId": "65a47faadc1efbe190055673",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "65a48b2cf0fb75ff65c189c5"
+  },
+  "originalData": {
+    "Name": "Excerpts from \"Ongoing\"",
+    "Slug": "ongoing",
+    "Collection ID": "65a47faadc1efbe190055673",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "65a48b2cf0fb75ff65c189c5",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Jan 15 2024 01:32:28 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sun Jul 20 2025 00:02:09 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sun Jul 20 2025 00:02:09 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/65a48b11736b28bebad3b93b_Screenshot%202024-01-14%20at%207.30.40%20PM.png",
+    "Header": "Ongoing",
+    "Description": "Excerpts from \"Ongoing\" a collaborative creation by Kyle Syverson and myself, drawing inspiration from the persistent issue of genocide. Thanks to Dance Saskatchewan for their funding.",
+    "Short Description": "Excerpts from 'Ongoing,' a collaborative creation by Kyle Syverson and myself, drawing inspiration from the persistent issue of genocide. Thanks to Dance Saskatchewan for their funding.",
+    "Dance Video Link": "https://vimeo.com/939283500",
+    "Highlight?": "false"
+  }
+}

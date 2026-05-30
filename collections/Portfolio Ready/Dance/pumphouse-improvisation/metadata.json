@@ -1,0 +1,47 @@
+{
+  "title": "Pumphouse Improvisation",
+  "slug": "pumphouse-improvisation",
+  "portfolioCategory": "Dance",
+  "sourceCollection": "portfolio-dances",
+  "header": null,
+  "description": null,
+  "shortDescription": "Preparation for a performance.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66366f6e10e6a69746c53107_IMG_69866.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-05-04T02:22:59+00:00",
+  "updatedOn": "2024-05-25T03:34:28+00:00",
+  "publishedOn": "2024-05-25T03:34:32+00:00",
+  "categoryData": {
+    "danceVideoUrl": "https://vimeo.com/942551191",
+    "videoProvider": "vimeo",
+    "videoId": "942551191"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+    "originalFolder": "collections/portfolio-dances/pumphouse-improvisation",
+    "webflowCollectionId": "65a47faadc1efbe190055673",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "66359c035600b63c4c669490"
+  },
+  "originalData": {
+    "Name": "Pumphouse improvisation ",
+    "Slug": "pumphouse-improvisation",
+    "Collection ID": "65a47faadc1efbe190055673",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66359c035600b63c4c669490",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Sat May 04 2024 02:22:59 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat May 25 2024 03:34:28 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sat May 25 2024 03:34:32 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66366f6e10e6a69746c53107_IMG_69866.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Preparation for a performance. ",
+    "Dance Video Link": "https://vimeo.com/942551191",
+    "Highlight?": "false"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Black Bird",
+  "slug": "black-bird",
+  "portfolioCategory": "Visual Art",
+  "sourceCollection": "portfolio-visual-arts",
+  "header": null,
+  "description": null,
+  "shortDescription": "Oil painting.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da0be2aa4bc713813b176_RNI-Films-IMG-67230052-6D6A-4E62-B007-FA2676FEC341%202.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-15T21:48:58+00:00",
+  "updatedOn": "2024-04-24T03:32:23+00:00",
+  "publishedOn": "2024-04-24T03:32:34+00:00",
+  "categoryData": {
+    "details": null,
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/black-bird",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "661da0caf2bdb4bb341fb382"
+  },
+  "originalData": {
+    "Name": "Black bird.",
+    "Slug": "black-bird",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661da0caf2bdb4bb341fb382",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 21:48:58 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:32:23 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661da0be2aa4bc713813b176_RNI-Films-IMG-67230052-6D6A-4E62-B007-FA2676FEC341%202.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Oil painting. ",
+    "Details": "",
+    "Image Gallery": "",
+    "Highlight": "false"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Somatic Flow",
+  "slug": "somatic-flow",
+  "portfolioCategory": "Dance",
+  "sourceCollection": "portfolio-dances",
+  "header": "Somatic Flow",
+  "description": null,
+  "shortDescription": "Improvisation inspired by the sensation of the fall nature.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48ea3e9466c32bd09a7f4_Screenshot%202024-01-14%20at%207.46.30%20PM.png",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-01-15T01:47:16+00:00",
+  "updatedOn": "2024-04-25T19:59:51+00:00",
+  "publishedOn": "2024-04-25T20:00:15+00:00",
+  "categoryData": {
+    "danceVideoUrl": "https://vimeo.com/902816827",
+    "videoProvider": "vimeo",
+    "videoId": "902816827"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+    "originalFolder": "collections/portfolio-dances/somatic-flow",
+    "webflowCollectionId": "65a47faadc1efbe190055673",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "65a48ea4df2123b0637f3d7c"
+  },
+  "originalData": {
+    "Name": "Somatic Flow",
+    "Slug": "somatic-flow",
+    "Collection ID": "65a47faadc1efbe190055673",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "65a48ea4df2123b0637f3d7c",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Jan 15 2024 01:47:16 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Thu Apr 25 2024 19:59:51 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Thu Apr 25 2024 20:00:15 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/65a48ea3e9466c32bd09a7f4_Screenshot%202024-01-14%20at%207.46.30%20PM.png",
+    "Header": "Somatic Flow",
+    "Description": "",
+    "Short Description": "Improvisation inspired by the sensation of the fall nature.",
+    "Dance Video Link": "https://vimeo.com/902816827",
+    "Highlight?": "false"
+  }
+}

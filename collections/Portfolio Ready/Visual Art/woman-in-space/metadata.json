@@ -1,0 +1,51 @@
+{
+  "title": "Woman in Space",
+  "slug": "woman-in-space",
+  "portfolioCategory": "Visual Art",
+  "sourceCollection": "portfolio-visual-arts",
+  "header": null,
+  "description": null,
+  "shortDescription": "Digital painting, made on photoshop with drawing tablet.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bdfff722a84d07d6977b_girl%20space.jpg",
+  "galleryUrls": [
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd67c0c401c64e523571_IMG_6627.jpg",
+    "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd95d60796992e4519f6_IMG_6578.jpg"
+  ],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-19T18:55:01+00:00",
+  "updatedOn": "2024-04-24T03:29:50+00:00",
+  "publishedOn": "2024-04-24T03:32:34+00:00",
+  "categoryData": {
+    "details": "<p>Art made for a clothing brand, Psych. </p>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/woman-in-space",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "6622be05c0c401c64e52f1b1"
+  },
+  "originalData": {
+    "Name": "Woman in space.",
+    "Slug": "woman-in-space",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "6622be05c0c401c64e52f1b1",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Fri Apr 19 2024 18:55:01 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:29:50 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bdfff722a84d07d6977b_girl%20space.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Digital painting, made on photoshop with drawing tablet. ",
+    "Details": "<p>Art made for a clothing brand, Psych. </p>",
+    "Image Gallery": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd67c0c401c64e523571_IMG_6627.jpg; https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/6622bd95d60796992e4519f6_IMG_6578.jpg",
+    "Highlight": "false"
+  }
+}

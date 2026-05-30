@@ -1,0 +1,49 @@
+{
+  "title": "Threaded Figures",
+  "slug": "threaded-figures",
+  "portfolioCategory": "Visual Art",
+  "sourceCollection": "portfolio-graphic-designs",
+  "header": null,
+  "description": null,
+  "shortDescription": "Illustrations.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66295fbf39ff33dfa8b34cb7_patterns-03.png",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T19:39:18+00:00",
+  "updatedOn": "2024-04-24T19:39:18+00:00",
+  "publishedOn": "2024-04-24T19:39:24+00:00",
+  "categoryData": {
+    "details": "<p>Created with adobe Illustrator. </p><ol start=\"2020\"><li>‍</li></ol>",
+    "designFileUrl": null,
+    "medium": "Graphic Design"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Graphic_Designs_65a4abef635069142e270c4a---150aff2a-f450-4873-8d28-7978913dce86.csv",
+    "originalFolder": "collections/portfolio-graphic-designs/threaded-figures",
+    "webflowCollectionId": "65a4abef635069142e270c4a",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "66295fe6f40a692e76d5226b"
+  },
+  "originalData": {
+    "Name": "Threaded figures. ",
+    "Slug": "threaded-figures",
+    "Collection ID": "65a4abef635069142e270c4a",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66295fe6f40a692e76d5226b",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 19:39:18 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 19:39:18 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 19:39:24 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66295fbf39ff33dfa8b34cb7_patterns-03.png",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Illustrations. ",
+    "Details": "<p>Created with adobe Illustrator. </p><ol start=\"2020\"><li>‍</li></ol>",
+    "Design File (PDF)": "",
+    "Image Gallery": "",
+    "Highlight": "false"
+  }
+}

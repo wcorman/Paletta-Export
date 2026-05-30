@@ -1,0 +1,48 @@
+{
+  "title": "Aswan Still Life",
+  "slug": "aswan-still-life",
+  "portfolioCategory": "Visual Art",
+  "sourceCollection": "portfolio-visual-arts",
+  "header": null,
+  "description": null,
+  "shortDescription": "Aquarelle painting",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661db09016c4cd87451395f9_IMG_6554.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-15T22:56:46+00:00",
+  "updatedOn": "2024-04-15T22:56:46+00:00",
+  "publishedOn": "2024-04-15T22:57:48+00:00",
+  "categoryData": {
+    "details": "<p id=\"\">Aquarelle painting</p><p id=\"\">2020</p>",
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/aswan-still-life",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "661db0ae559361f5efae365e"
+  },
+  "originalData": {
+    "Name": "Aswan still life ",
+    "Slug": "aswan-still-life",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661db0ae559361f5efae365e",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 22:56:46 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 22:56:46 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 22:57:48 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661db09016c4cd87451395f9_IMG_6554.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Aquarelle painting ",
+    "Details": "<p id=\"\">Aquarelle painting</p><p id=\"\">2020</p>",
+    "Image Gallery": "",
+    "Highlight": "false"
+  }
+}

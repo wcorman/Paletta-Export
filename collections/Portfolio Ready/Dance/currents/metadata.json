@@ -1,0 +1,47 @@
+{
+  "title": "Currents",
+  "slug": "currents",
+  "portfolioCategory": "Dance",
+  "sourceCollection": "portfolio-dances",
+  "header": null,
+  "description": "\"Currents\" is a contemporary dance piece that delves into the intricate relationship dynamics and collective human experience, inspired by the gravitational pulls and celestial forces that shape our lives. This performance explores the weight of existence, the rebound of emotions, and the surrender to life's currents, much like the wind carries us through calm and storm.",
+  "shortDescription": "Co-created by Anne Neudorf and Rawda Mabrouk",
+  "featuredImageUrl": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6879699c986ae43de731a5e2_RNI-Films-IMG-3D281C8A-0F37-4AEB-A12E-2510139598C5_11zon.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2025-07-17T21:23:01+00:00",
+  "updatedOn": "2025-07-19T23:59:11+00:00",
+  "publishedOn": "2025-07-19T23:59:11+00:00",
+  "categoryData": {
+    "danceVideoUrl": "https://vimeo.com/1102331936?share=copy",
+    "videoProvider": "vimeo",
+    "videoId": "1102331936"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Dances_-_65a47faadc1efbe190055673---1a719687-ae42-4039-adaa-a8759d275139.csv",
+    "originalFolder": "collections/portfolio-dances/currents",
+    "webflowCollectionId": "65a47faadc1efbe190055673",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "687969b5c42749b4979fd12c"
+  },
+  "originalData": {
+    "Name": "Currents",
+    "Slug": "currents",
+    "Collection ID": "65a47faadc1efbe190055673",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "687969b5c42749b4979fd12c",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Thu Jul 17 2025 21:23:01 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sat Jul 19 2025 23:59:11 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sat Jul 19 2025 23:59:11 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://cdn.prod.website-files.com/6593930a237f27f93f2dd6c8/6879699c986ae43de731a5e2_RNI-Films-IMG-3D281C8A-0F37-4AEB-A12E-2510139598C5_11zon.jpg",
+    "Header": "",
+    "Description": "\"Currents\" is a contemporary dance piece that delves into the intricate relationship dynamics and collective human experience, inspired by the gravitational pulls and celestial forces that shape our lives. This performance explores the weight of existence, the rebound of emotions, and the surrender to life's currents, much like the wind carries us through calm and storm. ",
+    "Short Description": "Co-created by Anne Neudorf and Rawda Mabrouk ",
+    "Dance Video Link": "https://vimeo.com/1102331936?share=copy",
+    "Highlight?": "false"
+  }
+}

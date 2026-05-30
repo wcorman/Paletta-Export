@@ -1,0 +1,48 @@
+{
+  "title": "Rooted in Spirits",
+  "slug": "rooted-in-spirits",
+  "portfolioCategory": "Visual Art",
+  "sourceCollection": "portfolio-visual-arts",
+  "header": null,
+  "description": null,
+  "shortDescription": null,
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286b6886a2013838ead967_IMG_7438.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-24T02:17:31+00:00",
+  "updatedOn": "2024-04-24T03:29:12+00:00",
+  "publishedOn": "2024-04-24T03:32:34+00:00",
+  "categoryData": {
+    "details": null,
+    "designFileUrl": null,
+    "medium": "Visual Art"
+  },
+  "migration": {
+    "sourceCsv": "Paletta_-_Portfolio_-_Visual_Arts_-_661d7849320458d0bc1d5d9e---d62c4768-b49e-443e-947b-e17903055499.csv",
+    "originalFolder": "collections/portfolio-visual-arts/rooted-in-spirits",
+    "webflowCollectionId": "661d7849320458d0bc1d5d9e",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "66286bbb67357c3465b39b7b"
+  },
+  "originalData": {
+    "Name": "Rooted in Spirits.",
+    "Slug": "rooted-in-spirits",
+    "Collection ID": "661d7849320458d0bc1d5d9e",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "66286bbb67357c3465b39b7b",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Wed Apr 24 2024 02:17:31 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Wed Apr 24 2024 03:29:12 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Wed Apr 24 2024 03:32:34 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/66286b6886a2013838ead967_IMG_7438.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "",
+    "Details": "",
+    "Image Gallery": "",
+    "Highlight": "false"
+  }
+}

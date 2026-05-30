@@ -1,0 +1,48 @@
+{
+  "title": "Ratan Side Table",
+  "slug": "ratan-side-table",
+  "portfolioCategory": "Interior Design",
+  "sourceCollection": "portfolio-furniture-designs",
+  "header": null,
+  "description": null,
+  "shortDescription": "Created while working at Hala Imam Design Studio.",
+  "featuredImageUrl": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dacfe84ea745a46aa33b8_IMG_6543.jpg",
+  "galleryUrls": [],
+  "highlight": false,
+  "archived": false,
+  "draft": false,
+  "createdOn": "2024-04-15T22:41:54+00:00",
+  "updatedOn": "2024-04-15T22:41:54+00:00",
+  "publishedOn": "2024-04-15T22:42:58+00:00",
+  "categoryData": {
+    "details": null,
+    "projectType": "Furniture Design",
+    "materials": []
+  },
+  "migration": {
+    "sourceCsv": "Paletta_Portfolio_Furniture_Designs_661d77f5be82696294d14c6b---aa4edbfd-2471-4282-851c-61e1e5eef48e.csv",
+    "originalFolder": "collections/portfolio-furniture-designs/ratan-side-table",
+    "webflowCollectionId": "661d77f5be82696294d14c6b",
+    "webflowLocaleId": "659a138155ab821f566b9e65",
+    "webflowItemId": "661dad320b482e823dbe7d81"
+  },
+  "originalData": {
+    "Name": "Ratan side table",
+    "Slug": "ratan-side-table",
+    "Collection ID": "661d77f5be82696294d14c6b",
+    "Locale ID": "659a138155ab821f566b9e65",
+    "Item ID": "661dad320b482e823dbe7d81",
+    "Archived": "false",
+    "Draft": "false",
+    "Created On": "Mon Apr 15 2024 22:41:54 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Mon Apr 15 2024 22:41:54 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Mon Apr 15 2024 22:42:58 GMT+0000 (Coordinated Universal Time)",
+    "Main Image": "https://uploads-ssl.webflow.com/6593930a237f27f93f2dd6c8/661dacfe84ea745a46aa33b8_IMG_6543.jpg",
+    "Header": "",
+    "Description": "",
+    "Short Description": "Created while working at Hala Imam Design Studio. ",
+    "Details": "",
+    "Image Gallery": "",
+    "Highlight?": "false"
+  }
+}
