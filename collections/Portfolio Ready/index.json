@@ -1,0 +1,807 @@
+[
+  {
+    "title": "Choreography by Lindsay Harpham",
+    "slug": "choreography-by-lindsay-harpham",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/choreography-by-lindsay-harpham"
+  },
+  {
+    "title": "Currents",
+    "slug": "currents",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/currents"
+  },
+  {
+    "title": "Depths of Grief",
+    "slug": "deaths-of-grief",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/deaths-of-grief"
+  },
+  {
+    "title": "Excerpts from \"In The Desert\"",
+    "slug": "in-the-desert",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/in-the-desert"
+  },
+  {
+    "title": "Excerpts from \"Meaning Of Words\" by Graham Mckelvie",
+    "slug": "excerpts-from-meaning-of-words-by-graham-mckelvie",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/excerpts-from-meaning-of-words-by-graham-mckelvie"
+  },
+  {
+    "title": "Excerpts from \"Ongoing\"",
+    "slug": "ongoing",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/ongoing"
+  },
+  {
+    "title": "Excerpts from \"Patterns\"",
+    "slug": "excerpts-from-patterns",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/excerpts-from-patterns"
+  },
+  {
+    "title": "Excerpts from \"The Journey\"",
+    "slug": "the-journey",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/the-journey"
+  },
+  {
+    "title": "Excerpts from \"The Journey\" on canvas",
+    "slug": "excerpts-from-the-journey-on-canvas",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/excerpts-from-the-journey-on-canvas"
+  },
+  {
+    "title": "Improv with history",
+    "slug": "improv-with-history",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/improv-with-history"
+  },
+  {
+    "title": "Lost In The Rhythm Of The Woods.",
+    "slug": "lost-in-the-rhythm-of-the-woods",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/lost-in-the-rhythm-of-the-woods"
+  },
+  {
+    "title": "Pumphouse improvisation",
+    "slug": "pumphouse-improvisation",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/pumphouse-improvisation"
+  },
+  {
+    "title": "Somatic Flow",
+    "slug": "somatic-flow",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/somatic-flow"
+  },
+  {
+    "title": "Somatic Movement Improvisation",
+    "slug": "somatic-movement-improvisation",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/somatic-movement-improvisation"
+  },
+  {
+    "title": "Sunset dance",
+    "slug": "sunset-dance",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/sunset-dance"
+  },
+  {
+    "title": "Teacher Feature at Aspire Dance School",
+    "slug": "teacher-feature-at-aspire-dance-school",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/teacher-feature-at-aspire-dance-school"
+  },
+  {
+    "title": "Trauma vs Obstacles",
+    "slug": "trauma-vs-obstacles",
+    "portfolioCategory": "Dance",
+    "sourceCollection": "portfolio-dances",
+    "folderPath": "collections/Portfolio Ready/Dance/trauma-vs-obstacles"
+  },
+  {
+    "title": "A 30-year-old shoe cabinet was revitalized.",
+    "slug": "oldshoecabinet",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "projects",
+    "folderPath": "collections/Portfolio Ready/Interior Design/oldshoecabinet"
+  },
+  {
+    "title": "Al Hashem Residence",
+    "slug": "al-hashem-residence",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-stylings",
+    "folderPath": "collections/Portfolio Ready/Interior Design/al-hashem-residence"
+  },
+  {
+    "title": "Apartment rennovation",
+    "slug": "apartment-rennovation",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-interior-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/apartment-rennovation"
+  },
+  {
+    "title": "Bathroom cabinet.",
+    "slug": "bathroom-cabinet",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/bathroom-cabinet"
+  },
+  {
+    "title": "Beach house at Al Gouna, Red Sea",
+    "slug": "living-room-two",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-interior-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/living-room-two"
+  },
+  {
+    "title": "Bedroom design.",
+    "slug": "bedroom-design",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/bedroom-design"
+  },
+  {
+    "title": "Classic Revival",
+    "slug": "reupholstered-antique-chair",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "projects",
+    "folderPath": "collections/Portfolio Ready/Interior Design/reupholstered-antique-chair"
+  },
+  {
+    "title": "Connected cabinets.",
+    "slug": "connected-cabinets",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/connected-cabinets"
+  },
+  {
+    "title": "Cushions",
+    "slug": "cushions",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-product-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/cushions"
+  },
+  {
+    "title": "Customized Shoe Rack",
+    "slug": "customized-shoe-rack",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "projects",
+    "folderPath": "collections/Portfolio Ready/Interior Design/customized-shoe-rack"
+  },
+  {
+    "title": "Dinning table and buffet design.",
+    "slug": "dinning-table-and-buffet-design",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/dinning-table-and-buffet-design"
+  },
+  {
+    "title": "Dinning table, low stools and bench.",
+    "slug": "dinning-table-low-stools-and-bench",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/dinning-table-low-stools-and-bench"
+  },
+  {
+    "title": "Dinning table.",
+    "slug": "dinning-table",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/dinning-table"
+  },
+  {
+    "title": "Divider.",
+    "slug": "divider",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/divider"
+  },
+  {
+    "title": "Door Design.",
+    "slug": "door-design",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/door-design"
+  },
+  {
+    "title": "El Hamamy Residence",
+    "slug": "el-hamamy-residence",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-stylings",
+    "folderPath": "collections/Portfolio Ready/Interior Design/el-hamamy-residence"
+  },
+  {
+    "title": "Energy cleansing wall hanger",
+    "slug": "energy-cleansing-wall-hanger",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-product-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/energy-cleansing-wall-hanger"
+  },
+  {
+    "title": "Entrance furniture.",
+    "slug": "entrance-furniture",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/entrance-furniture"
+  },
+  {
+    "title": "Farm villa",
+    "slug": "living-room-one",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-interior-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/living-room-one"
+  },
+  {
+    "title": "Full length Mirror.",
+    "slug": "full-length-mirror",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/full-length-mirror"
+  },
+  {
+    "title": "Game designs.",
+    "slug": "games-design",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-product-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/games-design"
+  },
+  {
+    "title": "Game Lounge Design",
+    "slug": "game-lounge-design",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "projects",
+    "folderPath": "collections/Portfolio Ready/Interior Design/game-lounge-design"
+  },
+  {
+    "title": "Grounded Bedroom Set",
+    "slug": "grounded-bedroom-set",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "projects",
+    "folderPath": "collections/Portfolio Ready/Interior Design/grounded-bedroom-set"
+  },
+  {
+    "title": "Home accessories",
+    "slug": "home-accessories",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-product-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/home-accessories"
+  },
+  {
+    "title": "Interior and Furniture Design for a studio apartment in New Cairo.",
+    "slug": "studio-al-nakhil-projects",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "projects",
+    "folderPath": "collections/Portfolio Ready/Interior Design/studio-al-nakhil-projects"
+  },
+  {
+    "title": "Interior design and customized furniture design for various areas within the studio.",
+    "slug": "studio-al-mokattam-projects",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "projects",
+    "folderPath": "collections/Portfolio Ready/Interior Design/studio-al-mokattam-projects"
+  },
+  {
+    "title": "Lighting units",
+    "slug": "lighting-unit",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-product-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/lighting-unit"
+  },
+  {
+    "title": "Office Mirrors",
+    "slug": "office-mirrors",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/office-mirrors"
+  },
+  {
+    "title": "Ratan buffet.",
+    "slug": "ratan-buffet",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/ratan-buffet"
+  },
+  {
+    "title": "Ratan side table",
+    "slug": "ratan-side-table",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/ratan-side-table"
+  },
+  {
+    "title": "Side table",
+    "slug": "side-table-3",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/side-table-3"
+  },
+  {
+    "title": "Side table",
+    "slug": "side-table-4",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/side-table-4"
+  },
+  {
+    "title": "Side table.",
+    "slug": "side-table",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/side-table"
+  },
+  {
+    "title": "Side table.",
+    "slug": "side-table-2",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/side-table-2"
+  },
+  {
+    "title": "Studio Al Mokattam",
+    "slug": "studio-al-mokattam",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-interior-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/studio-al-mokattam"
+  },
+  {
+    "title": "Studio Al Nakhil",
+    "slug": "studio-al-nakhil",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-interior-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/studio-al-nakhil"
+  },
+  {
+    "title": "Tv unit and coffee table.",
+    "slug": "tv-unit",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/tv-unit"
+  },
+  {
+    "title": "Tv unit/dresser",
+    "slug": "tv-unit-dresser",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "portfolio-furniture-designs",
+    "folderPath": "collections/Portfolio Ready/Interior Design/tv-unit-dresser"
+  },
+  {
+    "title": "We acquired an 80-year-old mirror from an antique collector.",
+    "slug": "vintage-mirror",
+    "portfolioCategory": "Interior Design",
+    "sourceCollection": "projects",
+    "folderPath": "collections/Portfolio Ready/Interior Design/vintage-mirror"
+  },
+  {
+    "title": "3D Abstract paintings.",
+    "slug": "plaster-art",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/plaster-art"
+  },
+  {
+    "title": "Abstract flower.",
+    "slug": "abstract-flower-inspired",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/abstract-flower-inspired"
+  },
+  {
+    "title": "Abstract painting on wood canvas.",
+    "slug": "abstract-painting-on-wood-canvas",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/abstract-painting-on-wood-canvas"
+  },
+  {
+    "title": "Afro.",
+    "slug": "afro",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/afro"
+  },
+  {
+    "title": "Alexandria street",
+    "slug": "alexandria-street",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/alexandria-street"
+  },
+  {
+    "title": "Aswan still life",
+    "slug": "aswan-still-life",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/aswan-still-life"
+  },
+  {
+    "title": "Beach loving.",
+    "slug": "beach-loving",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/beach-loving"
+  },
+  {
+    "title": "Beer Stella",
+    "slug": "beer-stella",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/beer-stella"
+  },
+  {
+    "title": "Black bird.",
+    "slug": "black-bird",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/black-bird"
+  },
+  {
+    "title": "Black forest.",
+    "slug": "black-forest",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/black-forest"
+  },
+  {
+    "title": "Black Lives Matter",
+    "slug": "black-lives-matter",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/black-lives-matter"
+  },
+  {
+    "title": "Black magic woman.",
+    "slug": "black-magic-woman",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/black-magic-woman"
+  },
+  {
+    "title": "Blending in the desert.",
+    "slug": "blending-in-the-desert",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/blending-in-the-desert"
+  },
+  {
+    "title": "Collage art.",
+    "slug": "collage-art",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/collage-art"
+  },
+  {
+    "title": "Corona time",
+    "slug": "corona-time",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/corona-time"
+  },
+  {
+    "title": "Deli Mart",
+    "slug": "deli-mart",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/deli-mart"
+  },
+  {
+    "title": "Ducky duck",
+    "slug": "ducky-duck",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/ducky-duck"
+  },
+  {
+    "title": "Egyptian goddess.",
+    "slug": "egyptian-goddess",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/egyptian-goddess"
+  },
+  {
+    "title": "Einstein visuals.",
+    "slug": "einstein-visuals",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/einstein-visuals"
+  },
+  {
+    "title": "Enlightenment.",
+    "slug": "enlightenment",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/enlightenment"
+  },
+  {
+    "title": "Eye wave.",
+    "slug": "eye-wave",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/eye-wave"
+  },
+  {
+    "title": "Eyes can speak.",
+    "slug": "eyes-can-speak",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/eyes-can-speak"
+  },
+  {
+    "title": "Figures",
+    "slug": "figures",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/figures"
+  },
+  {
+    "title": "Flourish",
+    "slug": "flourish",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/flourish"
+  },
+  {
+    "title": "Forest magic.",
+    "slug": "forest-magic",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/forest-magic"
+  },
+  {
+    "title": "Golden hour.",
+    "slug": "golden-hour",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/golden-hour"
+  },
+  {
+    "title": "Ice Cream Munroe",
+    "slug": "ice-cream-munroe",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/ice-cream-munroe"
+  },
+  {
+    "title": "International women's day",
+    "slug": "international-womens-day",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/international-womens-day"
+  },
+  {
+    "title": "Keep the energy flowing",
+    "slug": "keep-the-energy-flowing",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/keep-the-energy-flowing"
+  },
+  {
+    "title": "Logo designs",
+    "slug": "logo-designs",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/logo-designs"
+  },
+  {
+    "title": "Lost in the desert.",
+    "slug": "lost-in-the-desert",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/lost-in-the-desert"
+  },
+  {
+    "title": "Love.",
+    "slug": "sunset-love",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/sunset-love"
+  },
+  {
+    "title": "Magical mountains.",
+    "slug": "magical-mountains",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/magical-mountains"
+  },
+  {
+    "title": "Mountain view.",
+    "slug": "mountain-view",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/mountain-view"
+  },
+  {
+    "title": "Nambia.",
+    "slug": "nambia",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/nambia"
+  },
+  {
+    "title": "Nature Visualization",
+    "slug": "nature-visualization",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/nature-visualization"
+  },
+  {
+    "title": "Over the window I.",
+    "slug": "over-the-window",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/over-the-window"
+  },
+  {
+    "title": "Over the window II.",
+    "slug": "over-the-window-ii",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/over-the-window-ii"
+  },
+  {
+    "title": "Portraits",
+    "slug": "portraits",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/portraits"
+  },
+  {
+    "title": "Reflections",
+    "slug": "reflections",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/reflections"
+  },
+  {
+    "title": "Retro",
+    "slug": "retro",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/retro"
+  },
+  {
+    "title": "Rooted in Spirits.",
+    "slug": "rooted-in-spirits",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/rooted-in-spirits"
+  },
+  {
+    "title": "Safety.",
+    "slug": "sunset-magic",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/sunset-magic"
+  },
+  {
+    "title": "Serenity.",
+    "slug": "serenity",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/serenity"
+  },
+  {
+    "title": "Shore.",
+    "slug": "shore",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/shore"
+  },
+  {
+    "title": "Sierra",
+    "slug": "sierra",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/sierra"
+  },
+  {
+    "title": "Soul dance painting.",
+    "slug": "soul-dance-painting",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/soul-dance-painting"
+  },
+  {
+    "title": "Still life at Aswan, Egypt.",
+    "slug": "still-life-at-aswan-egypt",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/still-life-at-aswan-egypt"
+  },
+  {
+    "title": "Still life at Nuweiba, Sinai, Egypt.",
+    "slug": "still-life-at-nuweiba-sinai-egypt",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/still-life-at-nuweiba-sinai-egypt"
+  },
+  {
+    "title": "Still life at Nuweiba, Sinai.",
+    "slug": "still-life-at-nuweiba-sinai",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/still-life-at-nuweiba-sinai"
+  },
+  {
+    "title": "Still life at Nuweiba, Sinai.",
+    "slug": "still-life-at-nuweiba-sinai-2",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/still-life-at-nuweiba-sinai-2"
+  },
+  {
+    "title": "Still life at Nuweiba, Sinai.",
+    "slug": "still-life-at-nuweiba-sinai-3",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/still-life-at-nuweiba-sinai-3"
+  },
+  {
+    "title": "Still life in Saskatoon.",
+    "slug": "still-life-in-saskatoon",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/still-life-in-saskatoon"
+  },
+  {
+    "title": "Still life painting.",
+    "slug": "still-life-painting",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/still-life-painting"
+  },
+  {
+    "title": "Sunset still life painting.",
+    "slug": "sunset-still-life-painting",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/sunset-still-life-painting"
+  },
+  {
+    "title": "Threaded figures.",
+    "slug": "threaded-figures",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/threaded-figures"
+  },
+  {
+    "title": "Unicorn Gardens",
+    "slug": "unicorn-gardens",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/unicorn-gardens"
+  },
+  {
+    "title": "Woman in space.",
+    "slug": "woman-in-space",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-visual-arts",
+    "folderPath": "collections/Portfolio Ready/Visual Art/woman-in-space"
+  },
+  {
+    "title": "Zebra Visuals",
+    "slug": "zebra-visuals",
+    "portfolioCategory": "Visual Art",
+    "sourceCollection": "portfolio-graphic-designs",
+    "folderPath": "collections/Portfolio Ready/Visual Art/zebra-visuals"
+  }
+]
